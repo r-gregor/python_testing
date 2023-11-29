@@ -1,0 +1,26 @@
+gregor.redelonghi@cygwin-en ~/PYTHON_en_testing/pn071_movies_database_sqlite_20210318
+$> ./db_print_all.py
+[('Conan the Barbarian', 1996), ('STAR WARS', 1970), ('STAR WARS III', 1973), ('The Scarry Movie', 2000), ('THING', 1998), ('Mandalorian', 2021), ('The Other Side', 2000), ('The Blind Side', 2000), ('Hasta La vista Baby!', 2019), ('Gimme your BEST!', 2000)]
+[('The Scarry Movie', 2000), ('The Other Side', 2000), ('The Blind Side', 2000), ('Gimme your BEST!', 2000)]
+gregor.redelonghi@cygwin-en ~/PYTHON_en_testing/pn071_movies_database_sqlite_20210318
+$> py
+Python 3.8.2 (default, Apr  9 2020, 21:39:49)
+[GCC 9.3.0] on cygwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import sqlite3
+>>> db = sqlite.connect('movie_database.db')
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'sqlite' is not defined
+>>> db = sqlite3.connect('movie_database.db')
+>>> c = db.cursor()
+>>> print(c.execute("SELECT * FROM movies WHERE title like '%STAR%'").fetchall())
+[('STAR WARS', 1970), ('STAR WARS III', 1973)]
+>>> print(c.execute("SELECT * FROM movies WHERE title like 'STAR'").fetchall())
+[]
+>>> print(c.execute("SELECT * FROM movies WHERE title LIKE '%SIDE%'").fetchall())
+[('The Other Side', 2000), ('The Blind Side', 2000)]
+>>>
+>>> c.close()
+>>> db.close()
+

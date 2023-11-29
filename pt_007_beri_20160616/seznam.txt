@@ -1,0 +1,6 @@
+/home/gregor.redelonghi/.bashrc
+/home/forallusers/funclist
+/c/Users/gregor.redelonghi/youtube-dl.exe
+c:/Users/gregor.redelonghi/youtube-dl.exe
+/h/vhodno-izhodna_posta.txt
+/h/CNG_DOLGI_MOST_SKUPAJ_I_popr-20160212.xls

@@ -1,0 +1,181 @@
+Script started on Wed, Dec 13, 2017 12:55:10 PM
+gregor.redelonghi @ PC-GREDELONGHI $> yes  | python3 min_heap.py
+
+Numbers heap H
+
+               0
+       +---------------+
+       |               |
+       1               2
+   +-------+       +-------+ 
+   |       |       |       |
+   3       4       5       6
+ +---+   +---+   +---+   +---+  
+ |   |   |   |   |   |   |   |   
+ 7   8   9  10  11   12  13  14
+
+
+Letters heap H
+
+               A
+       +---------------+
+       |               |
+       B               C
+   +-------+       +-------+ 
+   |       |       |       |
+   D       E       F       G
+ +---+   +---+   +---+   +---+  
+ |   |   |   |   |   |   |   |   
+ H   I   J   K   L   M   N   O
+
+
+Numbers heap:
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+
+Letters heap:
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O']
+
+Continue?
+Numbers heap - node: 0.
+The ROOT node: NO PARENT!
+The LEFT child is: 1.
+The RIGHT child is: 2.
+
+Numbers heap - node: 1.
+The parent is: 0.
+The LEFT child is: 3.
+The RIGHT child is: 4.
+
+Numbers heap - node: 2.
+The parent is: 0.
+The LEFT child is: 5.
+The RIGHT child is: 6.
+
+Numbers heap - node: 3.
+The parent is: 1.
+The LEFT child is: 7.
+The RIGHT child is: 8.
+
+Numbers heap - node: 4.
+The parent is: 1.
+The LEFT child is: 9.
+The RIGHT child is: 10.
+
+Numbers heap - node: 5.
+The parent is: 2.
+The LEFT child is: 11.
+The RIGHT child is: 12.
+
+Numbers heap - node: 6.
+The parent is: 2.
+The LEFT child is: 13.
+The RIGHT child is: 14.
+
+Numbers heap - node: 7.
+The parent is: 3.
+No child. Leaf node!
+
+Numbers heap - node: 8.
+The parent is: 3.
+No child. Leaf node!
+
+Numbers heap - node: 9.
+The parent is: 4.
+No child. Leaf node!
+
+Numbers heap - node: 10.
+The parent is: 4.
+No child. Leaf node!
+
+Numbers heap - node: 11.
+The parent is: 5.
+No child. Leaf node!
+
+Numbers heap - node: 12.
+The parent is: 5.
+No child. Leaf node!
+
+Numbers heap - node: 13.
+The parent is: 6.
+No child. Leaf node!
+
+Numbers heap - node: 14.
+The parent is: 6.
+No child. Leaf node!
+
+
+Letters heap - node: A.
+The ROOT node: NO PARENT!
+The LEFT child is: B.
+The RIGHT child is: C.
+
+Letters heap - node: B.
+The parent is: A.
+The LEFT child is: D.
+The RIGHT child is: E.
+
+Letters heap - node: C.
+The parent is: A.
+The LEFT child is: F.
+The RIGHT child is: G.
+
+Letters heap - node: D.
+The parent is: B.
+The LEFT child is: H.
+The RIGHT child is: I.
+
+Letters heap - node: E.
+The parent is: B.
+The LEFT child is: J.
+The RIGHT child is: K.
+
+Letters heap - node: F.
+The parent is: C.
+The LEFT child is: L.
+The RIGHT child is: M.
+
+Letters heap - node: G.
+The parent is: C.
+The LEFT child is: N.
+The RIGHT child is: O.
+
+Letters heap - node: H.
+The parent is: D.
+No child. Leaf node!
+
+Letters heap - node: I.
+The parent is: D.
+No child. Leaf node!
+
+Letters heap - node: J.
+The parent is: E.
+No child. Leaf node!
+
+Letters heap - node: K.
+The parent is: E.
+No child. Leaf node!
+
+Letters heap - node: L.
+The parent is: F.
+No child. Leaf node!
+
+Letters heap - node: M.
+The parent is: F.
+No child. Leaf node!
+
+Letters heap - node: N.
+The parent is: G.
+No child. Leaf node!
+
+Letters heap - node: O.
+The parent is: G.
+No child. Leaf node!
+
+gregor.redelonghi @ PC-GREDELONGHI $> pwd
+/home/gregor.redelonghi/majstaf/coding/PYTHON_en/PYTHON_en_testing/heap_20171206
+gregor.redelonghi @ PC-GREDELONGHI $> cd
+gregor.redelonghi @ PC-GREDELONGHI $> pwd
+/home/gregor.redelonghi
+gregor.redelonghi @ PC-GREDELONGHI $> exit
+
+Script done on Wed, Dec 13, 2017 12:56:10 PM

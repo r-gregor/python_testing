@@ -1,0 +1,27 @@
+find_files_by_words_in_name --> fndf_bw.py
+
+fndf_bw [-a --and, -o --or, -h --help] word1 word2 word3 ...
+
+if no argumenst:
+    error
+    usage
+    exit
+    
+if arguments_num > 1:
+    if options_num == 0:
+        error
+        help
+        exit
+
+if option -a:
+    find files with word1 and word2 and word3 ...
+    exit
+    
+if option -o:
+    find files with word1 or word2 or word3 ...
+    exit
+    
+find files with word1
+
+    
+

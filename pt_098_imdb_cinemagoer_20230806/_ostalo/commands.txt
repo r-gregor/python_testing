@@ -1,0 +1,15 @@
+(venv) rgregor@jbez0rg ~/_BRISI/imdb_20230806
+ $> python
+ Python 3.10.12 (main, Jun 11 2023, 05:26:28) [GCC 11.4.0] on linux
+ Type "help", "copyright", "credits" or "license" for more information.
+ >>> import imdb
+ >>> ia = imdb.Cinemagoer()
+ >>> movies = ia.search_movie('conan')
+ >>> movies
+ [<Movie id:0082198[http] title:_Conan the Barbarian (1982)_>, <Movie id:0816462[http] title:_Conan the Barbarian (2011)_>, <Movie id:0087078[http] title:_Conan the Destroyer (1984)_>, <Movie id:0120569[http] title:_"Conan the Adventurer" (1998) (1997)_>, <Movie id:1637574[http] title:_"Conan" (2021) (2010)_>, <Movie id:0131179[http] title:_"Detective Conan" (1996)_>, <Movie id:0315429[http] title:_"Conan the Adventurer" (1993) (1992)_>, <Movie id:2479722[http] title:_The Legend of Conan (Arnold Schwarzenegger) (None)_>, <Movie id:27790101[http] title:_"Conan O'Brien Must Go" (2023)_>, <Movie id:27521477[http] title:_Detective Conan: Black Iron Submarine (2023)_>, <Movie id:20188720[http] title:_"Conan Without Borders" (2023)_>, <Movie id:0077013[http] title:_"Future Boy Conan" (1978)_>, <Movie id:0106052[http] title:_"Late Night with Conan O'Brien" (2009) (1993)_>, <Movie id:12093860[http] title:_Detective Conan: The Scarlet Bullet (2021)_>, <Movie id:19770970[http] title:_Detective Conan: The Bride of Halloween (2022)_>, <Movie id:7880466[http] title:_Detective Conan: Zero the Enforcer (2018)_>, <Movie id:0990372[http] title:_Detective Conan: The Phantom of Baker Street (2002)_>, <Movie id:0899126[http] title:_"The Tonight Show with Conan O'Brien" (2010) (2009)_>, <Movie id:26346675[http] title:_"Detective Conan: The Culprit Hanzawa" (2023) (2022)_>, <Movie id:4954660[http] title:_Detective Conan: The Darkest Nightmare (2016)_>]
+ >>> len(movies)
+ 20
+ >>>
+
+ ...
+

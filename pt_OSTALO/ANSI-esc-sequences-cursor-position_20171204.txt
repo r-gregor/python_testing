@@ -1,0 +1,96 @@
+# ------------------------------------------------------------------------------------------------------------
+# what the "normal" Python prompt does:
+import time
+print("Hello I Am A Cow"); time.sleep(5)
+
+# ------------------------------------------------------------------------------------------------------------
+# Progress Indicator - a loading prompt:
+import time, sys
+def loading():
+    print("Loading...")
+    for i in range(0, 100):
+        time.sleep(0.05)
+        sys.stdout.write(u"\u001b[1000D" + str(i + 1) + "%")
+        sys.stdout.flush()
+    print()
+
+loading()
+
+# ------------------------------------------------------------------------------------------------------------
+# where the cursor is moving - add more sleeps to make the code show us:
+import time, sys
+def loading():
+    print("Loading...")
+    for i in range(0, 100):
+        time.sleep(1)
+        sys.stdout.write(u"\u001b[1000D")
+        sys.stdout.flush()
+        time.sleep(1)
+        sys.stdout.write(str(i + 1) + "%")
+        sys.stdout.flush()
+    print()
+
+loading()
+
+# ------------------------------------------------------------------------------------------------------------
+# ASCII Progress Bar - across the screen:
+import time, sys
+def loading():
+    print("Loading...")
+    for i in range(0, 100):
+        time.sleep(0.1)
+        width = int((i + 1) / 4) # python3 int()!!
+        bar = "[" + "#" * width + " " * (25 - width) + "]"
+        sys.stdout.write(u"\u001b[1000D" +  bar)
+        sys.stdout.flush()
+    print()
+
+loading()
+
+'''
+# OUTPUT: 
+
+Loading...
+[##############           ]
+'''
+
+# ------------------------------------------------------------------------------------------------------------
+# Up and Down cursor movements to let us draw multiple progress bars at once:
+
+import time, sys, random
+def loading(count):
+    all_progress = [0] * count
+    sys.stdout.write("\n" * count) # Make sure we have space to draw the bars
+    while any(x < 100 for x in all_progress):
+        time.sleep(0.01) # Randomly increment one of our progress values
+        unfinished = [(i, v) for (i, v) in enumerate(all_progress) if v < 100]
+        index, _ = random.choice(unfinished)
+        all_progress[index] += 1
+        
+        # Draw the progress bars
+        sys.stdout.write(u"\u001b[1000D") # Move left
+        sys.stdout.write(u"\u001b[" + str(count) + "A") # Move up
+        for progress in all_progress:
+            width = int( progress / 1 ) # python3 int() !!
+            print( "[" + "#" * width + " " * (100 - width) + "]" )
+            # !! progress / NUM --> (100/NUM - width) !!
+
+loading(10)
+
+
+'''
+# OUTPUT:
+
+>>> loading(10)
+[################################################################################                    ]
+[######################################################################                              ]
+[#########################################################################                           ]
+[##################################################################                                  ]
+[############################################################################                        ]
+[############################################################################                        ]
+[###################################################################                                 ]
+[#########################################################################                           ]
+[#################################################################                                   ]
+[#########################################################################################           ]
+'''
+

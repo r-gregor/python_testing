@@ -1,0 +1,4 @@
+B17=""Miha""; B17=""Jaka""; B17=""Matija""; B17=""Luka""; B17=""Mitja""; B17=""Žiga""; B17=""Grega""; B17=""Aljoša""
+
+# sed -e 's/""; /\n/g' -e 's/B17=""//g' -e 's/"*//g' condition.txt > condition2.txt
+

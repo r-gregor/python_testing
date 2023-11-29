@@ -1,0 +1,17 @@
+
+############################################################################################################ 
+#    As a side note, if you run the code from a country where English is not the main language, it's very  #
+#    likely that you'll get some of the movie names translated into the main language of that country.     #
+#                                                                                                          #
+#    Most likely, this happens because the server infers your location from your IP address. Even if you   #
+#    are located in a country where English is the main language, you may still get translated content.    #
+#    This may happen if you're using a VPN while you're making the GET requests.                           #
+#                                                                                                          #
+#    If you run into this issue, pass the following values to the headers parameter of the get() function: #
+# headers = {"Accept-Language": "en-US, en;q=0.5"}                                                         #
+############################################################################################################
+
+example:
+    response = requests.get(url, headers = {"Accept-Language": "en-US, en;q=0.5"})
+		instead of ...
+	# response = requests.get(url)

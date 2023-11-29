@@ -1,0 +1,6151 @@
+1
+00:00:06,050 --> 00:00:25,050
+<font color="#80FF40"><b>Improved & Synced by BanglarBagh</b></font>
+
+2
+00:01:01,899 --> 00:01:02,983
+<font color="#E86CE4">(♪♪♪)</font>
+
+3
+00:01:29,718 --> 00:01:30,803
+<font color="#E86CE4">(♪♪♪)</font>
+
+4
+00:01:53,033 --> 00:01:54,493
+<font color="#E86CE4">(FAINT RUMBLING)</font>
+
+5
+00:01:56,036 --> 00:01:57,454
+<font color="#E86CE4">(RUMBLING INTENSIFIES)</font>
+
+6
+00:01:57,996 --> 00:01:59,373
+<font color="#E86CE4">(WHOOSHING)</font>
+
+7
+00:02:00,332 --> 00:02:01,875
+<font color="#E86CE4">(OBJECTS CLANKING)</font>
+
+8
+00:02:04,128 --> 00:02:05,420
+<font color="#E86CE4">(LOUD THUD)</font>
+
+9
+00:02:05,504 --> 00:02:07,381
+<font color="#E86CE4">(OBJECTS CONTINUE CLANKING)</font>
+
+10
+00:02:07,464 --> 00:02:08,799
+<font color="#E86CE4">(LOUD THUD)</font>
+
+11
+00:02:17,391 --> 00:02:18,433
+<font color="#E86CE4">(♪♪♪)</font>
+
+12
+00:02:31,363 --> 00:02:32,406
+<font color="#E86CE4">(♪♪♪)</font>
+
+13
+00:02:35,409 --> 00:02:38,328
+<font color="#E86CE4">(INDISTINCT VOICES OVER COMM)</font>
+<font color="#E86CE4">(RHYTHMIC BEEPING)</font>
+
+14
+00:03:04,771 --> 00:03:06,040
+<font color="#808080">MIRANDA:</font> <i>This is Dr. Miranda North </i>
+
+15
+00:03:06,064 --> 00:03:09,151
+<i>quarantine officer on board
+the International Space Station.</i>
+
+16
+00:03:10,277 --> 00:03:13,697
+<i>Today the Pilgrim capsule 
+with its valuable Mars soil samples </i>
+
+17
+00:03:13,780 --> 00:03:16,700
+<i>completes its eight-month return from Mars.</i>
+
+18
+00:03:18,076 --> 00:03:19,620
+<i>Preparing to receive these samples</i>
+
+19
+00:03:19,703 --> 00:03:22,956
+<i>has been the purpose of our mission
+these last few months.</i>
+
+20
+00:03:24,124 --> 00:03:26,376
+<i>But the Pilgrim capsule is damaged.</i>
+
+21
+00:03:27,252 --> 00:03:32,341
+<i>At 0630 UTC  Pilgrim was struck by debris
+and veered off course.</i>
+
+22
+00:03:32,966 --> 00:03:35,719
+<i>Rory Adams will spacewalk
+to establish visual contact</i>
+
+23
+00:03:35,802 --> 00:03:37,137
+<i>with the incoming space capsule </i>
+
+24
+00:03:37,221 --> 00:03:39,473
+<i>and he will grab it with a remote arm.</i>
+
+25
+00:03:41,058 --> 00:03:44,102
+<i>We've been waiting a long time
+for this sample </i>
+
+26
+00:03:45,270 --> 00:03:48,482
+<i>and Rory is placing himself at great risk
+to secure it.</i>
+
+27
+00:03:48,565 --> 00:03:49,566
+<i>Over and out.</i>
+
+28
+00:03:49,650 --> 00:03:51,818
+<font color="#808080">DAVID:</font> <i>EMU at 4.7 psi  pure O2.</i>
+
+29
+00:03:51,902 --> 00:03:54,380
+<font color="#808080">RORY:</font> <i>Is that how you're gonna do it?
+I wouldn't do it that way.</i>
+
+30
+00:03:54,404 --> 00:03:56,216
+<font color="#808080">KAT:</font> <i>Dr. Jordan  status?</i>
+<font color="#808080">RORY:</font> <i>Come on  faster  faster  faster.</i>
+
+31
+00:03:56,240 --> 00:03:57,658
+<font color="#808080">DAVID:</font> <i>Nitrogen at near zero.</i>
+
+32
+00:03:57,741 --> 00:03:59,177
+<font color="#808080">KAT:</font> <i>Dr. North?</i>
+<font color="#808080">MIRANDA:</font> <i>I'm in the airlock.</i>
+
+33
+00:03:59,201 --> 00:04:00,720
+<font color="#808080">RORY:</font> <i>Faster  faster  faster. Come on.</i>
+
+34
+00:04:00,744 --> 00:04:02,371
+<font color="#808080">KAT:</font> <i>Rory  slow to go fast.</i>
+
+35
+00:04:02,454 --> 00:04:04,164
+<font color="#808080">RORY:</font> <i>Or fast to go fast.</i>
+<font color="#808080">KAT:</font> <i>Deliberate.</i>
+
+36
+00:04:04,248 --> 00:04:05,350
+<font color="#808080">RORY:</font> <i>What does she have against fast?</i>
+
+37
+00:04:05,374 --> 00:04:07,251
+<font color="#808080">KAT:</font> <i>Remember 
+eight billion people.</i>
+
+38
+00:04:07,334 --> 00:04:08,561
+<font color="#808080">MIRANDA:</font> <i>Rory  if you can't save it...</i>
+
+39
+00:04:08,585 --> 00:04:10,545
+<font color="#808080">RORY:</font> <i>Yeah  spoiler alert.
+I'm fucking saving it.</i>
+
+40
+00:04:10,629 --> 00:04:13,715
+<font color="#808080">MIRANDA:</font> <i>But if you can't  Rory 
+just push the capsule into deep space  okay?</i>
+
+41
+00:04:13,799 --> 00:04:15,717
+- Do you hear me?
+- <font color="#808080">RORY:</font> Can you get OCD...
+
+42
+00:04:15,801 --> 00:04:17,594
+Sorry  CDC out of my face?
+
+43
+00:04:17,678 --> 00:04:19,656
+'Cause I got a big operation.
+I need to concentrate.
+
+44
+00:04:19,680 --> 00:04:21,282
+- <font color="#808080">MIRANDA:</font> I just want you...
+- I can't... I can't hear you...
+
+45
+00:04:21,306 --> 00:04:22,557
+- I love you  too.
+- ...at all.
+
+46
+00:04:22,641 --> 00:04:24,268
+<font color="#808080">DAVID:</font> EMU at 4.7 psi  pure O2.
+
+47
+00:04:24,351 --> 00:04:25,686
+Where's the remote?
+
+48
+00:04:25,769 --> 00:04:27,396
+- Here. The arm's yours.
+- There you go.
+
+49
+00:04:27,479 --> 00:04:28,998
+- Full manual.
+- All right  he knows. Let's go.
+
+50
+00:04:29,022 --> 00:04:30,732
+<font color="#808080">SHO:</font> Careful with... Sorry  you know this.
+
+51
+00:04:30,816 --> 00:04:32,234
+Yeah  yeah. No more sorries.
+
+52
+00:04:32,317 --> 00:04:34,778
+- <font color="#808080">KAT:</font> <i>Miranda  to the Cupola  please.</i>
+- All right  that's it.
+
+53
+00:04:34,861 --> 00:04:36,280
+Yep.
+
+54
+00:04:36,363 --> 00:04:38,073
+<font color="#E86CE4">(♪♪♪)</font>
+<font color="#E86CE4">(WHIRRING)</font>
+
+55
+00:04:40,033 --> 00:04:42,286
+<font color="#E86CE4">(SLOW  STEADY BEEPING)</font>
+
+56
+00:04:58,802 --> 00:04:59,886
+<font color="#E86CE4">(♪♪♪)</font>
+
+57
+00:05:04,516 --> 00:05:06,435
+<font color="#808080">KAT:</font> <font color="#E86CE4">(OVER COMM)</font> <i>David?
+Are you on your way?</i>
+
+58
+00:05:06,518 --> 00:05:07,936
+On my way.
+
+59
+00:05:08,020 --> 00:05:09,938
+- Slow  Sho.
+- <font color="#808080">SHO:</font> Excuse me.
+
+60
+00:05:10,022 --> 00:05:11,502
+How do you say "breathe" in Japanese?
+
+61
+00:05:11,565 --> 00:05:12,649
+<i>Kokyu shiro.</i>
+
+62
+00:05:12,733 --> 00:05:14,484
+This was supposed to be routine.
+
+63
+00:05:14,568 --> 00:05:15,837
+<font color="#808080">RORY:</font> <font color="#E86CE4">(OVER COMM)</font> <i>The airlock is sealed.</i>
+
+64
+00:05:15,861 --> 00:05:18,155
+<i>I am walking.</i>
+
+65
+00:05:21,783 --> 00:05:23,410
+<font color="#808080">KAT:</font> 4:35 UTC.
+
+66
+00:05:23,493 --> 00:05:26,455
+After striking debris 
+Pilgrim non-responsive.
+
+67
+00:05:26,538 --> 00:05:28,915
+Inbound on collision course with ISS.
+
+68
+00:05:28,999 --> 00:05:32,711
+Initiating emergency course correction
+and manual retrieval.
+
+69
+00:05:32,794 --> 00:05:34,671
+<font color="#808080">SHO:</font> Canadarm online.
+
+70
+00:05:34,755 --> 00:05:36,673
+Transferring control to wireless.
+
+71
+00:05:36,757 --> 00:05:38,008
+<font color="#808080">KAT:</font> Station to Control.
+
+72
+00:05:38,091 --> 00:05:40,171
+- Initiating sequence.
+- <font color="#808080">GROUND CONTROL:</font> <i>Affirmative.</i>
+
+73
+00:05:40,218 --> 00:05:41,218
+<font color="#808080">SHO:</font> So  the committee?
+
+74
+00:05:41,261 --> 00:05:43,388
+<font color="#808080">KAT:</font> You let me worry
+about the committee.
+
+75
+00:05:43,472 --> 00:05:44,723
+Where's Rory?
+
+76
+00:05:45,474 --> 00:05:46,850
+He is at risk out there.
+
+77
+00:05:46,933 --> 00:05:48,810
+<font color="#808080">RORY:</font> <i>Easy  folks. Mics are live.</i>
+
+78
+00:05:50,062 --> 00:05:51,438
+<i>You ready  Sho?</i>
+
+79
+00:05:51,521 --> 00:05:52,647
+<font color="#808080">SHO:</font> Thrusters up.
+
+80
+00:05:52,731 --> 00:05:54,066
+<font color="#E86CE4">(RUMBLING)</font>
+
+81
+00:05:54,274 --> 00:05:55,609
+<font color="#E86CE4">(BEEPING)</font>
+
+82
+00:05:57,235 --> 00:05:58,695
+<font color="#808080">RORY:</font> <i>Moving into position.</i>
+
+83
+00:05:59,363 --> 00:06:00,989
+<i>I have control of the arm.</i>
+
+84
+00:06:01,073 --> 00:06:02,115
+<font color="#E86CE4">(♪♪♪)</font>
+
+85
+00:06:27,641 --> 00:06:28,683
+<font color="#E86CE4">(♪♪♪)</font>
+
+86
+00:06:38,151 --> 00:06:39,986
+<font color="#808080">HUGH:</font> Your worry lines are showing.
+
+87
+00:06:40,695 --> 00:06:42,864
+Yeah  well  I get paid by the line.
+
+88
+00:06:45,492 --> 00:06:48,161
+- <font color="#808080">HUGH:</font> I have a good feeling about this.
+- Yeah?
+
+89
+00:06:49,663 --> 00:06:51,248
+<font color="#808080">HUGH:</font> Rory's gonna deliver that sample.
+
+90
+00:06:51,331 --> 00:06:52,582
+<font color="#808080">MIRANDA:</font> Right to your lab.
+
+91
+00:06:52,666 --> 00:06:54,126
+<font color="#E86CE4">(LIGHT RUMBLING)</font>
+
+92
+00:06:54,209 --> 00:06:55,585
+<font color="#E86CE4">(CREAKING)</font>
+
+93
+00:06:56,002 --> 00:06:57,587
+<font color="#808080">KAT:</font> Prepare for course correction.
+
+94
+00:06:59,297 --> 00:07:02,467
+.050-niner by.076.
+
+95
+00:07:02,551 --> 00:07:04,719
+- Remember your training.
+- We never trained for this.
+
+96
+00:07:04,803 --> 00:07:09,099
+<font color="#808080">KAT:</font> On my mark.
+Five  four  three  two  one.
+
+97
+00:07:09,182 --> 00:07:10,517
+<font color="#E86CE4">(CLICK  BEEP)</font>
+
+98
+00:07:10,600 --> 00:07:13,061
+<font color="#E86CE4">(DEEP RUMBLING  SHUDDERING)</font>
+
+99
+00:07:15,063 --> 00:07:17,357
+<font color="#E86CE4">(BEEPING  WHIRRING)</font>
+
+100
+00:07:17,649 --> 00:07:19,734
+<font color="#E86CE4">(RUMBLING  SHUDDERING
+GRADUALLY STOP)</font>
+
+101
+00:07:19,818 --> 00:07:22,487
+<font color="#808080">KAT:</font> New capsule trajectory 
+negative 0.50.
+
+102
+00:07:22,571 --> 00:07:25,198
+<font color="#808080">AUTOMATED VOICE:</font> <i>Proximity alert.
+Proximity alert.</i>
+
+103
+00:07:25,282 --> 00:07:26,783
+<font color="#808080">KAT:</font> Ignore the proximity alert.
+
+104
+00:07:27,492 --> 00:07:30,579
+New station trajectory  negative.32.
+
+105
+00:07:30,662 --> 00:07:33,290
+The capsule will miss us. Just.
+
+106
+00:07:33,373 --> 00:07:35,375
+- Rory?
+<i>- I'm still downrange.</i>
+
+107
+00:07:37,043 --> 00:07:38,545
+<i>And it's coming in shallow.</i>
+
+108
+00:07:39,838 --> 00:07:42,257
+<i>Any moment now. Eight  maybe nine o'clock.</i>
+
+109
+00:07:42,841 --> 00:07:43,841
+<i>I'm having fun.</i>
+
+110
+00:07:43,884 --> 00:07:46,720
+<i>- Are you guys having fun?</i>
+- <font color="#808080">DAVID:</font> Rory  if you miss...
+
+111
+00:07:46,803 --> 00:07:48,096
+<i>Yeah  yeah  yeah.</i>
+
+112
+00:07:48,180 --> 00:07:49,264
+If...
+
+113
+00:07:49,347 --> 00:07:53,101
+Just gonna skip off the atmosphere
+like a flat stone on water.
+
+114
+00:07:54,102 --> 00:07:56,605
+Just fly off into nowhere.
+It's no harm done.
+
+115
+00:07:56,938 --> 00:07:59,232
+<font color="#808080">RORY:</font> <font color="#E86CE4">(EXHALES)</font> <i>Okay.</i>
+
+116
+00:07:59,983 --> 00:08:01,151
+There.
+
+117
+00:08:01,735 --> 00:08:03,195
+- There.
+- <font color="#808080">RORY:</font> <i>I see it.</i>
+
+118
+00:08:03,737 --> 00:08:05,214
+<i>All right  here we go 
+here we go  here we go.</i>
+
+119
+00:08:05,238 --> 00:08:06,406
+<i>This is fun.</i>
+
+120
+00:08:06,490 --> 00:08:08,909
+<font color="#808080">SHO:</font> Rory  you have to move.
+It's gonna hit you.
+
+121
+00:08:08,992 --> 00:08:11,077
+<i>- No  it's not.</i>
+- Please  Rory  move.
+
+122
+00:08:12,120 --> 00:08:13,413
+<font color="#808080">KAT:</font> Station to Control.
+
+123
+00:08:13,497 --> 00:08:15,832
+Visual confirmation of
+Mars Capsule Pilgrim.
+
+124
+00:08:15,916 --> 00:08:18,210
+<font color="#808080">RORY:</font> <i>I used to play catcher 
+but only in tee-ball.</i>
+
+125
+00:08:18,293 --> 00:08:19,878
+- <font color="#808080">MIRANDA:</font> Rory?
+<i>- Not now.</i>
+
+126
+00:08:20,378 --> 00:08:21,772
+<i>Not now.
+No  come on  come here  come here </i>
+
+127
+00:08:21,796 --> 00:08:23,757
+<i>come on  come on  come on.</i>
+
+128
+00:08:23,840 --> 00:08:25,509
+<font color="#E86CE4">(LOUD BOOM  DEEP RUMBLING)</font>
+
+129
+00:08:25,592 --> 00:08:27,385
+<font color="#E86CE4">(CREAKING  RATTLING)</font>
+
+130
+00:08:28,929 --> 00:08:30,180
+Rory?
+
+131
+00:08:31,348 --> 00:08:33,266
+- Rory?
+- <font color="#808080">MIRANDA:</font> Rory?
+
+132
+00:08:34,142 --> 00:08:35,185
+<font color="#E86CE4">(RORY LAUGHING)</font>
+
+133
+00:08:35,268 --> 00:08:36,895
+<font color="#808080">HUGH:</font> <font color="#E86CE4">(LAUGHS)</font> He got it.
+<font color="#808080">MIRANDA:</font> Yes!
+
+134
+00:08:36,978 --> 00:08:39,272
+<font color="#E86CE4">(RORY COUGHING  LAUGHING)</font>
+
+135
+00:08:40,774 --> 00:08:42,108
+<font color="#808080">RORY:</font> <i>Oh  Hugh?</i>
+
+136
+00:08:42,192 --> 00:08:43,735
+<i>Cue Instagram!</i>
+
+137
+00:08:44,361 --> 00:08:45,612
+<font color="#808080">HUGH:</font> I didn't want to jinx it.
+
+138
+00:08:45,695 --> 00:08:46,947
+<font color="#E86CE4">(RORY GRUNTS)</font>
+
+139
+00:08:47,030 --> 00:08:48,740
+<i>Point and shoot  motherfucker!</i>
+
+140
+00:08:48,823 --> 00:08:50,367
+<font color="#808080">HUGH:</font> <font color="#E86CE4">(CHUCKLES)</font> Okay  okay.
+
+141
+00:08:50,450 --> 00:08:52,744
+<font color="#E86CE4">(CAMERA CLICKS  WHIRRS)</font>
+<font color="#E86CE4">(RORY WHOOPS)</font>
+
+142
+00:08:53,453 --> 00:08:54,913
+<font color="#E86CE4">(RORY LAUGHS)</font>
+
+143
+00:09:02,295 --> 00:09:03,672
+<font color="#E86CE4">(RORY COUGHS)</font>
+
+144
+00:09:03,755 --> 00:09:06,800
+<font color="#808080">RORY:</font> <i>Mars Capsule in locked position.</i>
+
+145
+00:09:07,467 --> 00:09:09,010
+<font color="#E86CE4">(SHO CHUCKLES)</font>
+<font color="#E86CE4">(RORY WHOOPS)</font>
+
+146
+00:09:09,719 --> 00:09:11,054
+<font color="#E86CE4">(RORY LAUGHS)</font>
+
+147
+00:09:11,137 --> 00:09:12,556
+<i>Whoo...</i>
+
+148
+00:09:12,639 --> 00:09:13,974
+<i>I'm coming home.</i>
+
+149
+00:09:16,476 --> 00:09:19,145
+This is Mission Commander
+Ekaterina Golovkina.
+
+150
+00:09:19,771 --> 00:09:23,233
+Tell the committee
+Pilgrim's landed on Plymouth Rock.
+
+151
+00:09:24,109 --> 00:09:26,570
+The Mars samples are safe and sound.
+
+152
+00:09:26,653 --> 00:09:28,238
+<i>Copy that  Commander.</i>
+
+153
+00:09:28,321 --> 00:09:29,864
+<i>Congratulations.</i>
+
+154
+00:09:29,948 --> 00:09:30,991
+<font color="#E86CE4">(♪♪♪)</font>
+
+155
+00:09:42,919 --> 00:09:43,962
+<font color="#E86CE4">(♪♪♪)</font>
+
+156
+00:10:06,443 --> 00:10:07,694
+<font color="#E86CE4">(SQUEAKS SOFTLY)</font>
+
+157
+00:10:07,777 --> 00:10:09,112
+<font color="#E86CE4">(CLICKING)</font>
+
+158
+00:10:10,322 --> 00:10:11,323
+<font color="#808080">HUGH:</font> Ready?
+
+159
+00:10:11,406 --> 00:10:13,742
+<font color="#E86CE4">(ELECTRONIC DING)</font>
+<font color="#808080">KAT:</font> <i>We are recording.</i>
+
+160
+00:10:14,284 --> 00:10:16,077
+<i>0640 UTC.</i>
+
+161
+00:10:19,289 --> 00:10:22,125
+<font color="#808080">HUGH:</font> Pilgrim wasn't just seeing things
+in Mars' soil.
+
+162
+00:10:22,626 --> 00:10:25,545
+We're looking at a large single cell.
+
+163
+00:10:25,629 --> 00:10:26,838
+Inert.
+
+164
+00:10:26,921 --> 00:10:28,715
+Unmistakably biological.
+
+165
+00:10:28,798 --> 00:10:30,467
+And  like organisms on Earth 
+
+166
+00:10:30,842 --> 00:10:34,512
+has what appears to be
+a nucleus  cytoplasm...
+
+167
+00:10:36,306 --> 00:10:38,308
+<font color="#E86CE4">(OVER COMM)</font> <i>The cell wall is thick.</i>
+
+168
+00:10:39,517 --> 00:10:41,561
+Those hairs look like cilia.
+
+169
+00:10:41,645 --> 00:10:43,688
+Longer than we're used to seeing on Earth.
+
+170
+00:10:43,772 --> 00:10:45,231
+More like flagella.
+
+171
+00:10:48,943 --> 00:10:51,446
+<i>- What's our temperature?</i>
+- <font color="#808080">SHO:</font> Minus 110.
+
+172
+00:10:52,280 --> 00:10:53,490
+<i>Start bringing it up.</i>
+
+173
+00:10:54,032 --> 00:10:55,533
+<font color="#808080">SHO:</font> Minus 82.
+
+174
+00:10:57,661 --> 00:10:59,079
+<font color="#808080">HUGH:</font> <i>Even quicker.</i>
+
+175
+00:11:01,790 --> 00:11:03,458
+<font color="#808080">SHO:</font> <i>Minus 55.</i>
+
+176
+00:11:05,210 --> 00:11:07,212
+<i>This is some</i> Re-Animator <i>shit.</i>
+
+177
+00:11:07,671 --> 00:11:09,422
+<i>Oh  that's a very obscure reference.</i>
+
+178
+00:11:09,506 --> 00:11:11,508
+<i>- Not for a nerd.
+- Not if you're a nerd.</i>
+
+179
+00:11:11,925 --> 00:11:14,010
+<font color="#E86CE4">(HUGH CHUCKLES)</font>
+<font color="#808080">SHO:</font> Minus 17.
+
+180
+00:11:15,428 --> 00:11:16,554
+<i>Zero degrees.</i>
+
+181
+00:11:16,721 --> 00:11:18,348
+<font color="#808080">HUGH:</font> <font color="#E86CE4">(EXHALES)</font> Oh  come on.
+
+182
+00:11:18,431 --> 00:11:20,225
+<font color="#808080">SHO:</font> <i>Eighteen...</i>
+
+183
+00:11:20,308 --> 00:11:22,060
+<i>Nineteen...</i>
+
+184
+00:11:22,143 --> 00:11:24,354
+<i>20 degrees Celsius.</i>
+
+185
+00:11:28,358 --> 00:11:29,401
+Nothing.
+
+186
+00:11:33,863 --> 00:11:35,156
+Update?
+
+187
+00:11:38,618 --> 00:11:40,620
+I'm gonna try a different atmosphere.
+
+188
+00:11:41,788 --> 00:11:44,958
+Closer to Proterozoic Earth
+than today's Mars.
+
+189
+00:11:45,959 --> 00:11:47,460
+Less oxygen...
+
+190
+00:11:48,002 --> 00:11:49,879
+More carbon dioxide.
+
+191
+00:11:49,963 --> 00:11:52,465
+<font color="#E86CE4">(CLICK  BEEP)</font>
+<i> And then  when Sho's ready </i>
+
+192
+00:11:53,633 --> 00:11:55,051
+<i>a growth medium.</i>
+
+193
+00:11:55,802 --> 00:11:58,221
+<i>In this case  glucose.</i>
+
+194
+00:12:00,515 --> 00:12:01,683
+<font color="#E86CE4">(PANTING)</font>
+
+195
+00:12:01,766 --> 00:12:02,976
+<font color="#E86CE4">(WHISPERS)</font> <i>Come on  dance.</i>
+
+196
+00:12:03,059 --> 00:12:04,102
+<font color="#E86CE4">(♪♪♪)</font>
+
+197
+00:12:26,833 --> 00:12:28,084
+<font color="#808080">MIRANDA:</font> <i>Did it just move?</i>
+
+198
+00:12:29,502 --> 00:12:31,045
+<i>Hugh?</i>
+
+199
+00:12:34,132 --> 00:12:35,175
+<font color="#808080">HUGH:</font> <i>Oh.</i>
+
+200
+00:12:36,176 --> 00:12:37,427
+<font color="#E86CE4">(CHUCKLING SOFTLY)</font>
+
+201
+00:12:40,013 --> 00:12:41,014
+<font color="#808080">HUGH:</font> My God.
+
+202
+00:12:41,264 --> 00:12:42,432
+<font color="#E86CE4">(GASPS)</font>
+
+203
+00:12:43,057 --> 00:12:45,894
+<font color="#808080">MIRANDA:</font> <i>It worked. You woke it.</i>
+
+204
+00:12:49,355 --> 00:12:51,900
+We're looking at
+the first incontrovertible proof
+
+205
+00:12:51,983 --> 00:12:54,152
+of life beyond Earth.
+
+206
+00:12:54,360 --> 00:12:55,695
+<font color="#E86CE4">(LAUGHS QUIETLY)</font>
+
+207
+00:12:57,071 --> 00:12:58,698
+<font color="#E86CE4">(CHUCKLING)</font>
+
+208
+00:13:00,658 --> 00:13:02,744
+<i>Oh  it's beautiful.</i>
+
+209
+00:13:05,497 --> 00:13:06,539
+<font color="#E86CE4">(♪♪♪)</font>
+
+210
+00:13:18,384 --> 00:13:21,137
+<font color="#808080">VARGAS:</font> <i>Our first question is from Allen.
+He's nine years old.</i>
+
+211
+00:13:21,221 --> 00:13:23,723
+<i>And  Allen  what is your question
+for Commander Golovkina?</i>
+
+212
+00:13:24,057 --> 00:13:25,058
+Is it green?
+
+213
+00:13:25,141 --> 00:13:28,144
+<i>It isn't visible at all  actually.
+It's microscopic.</i>
+
+214
+00:13:28,228 --> 00:13:29,395
+<i>A single cell.</i>
+
+215
+00:13:29,729 --> 00:13:33,066
+<i>To put it into perspective 
+your body is made up of trillions.</i>
+
+216
+00:13:33,149 --> 00:13:35,568
+There's an alien inside of me?
+
+217
+00:13:36,194 --> 00:13:38,613
+<i>Oh  I bet your teacher sometimes thinks so.</i>
+
+218
+00:13:38,696 --> 00:13:41,032
+<font color="#808080">MUIR:</font> Well  we have another question
+from 8-year-old Mari.
+
+219
+00:13:41,115 --> 00:13:43,451
+Are you bringing the alien back to Earth?
+
+220
+00:13:43,576 --> 00:13:46,412
+<i>No  we're gonna keep it up here.
+We're gonna study it where it's safe.</i>
+
+221
+00:13:47,205 --> 00:13:48,248
+<font color="#808080">MUIR:</font> Commander?
+
+222
+00:13:48,331 --> 00:13:52,001
+<i>The ISS is the most expensive house
+ever built.</i>
+
+223
+00:13:52,085 --> 00:13:55,171
+<i>$200 billion American
+and counting.</i>
+
+224
+00:13:55,255 --> 00:13:57,173
+<i>Because we keep adding rooms.</i>
+
+225
+00:13:57,257 --> 00:14:00,385
+<i>It flies around Earth 16 times a day.</i>
+
+226
+00:14:01,094 --> 00:14:04,305
+<i>In 30 years 
+over 100 people have lived here </i>
+
+227
+00:14:04,931 --> 00:14:08,226
+<i>thanks to generous countries
+like Russia  the USA  and China.</i>
+
+228
+00:14:08,309 --> 00:14:10,061
+<i>We call this Tranquility Node.</i>
+
+229
+00:14:10,728 --> 00:14:15,108
+<i>Dr. Jordan here is about to break the
+record for consecutive days in space.</i>
+
+230
+00:14:15,191 --> 00:14:17,861
+<i>Four hundred and seventy-three  straight.</i>
+
+231
+00:14:17,944 --> 00:14:19,696
+Your mommy must miss you.
+
+232
+00:14:19,946 --> 00:14:22,699
+<font color="#E86CE4">(LAUGHS)</font>
+<i> Ah  she does.</i>
+
+233
+00:14:23,283 --> 00:14:25,410
+<i>But I have family here.</i>
+
+234
+00:14:25,493 --> 00:14:29,080
+<i>Yeah  the kind that teases him
+'cause his mommy misses him.</i>
+
+235
+00:14:29,163 --> 00:14:31,457
+<font color="#808080">KAT:</font> <i>This is one of
+our newest crew members.</i>
+
+236
+00:14:31,541 --> 00:14:34,168
+<i>Miranda North from
+the Centers for Disease Control.</i>
+
+237
+00:14:34,252 --> 00:14:35,503
+<i>She's a doctor  too.</i>
+
+238
+00:14:35,587 --> 00:14:37,630
+<i>You guys are witnessing a space triathlon.</i>
+
+239
+00:14:37,714 --> 00:14:38,840
+<i>Yeah  I'm winning.</i>
+
+240
+00:14:39,799 --> 00:14:42,218
+<font color="#808080">VARGAS:</font> We have another question
+from 7-year-old Leila.
+
+241
+00:14:42,302 --> 00:14:45,013
+We think this question
+is a little personal.
+
+242
+00:14:45,096 --> 00:14:47,807
+- Go ahead.
+- How do you go to the bathroom?
+
+243
+00:14:48,808 --> 00:14:49,851
+<i>Funnel </i>
+
+244
+00:14:50,977 --> 00:14:52,353
+<i>tube </i>
+
+245
+00:14:52,979 --> 00:14:54,564
+<i>and some suction.</i>
+
+246
+00:14:55,481 --> 00:14:59,527
+<i>Everything we do on the ISS
+is like everything you do on Earth.</i>
+
+247
+00:15:00,194 --> 00:15:02,655
+<i>Except different. Do you like peas?</i>
+
+248
+00:15:02,739 --> 00:15:03,865
+<font color="#808080">ALLEN:</font> Yep.
+
+249
+00:15:07,911 --> 00:15:10,830
+Mmm! Mmm! Mmm!
+
+250
+00:15:12,332 --> 00:15:14,584
+<i>So  have you got a name yet?</i>
+
+251
+00:15:14,667 --> 00:15:17,396
+<font color="#808080">MUIR:</font> For that  we want to go down live
+just outside our studio in Times Square
+
+252
+00:15:17,420 --> 00:15:19,422
+<i>to one very brave classmate.</i>
+
+253
+00:15:19,505 --> 00:15:21,883
+- <font color="#808080">VARGAS:</font> <i>Hi  Dominique.
+- Hi.</i>
+
+254
+00:15:22,300 --> 00:15:25,053
+<i>Calvin Coolidge Elementary</i>
+
+255
+00:15:25,136 --> 00:15:29,265
+<i>was chosen among 11 000 schools</i>
+
+256
+00:15:29,349 --> 00:15:31,684
+<i> for this honor.</i>
+<font color="#E86CE4">(CROWD APPLAUDING)</font>
+
+257
+00:15:32,143 --> 00:15:34,103
+<i>We name the Martian</i>
+
+258
+00:15:34,479 --> 00:15:36,564
+<i>after our school.</i>
+
+259
+00:15:37,899 --> 00:15:39,192
+<i>"Calvin."</i>
+
+260
+00:15:39,275 --> 00:15:40,777
+<font color="#E86CE4">(CHEERING)</font>
+
+261
+00:15:46,741 --> 00:15:49,243
+<font color="#808080">RORY:</font> <i>Control? Control?</i>
+
+262
+00:15:49,327 --> 00:15:51,007
+<i>If you're listening  and you probably are </i>
+
+263
+00:15:51,037 --> 00:15:52,455
+'cause you're creepy that way 
+
+264
+00:15:52,538 --> 00:15:55,124
+can I just rant for a second
+about the micromanagement?
+
+265
+00:15:55,208 --> 00:15:56,751
+We're not blood-filled meat puppets.
+
+266
+00:15:56,834 --> 00:15:58,228
+I come from a long line of plumbers.
+
+267
+00:15:58,252 --> 00:16:00,129
+I can fix a shower.
+
+268
+00:16:00,213 --> 00:16:02,632
+If I can't...
+Well  Hugh doesn't shower anyway 
+
+269
+00:16:02,715 --> 00:16:04,133
+he's British.
+
+270
+00:16:04,217 --> 00:16:06,195
+- First international incident.
+- I'm not being critical of you.
+
+271
+00:16:06,219 --> 00:16:08,447
+You're just a very under-bathed nation.
+Everybody knows it.
+
+272
+00:16:08,471 --> 00:16:10,306
+Don't be an ugly American.
+
+273
+00:16:10,390 --> 00:16:12,684
+Wow. Who's ugly now?
+
+274
+00:16:12,767 --> 00:16:15,353
+I nailed Step 17.
+I'm a very good-looking American 
+
+275
+00:16:15,436 --> 00:16:17,480
+you know? Oh  I see  it's right there.
+
+276
+00:16:17,563 --> 00:16:18,815
+Control  I'm sorry about him.
+
+277
+00:16:18,898 --> 00:16:19,959
+<font color="#808080">KAT:</font> <i>Rory  Control can't hear you.</i>
+
+278
+00:16:19,983 --> 00:16:21,043
+I don't know where rage
+like that comes from.
+
+279
+00:16:21,067 --> 00:16:22,795
+<i>- Can you please fix the shower?</i>
+- Twenty-eight steps to fix a shower.
+
+280
+00:16:22,819 --> 00:16:25,613
+Ah. You know  I can do this myself.
+
+281
+00:16:25,697 --> 00:16:28,157
+No  I know. You just haven't.
+
+282
+00:16:29,826 --> 00:16:32,495
+Doctors are always so bad
+at looking after themselves  aren't they?
+
+283
+00:16:32,578 --> 00:16:34,580
+<font color="#E86CE4">(RAPID ELECTRONIC CLICKING)</font>
+
+284
+00:16:35,832 --> 00:16:37,208
+<font color="#E86CE4">(CLICKING STOPS)</font>
+
+285
+00:16:39,377 --> 00:16:41,057
+You've spent too much time up here  David.
+
+286
+00:16:41,546 --> 00:16:43,381
+Your atrophy's accelerated.
+
+287
+00:16:44,549 --> 00:16:46,592
+And you're close to your radiation limit.
+
+288
+00:16:48,052 --> 00:16:51,681
+You noticed any  um  glowing in the dark?
+
+289
+00:16:51,764 --> 00:16:52,765
+<font color="#E86CE4">(CHUCKLES)</font>
+
+290
+00:16:54,267 --> 00:16:55,435
+<font color="#808080">DAVID:</font> Hmm.
+
+291
+00:16:58,479 --> 00:17:00,064
+I like it up here.
+
+292
+00:17:03,234 --> 00:17:05,737
+When I was in the military 
+we'd go to Syria.
+
+293
+00:17:05,820 --> 00:17:07,238
+You know.
+
+294
+00:17:09,115 --> 00:17:10,867
+We'd set up a hospital 
+
+295
+00:17:11,701 --> 00:17:16,289
+treat all the casualties 
+and then we'd come back a week...
+
+296
+00:17:16,372 --> 00:17:17,373
+A week or two later 
+
+297
+00:17:17,457 --> 00:17:20,960
+and then the whole village
+would just be bombed out.
+
+298
+00:17:21,919 --> 00:17:23,087
+<font color="#808080">MIRANDA:</font> Mmm.
+
+299
+00:17:26,132 --> 00:17:29,052
+Then Earth isn't all Syria  though  is it?
+
+300
+00:17:32,180 --> 00:17:33,598
+<font color="#E86CE4">(RAPID BEEPING)</font>
+
+301
+00:17:33,973 --> 00:17:36,392
+I can't stand what we do
+to each other down there.
+
+302
+00:17:38,144 --> 00:17:41,022
+<font color="#808080">MIRANDA:</font> But it's home  and it's beautiful.
+
+303
+00:17:42,023 --> 00:17:43,816
+Don't you miss anything?
+
+304
+00:17:44,650 --> 00:17:48,654
+Don't you miss fresh water or birds
+
+305
+00:17:49,447 --> 00:17:50,782
+<i>or the trees?</i>
+
+306
+00:17:50,865 --> 00:17:52,867
+<font color="#E86CE4">(♪♪♪)</font>
+<font color="#E86CE4">(LOW ELECTRONIC HUMMING)</font>
+
+307
+00:17:53,618 --> 00:17:56,537
+I like the hum up here.
+
+308
+00:18:00,666 --> 00:18:01,667
+<font color="#E86CE4">(DAVID INHALES DEEPLY)</font>
+
+309
+00:18:01,751 --> 00:18:03,294
+And the air.
+
+310
+00:18:08,341 --> 00:18:09,926
+Hmm.
+<font color="#E86CE4">(LAUGHS SOFTLY)</font>
+
+311
+00:18:23,564 --> 00:18:26,067
+<font color="#808080">KAT:</font> <i>What you have achieved
+with Calvin is remarkable  Hugh.</i>
+
+312
+00:18:28,444 --> 00:18:30,822
+I haven't had a chance to say that.
+
+313
+00:18:30,905 --> 00:18:32,115
+<font color="#808080">HUGH:</font> Thank you.
+
+314
+00:18:32,198 --> 00:18:35,034
+I think these will prove to be
+the greatest days of my life.
+
+315
+00:18:37,370 --> 00:18:40,873
+I wish I had a time machine 
+so I could visit the 10-year-old me.
+
+316
+00:18:42,291 --> 00:18:43,731
+<font color="#808080">KAT:</font> Did he want to be an astronaut?
+
+317
+00:18:44,752 --> 00:18:46,462
+<font color="#808080">HUGH:</font> He wanted out of the wheelchair.
+
+318
+00:18:48,965 --> 00:18:50,883
+<font color="#808080">KAT:</font> And how does he feel now?
+
+319
+00:18:53,052 --> 00:18:54,512
+Like a bird.
+
+320
+00:18:58,307 --> 00:18:59,684
+<font color="#E86CE4">(CHUCKLES SOFTLY)</font>
+
+321
+00:19:01,227 --> 00:19:02,645
+Oh  don't get me wrong.
+
+322
+00:19:02,728 --> 00:19:04,814
+I don't hate my chair.
+
+323
+00:19:05,481 --> 00:19:06,649
+I love it.
+
+324
+00:19:08,359 --> 00:19:11,237
+For the sake of the anonymous genius
+who invented it.
+
+325
+00:19:13,865 --> 00:19:15,658
+You're one of a kind  Hugh.
+
+326
+00:19:15,741 --> 00:19:16,993
+<font color="#E86CE4">(CHUCKLES SOFTLY)</font>
+
+327
+00:19:17,827 --> 00:19:19,245
+Good night.
+
+328
+00:19:19,328 --> 00:19:20,371
+<font color="#E86CE4">(♪♪♪)</font>
+
+329
+00:19:40,600 --> 00:19:43,311
+<font color="#E86CE4">(BEEP)</font>
+<font color="#808080">SHO:</font> <i>11:20 UTC.</i>
+
+330
+00:19:43,394 --> 00:19:46,439
+<font color="#808080">HUGH:</font> Hold on to your helmets.
+The glucose intake is very rapid.
+
+331
+00:19:47,565 --> 00:19:49,668
+<font color="#E86CE4">(OVER COMM)</font> <i>The specimen's cells
+have begun to move together</i>
+
+332
+00:19:49,692 --> 00:19:51,527
+<i>en masse as a unit.</i>
+
+333
+00:19:52,612 --> 00:19:58,034
+They're also sharing electrical activity
+in what resembles a growing neural network.
+
+334
+00:19:58,993 --> 00:20:00,119
+Notice I didn't say "brain."
+
+335
+00:20:01,412 --> 00:20:02,872
+Dr. North speaking.
+
+336
+00:20:02,955 --> 00:20:06,209
+<i>It is our educated opinion
+that this new species is not a colony</i>
+
+337
+00:20:06,292 --> 00:20:08,544
+<i>of fast-dividing single-celled organisms </i>
+
+338
+00:20:08,628 --> 00:20:10,880
+but one larger  solitary organism
+
+339
+00:20:10,963 --> 00:20:14,342
+composed of trillions
+of identical cooperative cells.
+
+340
+00:20:15,218 --> 00:20:16,719
+<i>Here's what's fascinating.</i>
+
+341
+00:20:16,802 --> 00:20:19,055
+I mean  it's all fascinating  isn't it?
+
+342
+00:20:20,348 --> 00:20:21,933
+Unlike most multicellular organisms 
+
+343
+00:20:22,642 --> 00:20:26,103
+every cell of Calvin's can perform
+every somatic function on its own.
+
+344
+00:20:27,313 --> 00:20:29,815
+Every single cell is
+
+345
+00:20:29,899 --> 00:20:32,610
+simultaneously a muscle cell
+
+346
+00:20:32,693 --> 00:20:36,239
+and a nerve cell and a photoreceptive cell.
+
+347
+00:20:36,322 --> 00:20:38,491
+<i>So the creature  as a whole </i>
+
+348
+00:20:38,574 --> 00:20:41,786
+<i>is  in a very real sense  all muscle </i>
+
+349
+00:20:42,328 --> 00:20:44,455
+<i>all brain  all eye.</i>
+
+350
+00:20:45,331 --> 00:20:49,835
+<font color="#808080">HUGH:</font> As such  Calvin now possesses
+the means to interact with its environment 
+
+351
+00:20:50,294 --> 00:20:54,882
+including the use of
+what appears to be proto-appendages.
+
+352
+00:20:58,511 --> 00:21:00,054
+I'll demonstrate.
+
+353
+00:21:04,600 --> 00:21:05,685
+<font color="#E86CE4">(♪♪♪)</font>
+
+354
+00:21:09,438 --> 00:21:10,773
+<font color="#E86CE4">(GASPS SOFTLY)</font>
+
+355
+00:21:17,280 --> 00:21:20,366
+<i>But notice how it's approaching
+and not retreating.</i>
+
+356
+00:21:21,200 --> 00:21:23,911
+<font color="#808080">HUGH:</font> Its curiosity outweighs its fear.
+
+357
+00:21:25,538 --> 00:21:26,580
+<font color="#E86CE4">(♪♪♪)</font>
+
+358
+00:21:37,717 --> 00:21:39,510
+That's beautiful.
+
+359
+00:21:47,727 --> 00:21:48,936
+<font color="#E86CE4">(CHUCKLES)</font>
+
+360
+00:21:59,030 --> 00:22:00,072
+<font color="#E86CE4">(♪♪♪)</font>
+
+361
+00:22:03,659 --> 00:22:05,369
+Hello  Calvin.
+
+362
+00:22:08,205 --> 00:22:09,540
+<font color="#808080">RORY:</font> <i>How's that feel  Hugh?</i>
+
+363
+00:22:10,458 --> 00:22:12,168
+<i>You're gonna be a daddy.</i>
+
+364
+00:22:14,128 --> 00:22:16,255
+There's gonna be
+a big custody battle over this one.
+
+365
+00:22:16,422 --> 00:22:19,592
+- <font color="#E86CE4">(LAUGHTER)</font>
+- <font color="#E86CE4">(SINGING)</font> <i>And if you feel</i>
+
+366
+00:22:19,675 --> 00:22:21,695
+<i>- Like I feel  baby</i>
+- <font color="#808080">DAVID:</font> One day  we're all gonna die 
+
+367
+00:22:21,719 --> 00:22:24,764
+and I want to know if there'd be
+even the possibility of having...
+
+368
+00:22:24,847 --> 00:22:27,058
+<i>- Let's get it on</i>
+- <font color="#E86CE4">(LAUGHING)</font>
+
+369
+00:22:27,475 --> 00:22:28,809
+<i>Hey  let's get it on...</i>
+
+370
+00:22:28,893 --> 00:22:30,394
+<font color="#808080">DAVID:</font> I'm getting a little nauseous.
+
+371
+00:22:30,478 --> 00:22:31,479
+<font color="#E86CE4">(WOMAN SQUEALING IN PAIN)</font>
+
+372
+00:22:31,562 --> 00:22:32,730
+You can do this  Kazumi.
+
+373
+00:22:33,481 --> 00:22:35,107
+I'm doing my best.
+
+374
+00:22:35,608 --> 00:22:36,650
+It's coming.
+
+375
+00:22:36,776 --> 00:22:37,860
+Any moment now  okay  push.
+
+376
+00:22:38,444 --> 00:22:40,946
+Easy for you to say.
+
+377
+00:22:41,113 --> 00:22:42,531
+You can do it  Kazumi.
+
+378
+00:22:42,615 --> 00:22:43,616
+<font color="#E86CE4">(SQUEALING INTENSIFIES)</font>
+
+379
+00:22:43,699 --> 00:22:44,867
+You can do it  you can do it.
+
+380
+00:22:45,951 --> 00:22:47,370
+Sho...
+
+381
+00:22:47,953 --> 00:22:49,580
+I can see it. Okay  push.
+
+382
+00:22:49,747 --> 00:22:50,748
+It's okay.
+
+383
+00:22:50,831 --> 00:22:51,874
+Push.
+
+384
+00:22:52,458 --> 00:22:54,543
+You'll be able to meet Mei soon.
+
+385
+00:22:54,627 --> 00:22:55,961
+You can do it.
+
+386
+00:22:56,128 --> 00:22:58,172
+"...and that there was more of it
+during the night."
+
+387
+00:22:58,255 --> 00:23:01,300
+"We can observe  too 
+how the recollection of a dream "
+
+388
+00:23:01,384 --> 00:23:03,886
+"which was still lively in the morning "
+
+389
+00:23:03,969 --> 00:23:06,847
+"will melt away 
+except for a few small fragments..."
+
+390
+00:23:06,931 --> 00:23:09,392
+<font color="#808080">RORY:</font> This book doesn't have pictures in it 
+does it?
+
+391
+00:23:09,475 --> 00:23:10,518
+<font color="#808080">HUGH:</font> Obviously not.
+
+392
+00:23:11,060 --> 00:23:12,829
+Would you prefer
+that I don't read it out loud?
+
+393
+00:23:12,853 --> 00:23:14,730
+- That's beautiful.
+- <font color="#808080">HUGH:</font> Beautiful.
+
+394
+00:23:14,814 --> 00:23:16,065
+<font color="#E86CE4">(ALL LAUGHING)</font>
+
+395
+00:23:16,148 --> 00:23:18,317
+- Oh  he makes me cry.
+- <font color="#808080">SHO:</font> Hi  guys. Guys.
+
+396
+00:23:18,651 --> 00:23:20,861
+- Meet Mei.
+- <font color="#808080">ALL:</font> Hey! Oh!
+
+397
+00:23:20,945 --> 00:23:21,946
+<font color="#E86CE4">(CHEERING  LAUGHING)</font>
+
+398
+00:23:22,029 --> 00:23:23,739
+- Hi  Mei!
+- <font color="#808080">HUGH:</font> Hey  Mei!
+
+399
+00:23:24,573 --> 00:23:27,159
+- Say hi to everybody  Mei.
+- Hi  Mei.
+
+400
+00:23:27,243 --> 00:23:29,003
+<font color="#808080">HUGH:</font> She's beautiful!
+<font color="#808080">RORY:</font> Congratulations.
+
+401
+00:23:29,078 --> 00:23:31,288
+Thank you. Nice to meet you.
+
+402
+00:23:31,372 --> 00:23:32,933
+Do they have any idea who the father is?
+
+403
+00:23:32,957 --> 00:23:35,042
+- Shut up.
+- <font color="#808080">HUGH:</font> Another one  another one.
+
+404
+00:23:35,126 --> 00:23:36,335
+<font color="#808080">SHO:</font> <font color="#E86CE4">(CHUCKLES)</font> Okay.
+
+405
+00:23:36,794 --> 00:23:37,795
+For story time.
+
+406
+00:23:38,587 --> 00:23:39,755
+It was my favorite.
+
+407
+00:23:39,839 --> 00:23:41,757
+You might say my first foray into space.
+
+408
+00:23:41,841 --> 00:23:44,427
+<font color="#808080">SHO:</font> Oh  thank you so much.
+KAZUMI: <i>Thank you  Commander.</i>
+
+409
+00:23:44,510 --> 00:23:45,612
+- Thank you  guys.
+<font color="#808080">RORY:</font> She's beautiful  Sho.
+
+410
+00:23:45,636 --> 00:23:46,636
+Thank you!
+
+411
+00:23:46,679 --> 00:23:49,515
+- <font color="#808080">HUGH:</font> Yay!
+- No  seriously  that kid had blue eyes.
+
+412
+00:23:49,598 --> 00:23:50,599
+<font color="#E86CE4">(ALL CHUCKLING)</font>
+
+413
+00:23:50,683 --> 00:23:51,684
+<font color="#E86CE4">(♪♪♪)</font>
+
+414
+00:24:15,040 --> 00:24:16,333
+<font color="#E86CE4">(SPEAKS OTHER LANGUAGE)</font>
+
+415
+00:24:18,836 --> 00:24:19,879
+<font color="#E86CE4">(♪♪♪)</font>
+
+416
+00:24:34,894 --> 00:24:35,978
+<font color="#E86CE4">(GASPS SOFTLY)</font>
+
+417
+00:24:37,354 --> 00:24:38,689
+<font color="#E86CE4">(CHUCKLES)</font>
+
+418
+00:24:46,947 --> 00:24:48,782
+<font color="#E86CE4">(SOFT  TREMBLING BREATHS)</font>
+
+419
+00:24:51,744 --> 00:24:52,745
+<font color="#E86CE4">(♪♪♪)</font>
+
+420
+00:24:57,166 --> 00:24:58,542
+<font color="#E86CE4">(RUMBLING)</font>
+
+421
+00:24:59,585 --> 00:25:00,961
+<font color="#E86CE4">(ALARM BLARING)</font>
+
+422
+00:25:08,010 --> 00:25:09,011
+Fuck.
+
+423
+00:25:09,094 --> 00:25:10,429
+<font color="#E86CE4">(RAPID BEEPING)</font>
+
+424
+00:25:12,264 --> 00:25:13,807
+<font color="#808080">RORY:</font> It's the lab.
+
+425
+00:25:13,933 --> 00:25:15,935
+<font color="#E86CE4">(ALARM CONTINUES BLARING)</font>
+
+426
+00:25:16,018 --> 00:25:17,228
+<font color="#E86CE4">(BEEPING)</font>
+
+427
+00:25:17,311 --> 00:25:18,562
+<font color="#E86CE4">(CLICK  BUZZ)</font>
+
+428
+00:25:18,646 --> 00:25:19,730
+<font color="#E86CE4">(WHOOSHING)</font>
+
+429
+00:25:21,440 --> 00:25:22,775
+<font color="#E86CE4">(CLOSES DOOR)</font>
+
+430
+00:25:28,364 --> 00:25:30,074
+<font color="#E86CE4">(KEYBOARD CLACKING)</font>
+
+431
+00:25:33,160 --> 00:25:34,286
+<font color="#E86CE4">(ALARM STOPS)</font>
+
+432
+00:25:39,416 --> 00:25:41,961
+<i>Okay. Miranda 
+check the O2 in the lab. Is it...</i>
+
+433
+00:25:42,044 --> 00:25:44,046
+O2's on 21. We're clear for contamination.
+
+434
+00:25:44,129 --> 00:25:46,549
+We're okay. Calvin's safe.
+
+435
+00:25:46,632 --> 00:25:48,384
+I don't understand how this happened.
+
+436
+00:25:48,467 --> 00:25:50,010
+Nothing in that lab can malfunction.
+
+437
+00:25:50,094 --> 00:25:51,971
+A clamp. It failed.
+
+438
+00:25:52,054 --> 00:25:53,934
+- It's on me.
+- <font color="#808080">RORY:</font> Yeah  no shit it's on you.
+
+439
+00:25:53,973 --> 00:25:56,141
+A dizzy 5-year-old could have spotted that.
+
+440
+00:25:56,267 --> 00:25:58,467
+<font color="#808080">MIRANDA:</font> Protecting these firewalls 
+yes  that's my job.
+
+441
+00:25:58,519 --> 00:25:59,562
+But I can't do it alone.
+
+442
+00:25:59,645 --> 00:26:01,897
+Kibo wasn't designed
+for strict firewall lockdown 
+
+443
+00:26:01,981 --> 00:26:03,190
+and neither was the station.
+
+444
+00:26:03,274 --> 00:26:04,984
+There is zero precedent for any of this.
+
+445
+00:26:05,276 --> 00:26:08,237
+But you do not come out of that lab
+without triple-checking everything.
+
+446
+00:26:08,612 --> 00:26:11,323
+You do not go into that lab
+without a proper rest.
+
+447
+00:26:11,615 --> 00:26:13,455
+For all I know 
+we're carrying anthrax onboard.
+
+448
+00:26:13,492 --> 00:26:15,077
+You can't compare Calvin to anthrax.
+
+449
+00:26:15,160 --> 00:26:17,913
+Yeah  I know at least five guys
+back home who can do my job.
+
+450
+00:26:17,997 --> 00:26:19,248
+<font color="#E86CE4">(PANTING)</font>
+
+451
+00:26:19,331 --> 00:26:20,666
+Nobody can do yours except you.
+
+452
+00:26:21,375 --> 00:26:24,587
+I don't want to be around that thing.
+I'm not qualified to be around that thing.
+
+453
+00:26:24,670 --> 00:26:25,790
+- <font color="#808080">HUGH:</font> I understand.
+- Good.
+
+454
+00:26:25,838 --> 00:26:27,357
+I'm just saying
+you can't compare Calvin to anthrax.
+
+455
+00:26:27,381 --> 00:26:29,192
+<font color="#808080">RORY:</font> Stop...
+Stop calling it fucking "Calvin."
+
+456
+00:26:29,216 --> 00:26:31,427
+We don't know what that thing is. Yeah?
+
+457
+00:26:31,510 --> 00:26:33,071
+And you're in there 
+and you're playing around with it
+
+458
+00:26:33,095 --> 00:26:34,346
+like it's your buddy.
+
+459
+00:26:36,140 --> 00:26:38,309
+I'm your buddy.
+You're drunk on this. Wake up.
+
+460
+00:26:38,392 --> 00:26:41,437
+<font color="#808080">MIRANDA:</font> This isn't and will never be
+a controlled experiment.
+
+461
+00:26:41,520 --> 00:26:44,189
+So let's all agree
+we made our first and last mistake.
+
+462
+00:26:44,398 --> 00:26:45,733
+I miss my fucking dog.
+
+463
+00:26:45,816 --> 00:26:47,151
+Good night.
+
+464
+00:26:47,234 --> 00:26:48,277
+<font color="#E86CE4">(♪♪♪)</font>
+
+465
+00:26:54,450 --> 00:26:58,287
+<font color="#808080">MIRANDA:</font> <i>Dr. Miranda North 
+quarantine officer  2320 UTC.</i>
+
+466
+00:26:58,370 --> 00:27:01,332
+<i>After weeks of stunning
+growth and activity </i>
+
+467
+00:27:01,415 --> 00:27:04,043
+<i>Calvin is completely inactive.</i>
+
+468
+00:27:04,126 --> 00:27:06,754
+<i>We believe it's likely due to
+the clamp failure in the lab </i>
+
+469
+00:27:06,837 --> 00:27:09,357
+<i>which caused a temporary change
+of air pressure in Calvin's box.</i>
+
+470
+00:27:10,507 --> 00:27:11,550
+<i>Our working theory is that</i>
+
+471
+00:27:11,634 --> 00:27:14,762
+<i>this hibernation
+may be a defense mechanism.</i>
+
+472
+00:27:14,845 --> 00:27:16,138
+<i>Everyone here is on edge </i>
+
+473
+00:27:16,221 --> 00:27:18,807
+<i>and Hugh  of course 
+has been beating himself up </i>
+
+474
+00:27:18,891 --> 00:27:21,644
+<i>but  honestly  I'm relieved.</i>
+
+475
+00:27:22,102 --> 00:27:23,604
+<i>Calvin was growing very fast </i>
+
+476
+00:27:24,146 --> 00:27:25,346
+<i>and this has now given me time</i>
+
+477
+00:27:25,397 --> 00:27:28,150
+<i>to reinforce firewall precautions
+with the crew.</i>
+
+478
+00:27:28,233 --> 00:27:31,904
+<i>The box must stay sealed 
+the lab must stay sealed </i>
+
+479
+00:27:32,321 --> 00:27:34,073
+<i>no matter the risk to Calvin.</i>
+
+480
+00:27:36,283 --> 00:27:37,910
+<font color="#808080">HUGH:</font> It's just floating.
+
+481
+00:27:39,495 --> 00:27:42,373
+Because of my mistake in the lab.
+
+482
+00:27:43,332 --> 00:27:45,250
+And it was going so well.
+
+483
+00:27:45,334 --> 00:27:47,127
+<font color="#E86CE4">(MIRANDA CHUCKLES SOFTLY)</font>
+What?
+
+484
+00:27:47,836 --> 00:27:50,130
+Something my dad used to say.
+
+485
+00:27:50,756 --> 00:27:52,758
+"It was all going so well."
+
+486
+00:27:53,342 --> 00:27:57,513
+<font color="#808080">HUGH:</font> I'm toying with the idea
+of stimulating it electrically.
+
+487
+00:27:57,846 --> 00:27:59,932
+- What do you think?
+- That's not my call.
+
+488
+00:28:00,015 --> 00:28:01,767
+But if it were?
+<font color="#E86CE4">(EXHALES)</font>
+
+489
+00:28:02,142 --> 00:28:03,519
+I don't know.
+
+490
+00:28:03,602 --> 00:28:05,187
+My job is lines of defense.
+
+491
+00:28:05,938 --> 00:28:07,856
+Imagine the worst thing
+that could ever happen 
+
+492
+00:28:07,940 --> 00:28:09,191
+and then the worst after that 
+
+493
+00:28:09,274 --> 00:28:12,194
+and the worst after that  and then I...
+
+494
+00:28:12,277 --> 00:28:14,947
+- I've planned for all of them.
+- <font color="#808080">HUGH:</font> I understand that.
+
+495
+00:28:15,030 --> 00:28:16,990
+But risks are taken for reasons.
+
+496
+00:28:17,074 --> 00:28:19,702
+Because of Calvin 
+we're gonna learn so much about life.
+
+497
+00:28:19,785 --> 00:28:23,497
+Its origin  its nature 
+maybe even its meaning.
+
+498
+00:28:23,580 --> 00:28:25,499
+- No  I know.
+- You're a doctor.
+
+499
+00:28:25,791 --> 00:28:27,793
+Um  stem cell research.
+
+500
+00:28:28,043 --> 00:28:30,754
+What if Calvin could make
+stem cells obsolete?
+
+501
+00:28:32,506 --> 00:28:34,508
+Help cure the incurable...
+
+502
+00:28:35,467 --> 00:28:36,802
+Reverse the irreversible.
+
+503
+00:28:37,678 --> 00:28:39,221
+I have to fix this.
+
+504
+00:28:40,097 --> 00:28:41,432
+Good. Are you ready?
+
+505
+00:28:41,515 --> 00:28:42,975
+- Stretch.
+- <font color="#808080">HUGH:</font> Okay.
+
+506
+00:28:46,729 --> 00:28:48,480
+And relax.
+
+507
+00:28:53,777 --> 00:28:55,821
+<font color="#E86CE4">(BEEPING)</font>
+Ready.
+
+508
+00:28:56,572 --> 00:28:58,174
+You sure it won't hurt it?
+<font color="#E86CE4">(ELECTRICAL CRACKLE)</font>
+
+509
+00:28:58,198 --> 00:28:59,825
+It's a very  very low voltage.
+
+510
+00:29:00,659 --> 00:29:02,453
+We're only stimulating it.
+
+511
+00:29:02,995 --> 00:29:04,538
+<font color="#808080">RORY:</font> <i>What exactly are you hoping for?</i>
+
+512
+00:29:05,330 --> 00:29:06,790
+<font color="#808080">HUGH:</font> I'm hoping to wake him up.
+
+513
+00:29:08,250 --> 00:29:11,879
+We're seeing under what conditions
+it reengages with its environment.
+
+514
+00:29:13,005 --> 00:29:14,131
+<font color="#E86CE4">(SQUEAKS)</font>
+
+515
+00:29:17,634 --> 00:29:18,969
+<font color="#808080">RORY:</font> Come on in.
+
+516
+00:29:19,636 --> 00:29:21,346
+<i>We're shocking the monkey.</i>
+
+517
+00:29:23,849 --> 00:29:25,017
+<font color="#E86CE4">(CRACKLES)</font>
+
+518
+00:29:26,435 --> 00:29:27,686
+<font color="#E86CE4">(INHALES DEEPLY)</font>
+
+519
+00:29:27,770 --> 00:29:29,521
+Trying another spot.
+
+520
+00:29:30,606 --> 00:29:31,690
+<font color="#E86CE4">(HUGH SIGHS)</font>
+
+521
+00:29:33,192 --> 00:29:34,401
+<font color="#E86CE4">(CRACKLES)</font>
+
+522
+00:29:36,028 --> 00:29:39,156
+<font color="#808080">HUGH:</font> <i>Nothing.
+Not even at a cellular level.</i>
+
+523
+00:29:39,239 --> 00:29:41,950
+Are you sure it's not  uh  dead?
+
+524
+00:29:42,034 --> 00:29:44,745
+<font color="#808080">HUGH:</font> It's alive.
+It's just in a deep sleep.
+
+525
+00:29:45,370 --> 00:29:46,497
+<i>Oh  come on  Calvin.</i>
+
+526
+00:29:48,916 --> 00:29:50,125
+Wake up.
+
+527
+00:29:52,377 --> 00:29:54,379
+<font color="#E86CE4">(CRACKLES)</font>
+Shit!
+
+528
+00:29:56,256 --> 00:29:58,175
+<font color="#E86CE4">(GROANS)</font>
+<font color="#808080">RORY:</font> <i>What's wrong?</i>
+
+529
+00:29:58,467 --> 00:29:59,802
+<font color="#808080">HUGH:</font> <i>It broke the wand.</i>
+
+530
+00:29:59,885 --> 00:30:01,261
+<font color="#E86CE4">(RAPID BEEPING)</font>
+
+531
+00:30:06,975 --> 00:30:08,936
+I'm gonna try and pull my hand out.
+
+532
+00:30:09,019 --> 00:30:11,522
+Do that  but just make sure
+to protect the glove.
+
+533
+00:30:12,397 --> 00:30:14,775
+<font color="#808080">HUGH:</font> <font color="#E86CE4">(WHISPERS)</font> <i>Shit.</i>
+<font color="#808080">SHO:</font> It's gripping the glass.
+
+534
+00:30:14,858 --> 00:30:15,901
+<font color="#808080">HUGH:</font> <i>Okay  okay.</i>
+
+535
+00:30:18,070 --> 00:30:19,321
+<font color="#E86CE4">(HAND SQUEAKS OVER GLASS)</font>
+
+536
+00:30:20,572 --> 00:30:22,658
+<font color="#E86CE4">(GRUNTING)</font> Little sod.
+
+537
+00:30:22,741 --> 00:30:24,535
+<font color="#808080">MIRANDA:</font> <i>How hard is it holding on to you?</i>
+
+538
+00:30:24,618 --> 00:30:26,703
+- Like a firm handshake.
+- It's fine.
+
+539
+00:30:26,787 --> 00:30:29,122
+<i>It doesn't hurt  but it's growing strong.</i>
+
+540
+00:30:29,206 --> 00:30:31,291
+- <font color="#808080">KAT:</font> What's the problem?
+- It's got Hugh's hand.
+
+541
+00:30:32,543 --> 00:30:34,837
+His heart rate is at 165.
+
+542
+00:30:35,212 --> 00:30:38,173
+- Sho  can we trust the glove?
+- It's very tight.
+
+543
+00:30:38,257 --> 00:30:40,467
+<font color="#808080">RORY:</font> Glove's not going anywhere.
+It's fine.
+
+544
+00:30:40,551 --> 00:30:41,551
+<i>Shit.</i>
+
+545
+00:30:41,593 --> 00:30:43,679
+Okay  but just relax. Tell him to relax.
+
+546
+00:30:43,762 --> 00:30:45,532
+- Derry? Derry  look at me.
+- Tell him to calm down.
+
+547
+00:30:45,556 --> 00:30:47,683
+Look at me. Relax. Just relax your hand.
+
+548
+00:30:47,766 --> 00:30:50,185
+<font color="#E86CE4">(GROANS  PANTS)</font>
+<font color="#808080">MIRANDA:</font> <i>Okay.</i>
+
+549
+00:30:50,269 --> 00:30:51,937
+It's in between my fingers.
+
+550
+00:30:54,273 --> 00:30:55,416
+<font color="#808080">RORY:</font> <i>Can I make a suggestion?</i>
+
+551
+00:30:55,440 --> 00:30:57,085
+Can I just...
+Can I go in there and get him and...
+
+552
+00:30:57,109 --> 00:30:58,549
+No  you're not going to go in there.
+
+553
+00:30:58,610 --> 00:31:00,672
+No  of course you're not 
+because we have to maintain quarantine.
+
+554
+00:31:00,696 --> 00:31:02,674
+- Stop.
+<i>- No  I can do this. I can. I can do this. Um...</i>
+
+555
+00:31:02,698 --> 00:31:04,467
+- Can you try and distract it?
+- <font color="#808080">HUGH:</font> <i>Yes  yes.</i>
+
+556
+00:31:04,491 --> 00:31:06,493
+Um  um  I'll see
+if I can interest it in the wand.
+
+557
+00:31:06,785 --> 00:31:08,203
+<font color="#E86CE4">(SQUEAKING)</font>
+
+558
+00:31:09,454 --> 00:31:11,415
+Come on  my favorite little Martian.
+
+559
+00:31:13,458 --> 00:31:14,626
+Come on.
+
+560
+00:31:16,461 --> 00:31:17,504
+Come on.
+
+561
+00:31:18,463 --> 00:31:19,756
+Come on.
+
+562
+00:31:20,465 --> 00:31:22,259
+<font color="#E86CE4">(PANTING  TREMBLING)</font>
+
+563
+00:31:23,760 --> 00:31:25,012
+Come on.
+
+564
+00:31:26,805 --> 00:31:27,806
+Come on.
+
+565
+00:31:29,141 --> 00:31:30,267
+Oh!
+
+566
+00:31:32,269 --> 00:31:33,687
+He lost interest.
+
+567
+00:31:34,146 --> 00:31:35,314
+<font color="#E86CE4">(GRUNTS)</font>
+
+568
+00:31:38,358 --> 00:31:39,651
+It's got hold of my hand.
+
+569
+00:31:42,988 --> 00:31:44,072
+<font color="#E86CE4">(LOW GRUNTING)</font>
+
+570
+00:31:44,156 --> 00:31:45,490
+Ahh!
+
+571
+00:31:46,074 --> 00:31:47,743
+<font color="#808080">MIRANDA:</font> <i>Hugh?</i>
+<font color="#808080">RORY:</font> <i>Hugh?</i>
+
+572
+00:31:47,826 --> 00:31:48,826
+Hugh?
+
+573
+00:31:48,869 --> 00:31:50,078
+<font color="#E86CE4">(HUGH GASPING)</font>
+
+574
+00:31:50,162 --> 00:31:52,080
+<font color="#808080">RORY:</font> <i>Hey  Hugh?</i>
+<font color="#808080">MIRANDA:</font> <i>Hugh?</i>
+
+575
+00:31:52,164 --> 00:31:53,290
+<font color="#E86CE4">(GRUNTING)</font>
+
+576
+00:31:53,373 --> 00:31:54,625
+<font color="#E86CE4">(SQUEAKING)</font>
+
+577
+00:31:56,209 --> 00:31:57,794
+<font color="#E86CE4">(FRANTIC GRUNTING)</font>
+
+578
+00:32:00,839 --> 00:32:02,257
+<font color="#E86CE4">(GASPING)</font> Help me! Help me!
+
+579
+00:32:02,341 --> 00:32:03,902
+<font color="#808080">DAVID:</font> What the fuck is going on?
+<font color="#808080">MIRANDA:</font> No  no one's going in!
+
+580
+00:32:03,926 --> 00:32:05,886
+- Come on. Who's going in?
+- Wait!
+
+581
+00:32:06,011 --> 00:32:07,906
+- Wait for fucking what?
+- <font color="#808080">RORY:</font> Screw it. I'm going in there.
+
+582
+00:32:07,930 --> 00:32:09,014
+Don't do this.
+
+583
+00:32:09,139 --> 00:32:10,265
+<font color="#E86CE4">(GASPING BREATHS)</font>
+
+584
+00:32:10,682 --> 00:32:11,975
+<font color="#E86CE4">(YELLS)</font>
+
+585
+00:32:12,851 --> 00:32:14,329
+I don't give a shit
+about your fucking quarantine!
+
+586
+00:32:14,353 --> 00:32:16,164
+There's nothing to protect you.
+You're not going in there.
+
+587
+00:32:16,188 --> 00:32:17,707
+Who gives you the fucking jurisdiction?
+
+588
+00:32:17,731 --> 00:32:18,875
+- Just open the door  Rory.
+- Wait  wait.
+
+589
+00:32:18,899 --> 00:32:20,525
+<font color="#E86CE4">(GASPING BREATHS)</font>
+
+590
+00:32:21,401 --> 00:32:22,670
+<font color="#808080">MIRANDA:</font> <i>You're not going in there.</i>
+
+591
+00:32:22,694 --> 00:32:24,672
+<font color="#808080">DAVID:</font> <i>Let him in!</i>
+<font color="#808080">MIRANDA:</font> <i>You're not going in there. No.</i>
+
+592
+00:32:24,696 --> 00:32:26,031
+<font color="#E86CE4">(INDISTINCT SHOUTING)</font>
+
+593
+00:32:28,033 --> 00:32:30,202
+<i>- Wait  wait  wait.</i>
+- <font color="#808080">MIRANDA:</font> <i>You're not going in.</i>
+
+594
+00:32:44,424 --> 00:32:45,676
+<font color="#808080">RORY:</font> <i>He's out.</i>
+
+595
+00:32:46,218 --> 00:32:47,886
+<i>He's out.</i>
+
+596
+00:32:51,682 --> 00:32:52,891
+Guys  look at it.
+
+597
+00:33:01,400 --> 00:33:02,484
+<font color="#808080">RORY:</font> <i>Aw  Jesus.</i>
+
+598
+00:33:02,567 --> 00:33:03,860
+<font color="#808080">DAVID:</font> <i>What are his vitals?</i>
+
+599
+00:33:03,944 --> 00:33:05,612
+<i>126 and dropping.</i>
+
+600
+00:33:06,446 --> 00:33:07,823
+<i>What's it doing?</i>
+
+601
+00:33:38,103 --> 00:33:39,521
+<i>Holy shit.</i>
+
+602
+00:33:45,110 --> 00:33:46,111
+<i>Jesus Christ.</i>
+
+603
+00:33:50,949 --> 00:33:53,118
+<font color="#808080">RORY:</font> You guys got eyes on it anywhere?
+
+604
+00:33:55,328 --> 00:33:57,456
+Okay  there. There.
+
+605
+00:33:58,373 --> 00:33:59,624
+<font color="#E86CE4">(SQUEAKING)</font>
+
+606
+00:34:03,170 --> 00:34:04,796
+<font color="#808080">RORY:</font> Guys?
+
+607
+00:34:27,152 --> 00:34:28,612
+<font color="#E86CE4">(SQUEALING)</font>
+
+608
+00:34:30,155 --> 00:34:31,490
+<font color="#E86CE4">(WHIMPERS)</font>
+
+609
+00:34:32,240 --> 00:34:33,658
+<font color="#E86CE4">(CRACKLING)</font>
+
+610
+00:34:44,836 --> 00:34:45,837
+<font color="#808080">RORY:</font> Fuck this.
+
+611
+00:34:45,921 --> 00:34:47,589
+<font color="#808080">MIRANDA:</font> No!
+<font color="#808080">KAT:</font> Let him go.
+
+612
+00:34:47,672 --> 00:34:49,549
+<font color="#808080">RORY:</font> Hey  buddy.
+<font color="#E86CE4">(ALARM BLARING)</font>
+
+613
+00:34:55,138 --> 00:34:56,431
+<font color="#808080">KAT:</font> Watch his hand.
+
+614
+00:34:56,515 --> 00:34:57,995
+<font color="#808080">MIRANDA:</font> There we go.
+<font color="#808080">SHO:</font> It's there.
+
+615
+00:34:59,684 --> 00:35:01,186
+Get him in. Adams!
+
+616
+00:35:04,022 --> 00:35:05,857
+<font color="#E86CE4">(GASPING)</font>
+
+617
+00:35:05,941 --> 00:35:08,610
+<i>- Yeah.</i>
+- <font color="#808080">MIRANDA:</font> <i>David  I need you here.</i>
+
+618
+00:35:11,655 --> 00:35:14,199
+<font color="#808080">KAT:</font> Rory  I can't let you out.
+
+619
+00:35:16,201 --> 00:35:17,786
+<i>Aw  shit.</i>
+
+620
+00:35:17,869 --> 00:35:19,579
+<font color="#808080">DAVID:</font> <i>Oh  gosh.</i>
+
+621
+00:35:19,704 --> 00:35:21,099
+<font color="#808080">MIRANDA:</font> <i>There we go.</i>
+<font color="#808080">SHO:</font> <i>Hugh? Hugh?</i>
+
+622
+00:35:21,123 --> 00:35:23,351
+<i>- Look at me.</i>
+- <font color="#808080">DAVID:</font> <i>Just listen to me for a second  okay?</i>
+
+623
+00:35:23,375 --> 00:35:24,376
+<font color="#808080">RORY:</font> Hey  guys?
+
+624
+00:35:24,459 --> 00:35:26,378
+<font color="#808080">MIRANDA:</font> Sho  can you find a bandage?
+
+625
+00:35:26,461 --> 00:35:27,462
+<i>Suggestions?</i>
+
+626
+00:35:27,546 --> 00:35:29,131
+<i>Get an oxygen candle.</i>
+
+627
+00:35:29,214 --> 00:35:31,383
+<i>- Burn it off.</i>
+- Yeah  yeah  yeah.
+
+628
+00:35:32,926 --> 00:35:34,278
+<font color="#E86CE4">(HUGH GRUNTING)</font>
+<font color="#808080">MIRANDA:</font> <i>Just look at me.</i>
+
+629
+00:35:34,302 --> 00:35:35,470
+<i>Look at me. It's fine.</i>
+
+630
+00:35:37,764 --> 00:35:39,224
+<font color="#E86CE4">(PANTING)</font>
+
+631
+00:35:40,433 --> 00:35:41,434
+<font color="#E86CE4">(WHIRS)</font>
+
+632
+00:35:47,941 --> 00:35:49,067
+<font color="#E86CE4">(GRUNTS)</font>
+
+633
+00:35:51,653 --> 00:35:53,071
+<font color="#808080">RORY:</font> Fuck. <font color="#E86CE4">(GRUNTS)</font>
+
+634
+00:35:54,114 --> 00:35:56,741
+<font color="#E86CE4">(EXHALES)</font> Okay  all right  what now?
+
+635
+00:36:00,579 --> 00:36:01,621
+<i>How do we get him out?</i>
+
+636
+00:36:01,705 --> 00:36:03,665
+We need to get Calvin
+back behind Firewall One 
+
+637
+00:36:03,748 --> 00:36:05,792
+and once he's there  we can pull Rory out.
+
+638
+00:36:05,876 --> 00:36:06,877
+<font color="#808080">RORY:</font> Fuck this.
+
+639
+00:36:06,960 --> 00:36:09,379
+Permission to fucking kill the thing.
+
+640
+00:36:11,256 --> 00:36:12,299
+Commander?
+
+641
+00:36:14,426 --> 00:36:15,427
+<i>Kill it.</i>
+
+642
+00:36:16,261 --> 00:36:17,262
+Sho?
+
+643
+00:36:17,762 --> 00:36:20,974
+<i>- Any suggestions?</i>
+- What about the incinerator?
+
+644
+00:36:21,057 --> 00:36:22,184
+<font color="#E86CE4">(STAMMERS)</font> I like that.
+
+645
+00:36:22,267 --> 00:36:23,518
+All right  genius. Here.
+
+646
+00:36:25,270 --> 00:36:27,480
+<font color="#808080">SHO:</font> Close the red valve.
+Disengage the clamp.
+
+647
+00:36:28,106 --> 00:36:29,524
+<i>Disconnect the hose.</i>
+
+648
+00:36:29,608 --> 00:36:30,692
+<i>Be careful  Rory.</i>
+
+649
+00:36:30,775 --> 00:36:33,028
+<i>- Fuck!</i>
+- <font color="#808080">SHO:</font> There's limited fuel.
+
+650
+00:36:33,111 --> 00:36:35,322
+<i>Copy. Okay.</i>
+
+651
+00:36:36,114 --> 00:36:37,949
+- Manual override.
+- Thank you.
+
+652
+00:36:40,368 --> 00:36:41,661
+Okay.
+
+653
+00:36:50,670 --> 00:36:51,671
+<i>Rory  I...</i>
+
+654
+00:36:53,298 --> 00:36:54,507
+<i>Yeah.</i>
+
+655
+00:36:54,591 --> 00:36:55,884
+<font color="#E86CE4">(FLAME WHOOSHING)</font>
+
+656
+00:37:07,604 --> 00:37:09,105
+<font color="#E86CE4">(STRAINED GRUNT)</font>
+
+657
+00:37:10,857 --> 00:37:12,400
+Fuck!
+
+658
+00:37:15,070 --> 00:37:16,863
+<font color="#808080">SHO:</font> <i>You're wasting too much fuel.</i>
+
+659
+00:37:18,615 --> 00:37:19,991
+<font color="#E86CE4">(STRAINED GRUNTING)</font>
+
+660
+00:37:21,660 --> 00:37:22,827
+<font color="#E86CE4">(YELLS)</font> No!
+
+661
+00:37:22,994 --> 00:37:24,579
+<font color="#E86CE4">(PANTING)</font>
+
+662
+00:37:25,288 --> 00:37:26,665
+Fuck.
+
+663
+00:37:35,006 --> 00:37:36,258
+<font color="#808080">DAVID:</font> <i>Rory!</i>
+
+664
+00:37:39,302 --> 00:37:40,303
+<i>Rory!</i>
+
+665
+00:37:41,012 --> 00:37:42,889
+<i> Hey!</i>
+<font color="#E86CE4">(PANTING)</font>
+
+666
+00:37:43,014 --> 00:37:45,267
+<font color="#808080">KAT:</font> <i>Rory  stop. Stop.</i>
+
+667
+00:37:45,350 --> 00:37:46,726
+<font color="#808080">MIRANDA:</font> <i>Rory!</i>
+
+668
+00:37:48,353 --> 00:37:49,479
+<font color="#E86CE4">(GRUNTS)</font>
+
+669
+00:37:50,855 --> 00:37:52,899
+<font color="#E86CE4">(GASPING BREATHS)</font>
+<font color="#E86CE4">(BEEPING)</font>
+
+670
+00:37:52,983 --> 00:37:56,027
+<font color="#808080">SHO:</font> <i>Rory? You're out of fuel.</i>
+
+671
+00:38:06,037 --> 00:38:07,372
+<font color="#E86CE4">(FAINT CLINKING)</font>
+
+672
+00:38:13,211 --> 00:38:15,130
+<font color="#E86CE4">(PANTING)</font>
+<font color="#E86CE4">(FAINT THUMPING)</font>
+
+673
+00:38:15,505 --> 00:38:16,756
+<font color="#E86CE4">(PANTING)</font>
+
+674
+00:38:19,509 --> 00:38:20,552
+<i>It's behind you!</i>
+
+675
+00:38:21,803 --> 00:38:23,138
+<font color="#E86CE4">(GRUNTING)</font>
+
+676
+00:38:27,642 --> 00:38:28,935
+<font color="#E86CE4">(GASPING WEAKLY)</font>
+
+677
+00:38:37,193 --> 00:38:38,528
+<font color="#E86CE4">(CHOKING)</font>
+
+678
+00:38:40,113 --> 00:38:42,282
+<font color="#E86CE4">(WHISPERS)</font> <i>Jesus.</i>
+<font color="#E86CE4">(WHISPERS)</font> <i>Fuck.</i>
+
+679
+00:38:43,408 --> 00:38:45,118
+<font color="#808080">DAVID:</font> <i>Somebody open the fucking door!</i>
+
+680
+00:38:45,201 --> 00:38:47,162
+<i>Open the portal now! Just open the portal.</i>
+
+681
+00:38:47,245 --> 00:38:48,681
+<i>There's a man in there getting strangled.</i>
+
+682
+00:38:48,705 --> 00:38:51,267
+<i>- Rory? What is he saying? Rory?
+- I can't  no matter what's happening.</i>
+
+683
+00:38:51,291 --> 00:38:53,001
+<font color="#808080">DAVID:</font> <i>Kat. Kat! We got to open the door!</i>
+
+684
+00:38:53,084 --> 00:38:54,562
+<i>- No! No one's going in! It's protocol!
+- Rory?</i>
+
+685
+00:38:54,586 --> 00:38:56,272
+<font color="#808080">DAVID:</font> <i>What is this fucking protocol?</i>
+<font color="#808080">MIRANDA:</font> <i>Jordan  no!</i>
+
+686
+00:38:56,296 --> 00:38:57,672
+<i>- Just open the portal!
+- Rory?</i>
+
+687
+00:38:57,756 --> 00:38:59,942
+<font color="#808080">DAVID:</font> <i>There's a man dying in there!</i>
+<font color="#808080">MIRANDA:</font> <i>Nobody open the fucking...</i>
+
+688
+00:38:59,966 --> 00:39:01,509
+<font color="#808080">MIRANDA:</font> <i>Rory  look at me  look at me.</i>
+
+689
+00:39:01,593 --> 00:39:03,845
+<font color="#808080">DAVID:</font> <i>Rory  we can't hear you
+if you take your comm out.</i>
+
+690
+00:39:03,928 --> 00:39:05,528
+<font color="#808080">MIRANDA:</font> <i>I need to see what's happening!</i>
+
+691
+00:39:05,597 --> 00:39:08,516
+<font color="#808080">DAVID:</font> <i>Rory! Rory?</i>
+<font color="#808080">MIRANDA:</font> <i>Rory!</i>
+
+692
+00:39:08,600 --> 00:39:10,328
+<font color="#808080">MIRANDA:</font> <i>Will you turn around?
+Can you turn around?</i>
+
+693
+00:39:10,352 --> 00:39:12,062
+<font color="#808080">DAVID:</font> <i>There's a man dying in there!</i>
+
+694
+00:39:12,145 --> 00:39:14,481
+<i>We can't hear you if
+you take your comm out!</i>
+
+695
+00:39:14,606 --> 00:39:16,083
+<font color="#808080">MIRANDA:</font> <i>No! No  you are not going in!</i>
+
+696
+00:39:16,107 --> 00:39:17,734
+<font color="#808080">HUGH:</font> <i>Help him!</i>
+<font color="#808080">DAVID:</font> <i>Open the door!</i>
+
+697
+00:39:17,817 --> 00:39:20,195
+<font color="#808080">MIRANDA:</font> <i>Don't open the door  okay?
+Don't open the door!</i>
+
+698
+00:39:20,278 --> 00:39:21,278
+<i>Stay back!</i>
+
+699
+00:39:21,321 --> 00:39:23,907
+<i>I need to see your face.
+Can you turn around?</i>
+
+700
+00:39:23,990 --> 00:39:26,242
+<i> Can you turn around?</i>
+<font color="#E86CE4">(CHOKING  GASPING)</font>
+
+701
+00:39:26,326 --> 00:39:27,369
+<font color="#E86CE4">(♪♪♪)</font>
+
+702
+00:39:35,794 --> 00:39:38,046
+<font color="#E86CE4">(SLOW  STEADY BEEPING)</font>
+
+703
+00:39:38,505 --> 00:39:40,173
+<font color="#E86CE4">(FLATLINING TONE)</font>
+
+704
+00:39:40,924 --> 00:39:42,842
+<font color="#E86CE4">(SHUDDERING BREATH)</font>
+
+705
+00:39:48,223 --> 00:39:49,599
+<font color="#E86CE4">(SQUISHING)</font>
+
+706
+00:40:03,071 --> 00:40:04,114
+<font color="#E86CE4">(♪♪♪)</font>
+
+707
+00:40:23,341 --> 00:40:25,135
+<font color="#E86CE4">(SHUDDERING BREATHS)</font>
+
+708
+00:40:32,600 --> 00:40:33,685
+<font color="#E86CE4">(WHISPERS)</font> <i>Guys.</i>
+
+709
+00:40:34,269 --> 00:40:35,645
+<i>Guys.</i>
+
+710
+00:40:40,567 --> 00:40:42,068
+<font color="#E86CE4">(ALARM BLARING)</font>
+
+711
+00:40:43,278 --> 00:40:44,320
+Sho.
+
+712
+00:40:50,034 --> 00:40:52,078
+<font color="#E86CE4">(ALARM CONTINUES BLARING)</font>
+
+713
+00:41:13,725 --> 00:41:15,393
+<font color="#808080">MIRANDA:</font> <i>That's so much bigger.</i>
+
+714
+00:41:19,814 --> 00:41:21,232
+<i>Jesus.</i>
+
+715
+00:41:21,858 --> 00:41:22,901
+<font color="#808080">MIRANDA:</font> <i>Guys?</i>
+
+716
+00:41:22,984 --> 00:41:24,903
+- Sho.
+- <font color="#808080">MIRANDA:</font> <i>Guys  it's trying to get out.</i>
+
+717
+00:41:25,487 --> 00:41:27,071
+The CPU overrode us.
+
+718
+00:41:27,155 --> 00:41:28,675
+<font color="#808080">MIRANDA:</font> <i>It's searching for a way out.</i>
+
+719
+00:41:28,740 --> 00:41:31,326
+- The system won't give me access to it.
+- <font color="#808080">KAT:</font> Full manual.
+
+720
+00:41:31,409 --> 00:41:33,453
+<font color="#808080">MIRANDA:</font> <i>Shut them down  okay?</i>
+
+721
+00:41:36,414 --> 00:41:38,041
+<i>How smart is this thing?</i>
+
+722
+00:41:38,416 --> 00:41:40,168
+It feels the airflow.
+
+723
+00:41:40,752 --> 00:41:42,337
+I can't control them all at once.
+
+724
+00:41:42,420 --> 00:41:43,660
+<font color="#808080">KAT:</font> Then shut them one by one.
+
+725
+00:41:48,885 --> 00:41:49,886
+Seal the lab.
+
+726
+00:41:50,803 --> 00:41:53,640
+<i>- Just shut it down! Shut it down now!</i>
+- <font color="#808080">KAT:</font> We are on it.
+
+727
+00:41:58,853 --> 00:42:00,104
+<font color="#E86CE4">(BEEPING)</font>
+
+728
+00:42:06,444 --> 00:42:08,446
+<font color="#E86CE4">(FAINT  MUFFLED THUMPING)</font>
+
+729
+00:42:09,781 --> 00:42:11,658
+<font color="#E86CE4">(MUFFLED THUMPING CONTINUES)</font>
+
+730
+00:42:17,956 --> 00:42:19,332
+<i>Guys  it's gone.</i>
+
+731
+00:42:21,918 --> 00:42:24,337
+- It got out.
+- <font color="#808080">KAT:</font> <i>Where did it go?</i>
+
+732
+00:42:24,420 --> 00:42:26,339
+<font color="#808080">DAVID:</font> <i>Could be anywhere now.</i>
+
+733
+00:42:26,965 --> 00:42:28,925
+<font color="#808080">MIRANDA:</font> Firewall Two has failed.
+
+734
+00:42:29,759 --> 00:42:31,636
+<font color="#E86CE4">(BREATH SHUDDERING)</font>
+
+735
+00:42:32,262 --> 00:42:33,304
+<font color="#E86CE4">(♪♪♪)</font>
+
+736
+00:42:40,812 --> 00:42:41,854
+<font color="#808080">DAVID:</font> <i>Kat.</i>
+
+737
+00:42:42,939 --> 00:42:45,024
+<i>We need to reestablish quarantine.</i>
+
+738
+00:42:46,192 --> 00:42:47,819
+<font color="#808080">KAT:</font> <i>And get a distress call out.</i>
+
+739
+00:42:49,696 --> 00:42:51,281
+<i>Control  this is Station.</i>
+
+740
+00:42:51,614 --> 00:42:52,949
+<i>Station for Control.</i>
+
+741
+00:42:53,032 --> 00:42:54,909
+The specimen's location is unknown.
+
+742
+00:42:54,993 --> 00:42:57,245
+It is to be considered hostile and deadly.
+
+743
+00:42:57,328 --> 00:43:01,666
+<i>Our intent is to isolate and destroy it
+in compliance with protocol.</i>
+
+744
+00:43:02,333 --> 00:43:05,753
+We'll continue said course of action
+unless otherwise instructed.
+
+745
+00:43:06,004 --> 00:43:09,173
+- Please acknowledge and advise...
+- Kat? Kat. We lost them.
+
+746
+00:43:10,008 --> 00:43:11,801
+- How much of that went out?
+- Some.
+
+747
+00:43:11,884 --> 00:43:13,386
+I think.
+
+748
+00:43:14,470 --> 00:43:15,930
+There is no way to be sure.
+
+749
+00:43:16,014 --> 00:43:18,016
+Looks like communications just failed.
+
+750
+00:43:18,474 --> 00:43:19,767
+Can we talk to each other?
+
+751
+00:43:20,476 --> 00:43:23,187
+David. It's Kat.
+
+752
+00:43:23,688 --> 00:43:24,939
+Do you copy?
+
+753
+00:43:26,065 --> 00:43:27,650
+<font color="#808080">DAVID:</font> <i>Go for David.</i>
+
+754
+00:43:27,734 --> 00:43:29,611
+So  we've lost contact with Earth.
+
+755
+00:43:29,694 --> 00:43:31,988
+<font color="#E86CE4">(SIGHS)</font> I don't think... Wait.
+
+756
+00:43:33,114 --> 00:43:35,617
+Yes  outside communications are down.
+
+757
+00:43:35,700 --> 00:43:37,744
+- Could the sprinklers affect comms?
+- <font color="#808080">SHO:</font> No.
+
+758
+00:43:38,286 --> 00:43:40,330
+They're independent systems.
+
+759
+00:43:40,413 --> 00:43:42,123
+Can we run a diagnostic from here?
+
+760
+00:43:43,666 --> 00:43:45,209
+<font color="#E86CE4">(CLICKING  BEEPING)</font>
+
+761
+00:43:46,044 --> 00:43:48,004
+<font color="#808080">SHO:</font> The transmitter has failed.
+
+762
+00:43:48,087 --> 00:43:52,383
+But we have to go outside to access it
+and get Earth back online.
+
+763
+00:43:53,051 --> 00:43:54,093
+Then I have to walk.
+
+764
+00:43:55,637 --> 00:43:56,929
+Let me.
+
+765
+00:43:58,056 --> 00:43:59,223
+No.
+
+766
+00:44:00,016 --> 00:44:03,061
+After Rory  I'm best qualified
+for walk-and-repair.
+
+767
+00:44:09,359 --> 00:44:10,419
+<font color="#808080">DAVID:</font> <i>This is not protocol.</i>
+
+768
+00:44:10,443 --> 00:44:12,779
+<i>It's way too risky for
+you to go out there and</i>
+
+769
+00:44:12,862 --> 00:44:14,197
+fix the comms.
+
+770
+00:44:14,280 --> 00:44:16,199
+We don't know where Calvin is.
+
+771
+00:44:17,200 --> 00:44:18,640
+You haven't had your nitrogen detox.
+
+772
+00:44:18,701 --> 00:44:20,078
+Your health is my responsibility.
+
+773
+00:44:20,536 --> 00:44:22,205
+- I'll be fine.
+- Yeah.
+
+774
+00:44:22,288 --> 00:44:23,581
+What is it you say?
+
+775
+00:44:26,042 --> 00:44:27,502
+"Slow is fast " right?
+
+776
+00:44:27,585 --> 00:44:29,712
+Yeah. Slow to go fast.
+
+777
+00:44:29,796 --> 00:44:32,590
+Yeah. Well  that's out the window.
+
+778
+00:44:33,216 --> 00:44:35,176
+We can escape in the lifeboats.
+
+779
+00:44:35,259 --> 00:44:37,762
+Earth is the responsibility.
+Nothing goes down to the planet.
+
+780
+00:44:38,930 --> 00:44:40,973
+It was stipulated. In writing.
+
+781
+00:44:41,057 --> 00:44:44,102
+<font color="#808080">DAVID:</font> What are you talking about?
+What was stipulated in writing?
+
+782
+00:44:46,938 --> 00:44:48,481
+What was stipulated?
+
+783
+00:44:52,068 --> 00:44:54,195
+<font color="#808080">KAT:</font> <i>David  first things first.</i>
+
+784
+00:44:54,278 --> 00:44:58,157
+<i>When we're back in touch with Control 
+we'll turn our attention to Calvin.</i>
+
+785
+00:45:00,952 --> 00:45:02,370
+<i>Don't worry.</i>
+
+786
+00:45:05,456 --> 00:45:07,667
+<font color="#E86CE4">(INDISTINCT CHATTER OVER COMM)</font>
+
+787
+00:45:08,418 --> 00:45:10,670
+<font color="#808080">MIRANDA:</font> <i>Rate  61 beats a minute.</i>
+
+788
+00:45:10,753 --> 00:45:13,172
+<i>Pressure  97 over 53.</i>
+
+789
+00:45:14,132 --> 00:45:15,967
+<i>I'd hate to see you relaxed.</i>
+
+790
+00:45:16,050 --> 00:45:18,970
+<font color="#808080">DAVID:</font> <i>But she is relaxed. Aren't you  Kat?</i>
+
+791
+00:45:19,053 --> 00:45:20,722
+<font color="#808080">SHO:</font> <i>Suit's running warm.</i>
+
+792
+00:45:21,472 --> 00:45:23,558
+<font color="#808080">KAT:</font> <i>Like Siberia in summer.</i>
+
+793
+00:45:24,016 --> 00:45:25,226
+<font color="#E86CE4">(LOW GASP)</font>
+
+794
+00:45:30,523 --> 00:45:32,316
+<i>I'm at the transmitter.</i>
+
+795
+00:45:33,735 --> 00:45:36,070
+<i>Commencing on-site diagnostic.</i>
+
+796
+00:45:39,073 --> 00:45:40,324
+<i>It's overheated.</i>
+
+797
+00:45:40,992 --> 00:45:42,243
+<i>I can tell.</i>
+
+798
+00:45:42,952 --> 00:45:44,203
+<font color="#808080">SHO:</font> <i>How?</i>
+
+799
+00:45:44,287 --> 00:45:45,830
+<i>I see scorching.</i>
+
+800
+00:45:47,498 --> 00:45:49,917
+<i>I want to check the coolant levels.</i>
+
+801
+00:45:50,001 --> 00:45:52,420
+<i>Is it possible
+Calvin could have gotten into coolant?</i>
+
+802
+00:45:52,503 --> 00:45:53,504
+Possible.
+
+803
+00:45:54,380 --> 00:45:55,465
+<i>We have to know.</i>
+
+804
+00:46:00,887 --> 00:46:04,182
+<i>- There is the issue.</i>
+- <font color="#808080">HUGH:</font> <i>Commander?</i>
+
+805
+00:46:05,016 --> 00:46:06,642
+<i>It's bone-dry.</i>
+
+806
+00:46:06,726 --> 00:46:08,436
+<font color="#808080">HUGH:</font> <i>Calvin is a carbon-based organism.</i>
+
+807
+00:46:08,519 --> 00:46:10,855
+<i>It needs food  water 
+and oxygen  just like us.</i>
+
+808
+00:46:10,938 --> 00:46:14,108
+<i>We have to consider the possibility
+it consumed the coolant for food.</i>
+
+809
+00:46:14,192 --> 00:46:17,820
+<i>David  could you list
+all the water sources aboard?</i>
+
+810
+00:46:17,904 --> 00:46:18,946
+<i>Pure or otherwise.</i>
+
+811
+00:46:19,363 --> 00:46:21,824
+<font color="#808080">DAVID:</font> <i>Uh  there's plenty
+of drinking water </i>
+
+812
+00:46:21,908 --> 00:46:25,495
+<i>there's coolant for the comms 
+coolant for the CPU...</i>
+
+813
+00:46:26,120 --> 00:46:28,539
+<i>Um... There's coolant for the spacesuits.</i>
+
+814
+00:46:29,707 --> 00:46:31,876
+<font color="#E86CE4">(GASPS)</font>
+<font color="#808080">MIRANDA:</font> <i>Commander?</i>
+
+815
+00:46:33,044 --> 00:46:35,797
+<font color="#808080">KAT:</font> <i>Calvin just came out.
+It grabbed my suit.</i>
+
+816
+00:46:42,094 --> 00:46:43,513
+<i>It's bigger.</i>
+
+817
+00:46:46,849 --> 00:46:48,309
+<i>It's trying to get in.</i>
+
+818
+00:46:48,392 --> 00:46:49,685
+<font color="#808080">SHO:</font> <i>Trust your suit.</i>
+
+819
+00:46:50,228 --> 00:46:52,230
+<font color="#808080">MIRANDA:</font> <i>Can it breathe out there?</i>
+<font color="#808080">HUGH:</font> <i>No.</i>
+
+820
+00:46:52,313 --> 00:46:54,690
+<i>But it might be able to
+store oxygen for a period of time.</i>
+
+821
+00:46:54,774 --> 00:46:56,067
+<i>I'm closing the valve.</i>
+
+822
+00:46:58,110 --> 00:47:00,196
+<font color="#E86CE4">(PANTING  TREMBLING)</font>
+
+823
+00:47:01,572 --> 00:47:02,740
+<i>It's squeezing.</i>
+
+824
+00:47:03,658 --> 00:47:04,992
+<font color="#808080">HUGH:</font> <i>Kat. Kat  are you okay?</i>
+
+825
+00:47:05,076 --> 00:47:07,578
+<i>Yes. The suit's thick enough.</i>
+
+826
+00:47:07,662 --> 00:47:11,290
+It's twisting up your leg.
+Go. Go to the airlock now.
+
+827
+00:47:11,374 --> 00:47:14,627
+Aw  fuck this. I'm headed for the airlock.
+I'm burning this fucker off.
+
+828
+00:47:15,086 --> 00:47:16,796
+<font color="#808080">SHO:</font> <i>Kat  focus on meeting David.</i>
+
+829
+00:47:17,338 --> 00:47:19,131
+<i>We'll worry about the comms later.</i>
+
+830
+00:47:19,674 --> 00:47:20,675
+<i>Sho?</i>
+
+831
+00:47:26,222 --> 00:47:27,382
+<i>There's liquid in the helmet.</i>
+
+832
+00:47:28,057 --> 00:47:30,768
+<i>Calvin must have broken my coolant loop.</i>
+
+833
+00:47:30,852 --> 00:47:32,812
+Kat  there is enough coolant.
+
+834
+00:47:32,895 --> 00:47:34,355
+<font color="#808080">KAT:</font> <i>Yes  I know.</i>
+
+835
+00:47:34,438 --> 00:47:36,607
+<i> I know.</i>
+<font color="#E86CE4">(FOOTSTEPS THUMPING)</font>
+
+836
+00:47:36,858 --> 00:47:38,901
+<i>David  meet me at the airlock.</i>
+
+837
+00:47:39,527 --> 00:47:40,903
+What? Yeah. Go  go  go!
+
+838
+00:47:40,987 --> 00:47:42,488
+<font color="#808080">KAT:</font> <i>It's squeezing harder.</i>
+
+839
+00:47:42,572 --> 00:47:44,740
+<font color="#808080">DAVID:</font> <i>Calvin cracked
+the coolant system in her suit.</i>
+
+840
+00:47:45,283 --> 00:47:47,451
+<font color="#808080">HUGH:</font> <i>Commander  Calvin knows
+exactly what it's doing.</i>
+
+841
+00:47:47,952 --> 00:47:49,412
+<i>It's growing smarter.</i>
+
+842
+00:47:50,037 --> 00:47:51,747
+<i>The liquid  it's blocking my vision.</i>
+
+843
+00:47:54,625 --> 00:47:56,294
+<i>I don't have time.</i>
+
+844
+00:47:56,377 --> 00:47:57,670
+<i>I've got to jump.</i>
+
+845
+00:47:57,753 --> 00:48:00,506
+- <font color="#808080">SHO:</font> <i>Kat  the tether won't reach.
+- I'm unclipping.</i>
+
+846
+00:48:05,511 --> 00:48:07,138
+- <font color="#808080">SHO:</font> <i>Kat?
+- No comments!</i>
+
+847
+00:48:07,221 --> 00:48:08,848
+<i>I've got to jump.</i>
+
+848
+00:48:10,141 --> 00:48:11,642
+<font color="#E86CE4">(GRUNTS)</font>
+
+849
+00:48:14,645 --> 00:48:16,606
+<font color="#E86CE4">(RUMBLING)</font>
+<font color="#E86CE4">(GRUNTS)</font>
+
+850
+00:48:16,689 --> 00:48:17,899
+<font color="#E86CE4">(GASPS)</font>
+
+851
+00:48:29,243 --> 00:48:30,620
+<font color="#E86CE4">(MUFFLED GRUNTING)</font>
+
+852
+00:48:40,838 --> 00:48:42,482
+<font color="#808080">MIRANDA:</font> David 
+I've taken Kat off the channel.
+
+853
+00:48:42,506 --> 00:48:44,133
+<i>Look  she's not gonna tell you this </i>
+
+854
+00:48:44,216 --> 00:48:46,928
+<i>but her heart is beating out of her chest.
+She's drowning.</i>
+
+855
+00:48:47,511 --> 00:48:48,989
+<i>So just be prepared 
+she may not be rational.</i>
+
+856
+00:48:49,013 --> 00:48:50,013
+<font color="#808080">DAVID:</font> <i>Copy that.</i>
+
+857
+00:48:50,056 --> 00:48:51,766
+Sho  I have no time for EVA.
+
+858
+00:48:51,849 --> 00:48:52,889
+I'm using the launch suit.
+
+859
+00:48:52,934 --> 00:48:54,369
+- <font color="#808080">SHO:</font> <i>It's not designed for this.</i>
+- I know.
+
+860
+00:48:54,393 --> 00:48:56,455
+- There's not enough protection.
+<i>- I know. Don't worry.</i>
+
+861
+00:48:56,479 --> 00:48:58,332
+<font color="#808080">MIRANDA:</font> <i>Kat is less than a minute out.</i>
+<font color="#808080">DAVID:</font> Vent the airlock.
+
+862
+00:48:58,356 --> 00:48:59,583
+- <font color="#808080">SHO:</font> <i>What about decompression?</i>
+- Just do it.
+
+863
+00:48:59,607 --> 00:49:01,001
+<i>- It's gonna hurt.</i>
+- Come on  do it!
+
+864
+00:49:01,025 --> 00:49:02,225
+<i>- Is your helmet sealed?</i>
+- Sho!
+
+865
+00:49:04,320 --> 00:49:06,197
+<font color="#E86CE4">(WHOOSHING)</font>
+
+866
+00:49:06,280 --> 00:49:07,698
+<font color="#E86CE4">(SCREAMING)</font>
+
+867
+00:49:07,823 --> 00:49:09,200
+<font color="#E86CE4">(PAINED GRUNTING)</font>
+
+868
+00:49:09,992 --> 00:49:11,827
+<font color="#E86CE4">(LOW  GASPING BREATHS)</font>
+
+869
+00:49:13,663 --> 00:49:16,332
+<font color="#808080">SHO:</font> <i>Guys  we are running out of time.</i>
+
+870
+00:49:19,919 --> 00:49:21,295
+<font color="#E86CE4">(GRUNTS)</font>
+
+871
+00:49:21,963 --> 00:49:23,714
+<font color="#E86CE4">(MUFFLED GRUNTING)</font>
+
+872
+00:49:24,090 --> 00:49:26,550
+<font color="#808080">DAVID:</font> Kat  Kat! Don't swallow it.
+
+873
+00:49:27,051 --> 00:49:29,053
+It's toxic  okay?
+
+874
+00:49:30,262 --> 00:49:32,515
+<i>I need you to help me open the valve.</i>
+
+875
+00:49:32,598 --> 00:49:34,392
+We're gonna do this together.
+
+876
+00:49:35,226 --> 00:49:36,686
+<i>Okay?</i>
+
+877
+00:49:36,852 --> 00:49:39,480
+<font color="#E86CE4">(LOUD GASPING)</font>
+I'm gonna pull down 
+
+878
+00:49:39,563 --> 00:49:41,899
+and you're gonna go clockwise
+from your side.
+
+879
+00:49:44,026 --> 00:49:45,653
+<font color="#E86CE4">(GASPING BREATHS)</font>
+Okay?
+
+880
+00:49:45,736 --> 00:49:46,988
+<font color="#808080">DAVID:</font> <i>There you go.</i>
+
+881
+00:49:47,571 --> 00:49:48,739
+<i>Good  good  good.</i>
+
+882
+00:49:48,864 --> 00:49:50,366
+<font color="#E86CE4">(LABORED BREATHING)</font>
+
+883
+00:49:55,830 --> 00:49:57,164
+Don't worry about Calvin.
+
+884
+00:49:57,248 --> 00:49:59,408
+We're gonna get you inside 
+and we're gonna get it off.
+
+885
+00:49:59,458 --> 00:50:01,252
+<font color="#E86CE4">(GRUNTING)</font>
+
+886
+00:50:03,879 --> 00:50:05,006
+<font color="#E86CE4">(GASPING)</font> <i>David.</i>
+
+887
+00:50:06,507 --> 00:50:07,591
+<font color="#808080">DAVID:</font> <i>Kat?</i>
+
+888
+00:50:08,384 --> 00:50:10,094
+<i>No  no  no. Clockwise from your side.</i>
+
+889
+00:50:10,261 --> 00:50:12,847
+<font color="#E86CE4">(WHEEZING GROAN)</font>
+Clockwise from your side.
+
+890
+00:50:13,597 --> 00:50:14,597
+<i>Kat  come on.</i>
+
+891
+00:50:14,640 --> 00:50:16,080
+- Miranda?
+- <font color="#808080">MIRANDA:</font> <i>Yeah  I'm here.</i>
+
+892
+00:50:16,267 --> 00:50:18,728
+She's fighting me!
+She's turned her lever the wrong way.
+
+893
+00:50:18,811 --> 00:50:19,812
+<i>Pull down...</i>
+
+894
+00:50:20,104 --> 00:50:21,272
+<font color="#E86CE4">(CREAKING)</font>
+
+895
+00:50:21,605 --> 00:50:23,441
+<font color="#E86CE4">(STRAINED GRUNTING)</font>
+
+896
+00:50:24,442 --> 00:50:26,652
+Kat. You're fighting me  Kat. Come on.
+
+897
+00:50:26,736 --> 00:50:27,921
+We got to do it together  now.
+
+898
+00:50:27,945 --> 00:50:29,631
+<i>- Come on. Kat  come on  please.</i>
+- <font color="#808080">MIRANDA:</font> <i>David.</i>
+
+899
+00:50:29,655 --> 00:50:31,115
+<font color="#808080">DAVID:</font> <i>Kat!</i>
+
+900
+00:50:31,532 --> 00:50:32,867
+- Kat. Kat!
+- <font color="#808080">DAVID:</font> <i>Look at me!</i>
+
+901
+00:50:32,950 --> 00:50:34,952
+<i>Just pull on the lever! Okay?</i>
+
+902
+00:50:35,494 --> 00:50:37,872
+<font color="#E86CE4">(BEEPING)</font>
+<i> Kat  come on! Come on!</i>
+
+903
+00:50:37,955 --> 00:50:39,123
+<i>Just pull down on the lever!</i>
+
+904
+00:50:39,290 --> 00:50:40,291
+<font color="#E86CE4">(MUFFLED GASPING)</font>
+
+905
+00:50:40,416 --> 00:50:42,084
+<font color="#808080">MIRANDA:</font> <i>David...</i>
+<font color="#808080">DAVID:</font> Kat!
+
+906
+00:50:42,168 --> 00:50:43,669
+Come on  you can do this!
+
+907
+00:50:43,753 --> 00:50:45,546
+<font color="#808080">MIRANDA:</font> <i>David  she's
+doing it deliberately.</i>
+
+908
+00:50:46,130 --> 00:50:48,007
+<font color="#E86CE4">(FRANTIC GASPING)</font>
+
+909
+00:50:48,090 --> 00:50:49,258
+<i>Come on!</i>
+
+910
+00:50:49,633 --> 00:50:51,469
+<font color="#E86CE4">(GASPING QUIETS)</font>
+<i> Kat!</i>
+
+911
+00:50:52,887 --> 00:50:55,306
+- Kat!
+<i>- David  stop.</i>
+
+912
+00:50:56,307 --> 00:50:57,641
+<i>Stop.</i>
+
+913
+00:51:01,771 --> 00:51:04,148
+<i>She's not letting Calvin back in here.</i>
+
+914
+00:51:05,983 --> 00:51:07,193
+<i>Kat?</i>
+
+915
+00:51:09,028 --> 00:51:10,362
+<font color="#E86CE4">(QUIET CHOKING)</font>
+
+916
+00:51:12,073 --> 00:51:13,407
+Commander.
+
+917
+00:51:13,491 --> 00:51:14,533
+<font color="#E86CE4">(♪♪♪)</font>
+
+918
+00:51:31,842 --> 00:51:33,511
+<font color="#E86CE4">(BREATH TREMBLING)</font>
+
+919
+00:51:39,433 --> 00:51:41,560
+<font color="#E86CE4">(WHISPERS)</font> <i>Kat  Kat...</i>
+
+920
+00:51:46,440 --> 00:51:47,483
+<font color="#E86CE4">(♪♪♪)</font>
+
+921
+00:51:47,566 --> 00:51:48,859
+<font color="#E86CE4">(SOBBING QUIETLY)</font>
+
+922
+00:51:51,862 --> 00:51:53,739
+<i>What is going on?</i>
+
+923
+00:51:57,076 --> 00:51:59,036
+<font color="#E86CE4">(TREMBLING)</font> <i>What is going on?</i>
+
+924
+00:52:04,166 --> 00:52:05,459
+<font color="#E86CE4">(SOBBING)</font>
+
+925
+00:52:14,135 --> 00:52:15,177
+<font color="#E86CE4">(♪♪♪)</font>
+
+926
+00:52:25,396 --> 00:52:26,814
+<font color="#E86CE4">(MIRANDA SOBBING)</font>
+
+927
+00:52:32,736 --> 00:52:34,655
+<font color="#808080">HUGH:</font> <i>Guys  guys  do you copy?</i>
+
+928
+00:52:37,449 --> 00:52:38,492
+<font color="#808080">MIRANDA:</font> Yeah.
+
+929
+00:52:39,201 --> 00:52:40,911
+<i>- Yeah  I copy.</i>
+- Okay  okay  um...
+
+930
+00:52:43,581 --> 00:52:45,124
+Let's keep it together.
+
+931
+00:52:47,418 --> 00:52:50,462
+We may have...
+We may have an opportunity here.
+
+932
+00:52:52,256 --> 00:52:54,675
+Calvin's ability to survive
+in that vacuum and temperature
+
+933
+00:52:54,758 --> 00:52:56,594
+is astonishing.
+
+934
+00:52:57,511 --> 00:52:59,930
+But he can't live much longer out there.
+
+935
+00:53:02,641 --> 00:53:04,602
+Sho. Sho.
+
+936
+00:53:04,685 --> 00:53:08,314
+Are you sure that we've lost
+all communication with Earth?
+
+937
+00:53:08,689 --> 00:53:09,773
+I am sure.
+
+938
+00:53:09,857 --> 00:53:12,234
+All right  then we have
+to keep it out there.
+
+939
+00:53:12,318 --> 00:53:14,111
+<font color="#808080">MIRANDA:</font> <i>We have a new firewall.</i>
+
+940
+00:53:16,322 --> 00:53:19,325
+<i>David  can you see it?</i>
+
+941
+00:53:19,408 --> 00:53:20,618
+<font color="#808080">DAVID:</font> <i>I'll see. Um...</i>
+
+942
+00:53:21,493 --> 00:53:22,494
+- Sho.
+- <font color="#808080">SHO:</font> <i>Yes?</i>
+
+943
+00:53:22,578 --> 00:53:24,205
+Can you re-flood the airlock?
+
+944
+00:53:24,288 --> 00:53:25,497
+<font color="#E86CE4">(AIR HISSING)</font>
+
+945
+00:53:27,374 --> 00:53:28,626
+You tell me when.
+
+946
+00:53:32,004 --> 00:53:33,339
+<font color="#808080">SHO:</font> <i>Okay.</i>
+
+947
+00:53:37,801 --> 00:53:39,053
+<font color="#E86CE4">(SNIFFLING)</font>
+
+948
+00:53:44,016 --> 00:53:45,851
+<font color="#808080">DAVID:</font> Did she close that valve?
+
+949
+00:53:45,935 --> 00:53:47,394
+<font color="#808080">MIRANDA:</font> <i>Yeah  yeah  she closed it.</i>
+
+950
+00:53:47,478 --> 00:53:48,687
+Okay.
+
+951
+00:53:50,481 --> 00:53:51,982
+What other way could it get in?
+
+952
+00:53:53,067 --> 00:53:54,443
+The thrusters.
+
+953
+00:53:55,110 --> 00:53:56,904
+The manifolds in the thruster nozzles.
+
+954
+00:53:56,987 --> 00:53:59,573
+If it tries one  we could blast it off.
+
+955
+00:53:59,657 --> 00:54:01,867
+But we'd have to know which.
+
+956
+00:54:01,951 --> 00:54:03,994
+<font color="#808080">DAVID:</font> It's too dark. I can't see anything.
+
+957
+00:54:04,078 --> 00:54:05,718
+- Shit.
+- <font color="#808080">MIRANDA:</font> <i>There must be some way.</i>
+
+958
+00:54:07,665 --> 00:54:08,666
+Thruster sensors.
+
+959
+00:54:09,541 --> 00:54:12,628
+If it climbs in the nozzle 
+the temperature should move.
+
+960
+00:54:12,711 --> 00:54:13,921
+Should.
+
+961
+00:54:14,004 --> 00:54:15,172
+All right.
+
+962
+00:54:18,342 --> 00:54:19,385
+<font color="#E86CE4">(GASPS)</font>
+
+963
+00:54:19,468 --> 00:54:21,512
+- There.
+- Thruster two firing.
+
+964
+00:54:22,096 --> 00:54:23,264
+<font color="#E86CE4">(RUMBLING)</font>
+
+965
+00:54:23,347 --> 00:54:25,849
+Miranda  can you reach Tranquility?
+
+966
+00:54:26,141 --> 00:54:27,393
+<font color="#E86CE4">(GRUNTS)</font>
+
+967
+00:54:27,685 --> 00:54:28,686
+We missed. Cut it.
+
+968
+00:54:32,064 --> 00:54:33,166
+Guys  it's heading toward... No  wait!
+
+969
+00:54:33,190 --> 00:54:35,043
+No  no  it's heading towards the lab.
+It's fast.
+
+970
+00:54:35,067 --> 00:54:36,568
+<font color="#808080">DAVID:</font> I'm sorry  guys  I can't see.
+
+971
+00:54:36,652 --> 00:54:37,945
+<font color="#808080">HUGH:</font> <i>It's okay  we're watching.</i>
+
+972
+00:54:40,739 --> 00:54:42,825
+- Kibo.
+- Thruster three firing.
+
+973
+00:54:42,908 --> 00:54:44,326
+<font color="#E86CE4">(RUMBLING)</font>
+
+974
+00:54:54,837 --> 00:54:56,088
+<font color="#E86CE4">(WHISPERS)</font> Come on.
+
+975
+00:54:57,965 --> 00:54:59,633
+Please  please.
+
+976
+00:54:59,717 --> 00:55:00,718
+Quest this time.
+
+977
+00:55:00,801 --> 00:55:01,903
+- David  can you see?
+- <font color="#808080">DAVID:</font> <i>No  I'm...</i>
+
+978
+00:55:01,927 --> 00:55:03,887
+- Thruster five.
+<i>- Sorry. I'm sorry  I can't...</i>
+
+979
+00:55:03,971 --> 00:55:05,055
+<font color="#E86CE4">(RUMBLING)</font>
+
+980
+00:55:06,098 --> 00:55:07,224
+<font color="#E86CE4">(GRUNTING)</font>
+
+981
+00:55:08,475 --> 00:55:11,562
+<font color="#808080">MIRANDA:</font> <i>Sho?</i>
+<font color="#E86CE4">(RAPID BEEPING)</font>
+
+982
+00:55:11,645 --> 00:55:12,980
+<font color="#E86CE4">(ALARM BLARING)</font>
+
+983
+00:55:15,441 --> 00:55:17,026
+<font color="#E86CE4">(ALARM STOPS)</font>
+<font color="#808080">DAVID:</font> <i>What was that?</i>
+
+984
+00:55:17,109 --> 00:55:18,819
+We've burned through too much fuel.
+
+985
+00:55:18,902 --> 00:55:21,022
+- There.
+- <font color="#808080">SHO:</font> We were already low after the Pilgrim.
+
+986
+00:55:21,572 --> 00:55:26,535
+Doc  listen  all this thrusting 
+we've placed ourselves into decaying orbit.
+
+987
+00:55:26,618 --> 00:55:28,537
+- <font color="#808080">DAVID:</font> <i>Shit.
+- We'll reach atmosphere soon</i>
+
+988
+00:55:28,620 --> 00:55:31,206
+if I don't get us back to stable.
+
+989
+00:55:31,290 --> 00:55:33,584
+And I'll need the rest
+of the fuel to do it 
+
+990
+00:55:33,667 --> 00:55:35,878
+<i>- if we even have that much.</i>
+- No. David?
+
+991
+00:55:35,961 --> 00:55:39,173
+David  we can't risk Calvin
+riding us down into the atmosphere  okay?
+
+992
+00:55:39,256 --> 00:55:41,133
+But I don't know... Could it survive that?
+
+993
+00:55:41,216 --> 00:55:42,301
+<font color="#808080">HUGH:</font> <i>We don't know.</i>
+
+994
+00:55:42,384 --> 00:55:43,403
+<i>It's already gone well beyond</i>
+
+995
+00:55:43,427 --> 00:55:46,263
+<i>what any living organism
+should be able to survive.</i>
+
+996
+00:55:48,057 --> 00:55:49,433
+<font color="#E86CE4">(PANTING)</font>
+
+997
+00:55:52,186 --> 00:55:55,397
+<font color="#808080">MIRANDA:</font> If it's between letting it in here
+or letting it down there 
+
+998
+00:55:55,481 --> 00:55:57,483
+<i>we let it in here.</i>
+
+999
+00:55:57,983 --> 00:55:59,485
+Where are you?
+
+1000
+00:56:00,694 --> 00:56:01,737
+<font color="#E86CE4">(♪♪♪)</font>
+
+1001
+00:56:23,801 --> 00:56:25,969
+<font color="#808080">HUGH:</font> We've just let it back in here.
+
+1002
+00:56:26,095 --> 00:56:27,429
+<font color="#E86CE4">(RUMBLING)</font>
+
+1003
+00:56:30,599 --> 00:56:32,893
+<font color="#808080">SHO:</font> <i>Moving us back into stable orbit.</i>
+
+1004
+00:56:39,108 --> 00:56:42,736
+These creatures could have dominated Mars
+for hundreds of millions of years.
+
+1005
+00:56:43,362 --> 00:56:46,698
+But now we know that they hibernate
+with a loss of atmosphere.
+
+1006
+00:56:46,782 --> 00:56:48,742
+If we deprive it of air 
+
+1007
+00:56:48,992 --> 00:56:51,495
+retreat in Tranquility 
+and seal ourselves off...
+
+1008
+00:56:52,246 --> 00:56:54,164
+<font color="#808080">MIRANDA:</font> And vent the rest of the station.
+
+1009
+00:56:55,791 --> 00:56:56,917
+Exactly.
+
+1010
+00:56:57,000 --> 00:56:58,919
+No life support  no life.
+
+1011
+00:56:59,002 --> 00:57:00,003
+<font color="#808080">MIRANDA:</font> Right.
+
+1012
+00:57:01,171 --> 00:57:04,049
+Okay  Hugh and I will
+sweep from Quest east.
+
+1013
+00:57:04,800 --> 00:57:09,972
+And  um  you and Sho scour the poles
+and  uh  lock off each compartment.
+
+1014
+00:57:12,224 --> 00:57:13,684
+<font color="#E86CE4">(BEEPING)</font>
+
+1015
+00:57:14,435 --> 00:57:16,061
+<font color="#E86CE4">(METALLIC CREAKING)</font>
+
+1016
+00:57:18,230 --> 00:57:19,273
+<font color="#E86CE4">(♪♪♪)</font>
+
+1017
+00:57:34,663 --> 00:57:36,290
+<font color="#E86CE4">(GASPING SOFTLY)</font>
+
+1018
+00:57:49,470 --> 00:57:51,847
+<font color="#E86CE4">(WHIRRING  CLACKING)</font>
+
+1019
+00:57:53,098 --> 00:57:54,141
+<font color="#E86CE4">(♪♪♪)</font>
+
+1020
+00:57:59,104 --> 00:58:00,397
+<font color="#E86CE4">(RIPPING)</font>
+
+1021
+00:58:01,648 --> 00:58:02,649
+<font color="#E86CE4">(HISSES)</font>
+
+1022
+00:58:12,743 --> 00:58:16,497
+<font color="#808080">SHO:</font> <font color="#E86CE4">(PANTING)</font> <i>It will take about
+four hours to vent all oxygen.</i>
+
+1023
+00:58:16,580 --> 00:58:18,665
+<font color="#808080">MIRANDA:</font> <i>What do we do till then?</i>
+<font color="#808080">DAVID:</font> <i>We wait.</i>
+
+1024
+00:58:23,086 --> 00:58:24,379
+You okay?
+
+1025
+00:58:26,381 --> 00:58:27,549
+Derry  look at me.
+
+1026
+00:58:27,925 --> 00:58:29,760
+- <font color="#E86CE4">(WEAKLY)</font> Hmm?
+- You okay?
+
+1027
+00:58:30,594 --> 00:58:32,095
+I'm fine.
+
+1028
+00:58:44,983 --> 00:58:47,402
+I remember the day the <i>Challenger</i> blew up.
+
+1029
+00:58:49,363 --> 00:58:52,282
+They took us out of school early 
+I remember that day.
+
+1030
+00:59:02,668 --> 00:59:04,878
+It's hard to watch people die.
+
+1031
+00:59:04,962 --> 00:59:06,004
+<font color="#E86CE4">(♪♪♪)</font>
+
+1032
+00:59:08,799 --> 00:59:10,133
+Like  uh...
+
+1033
+00:59:13,053 --> 00:59:14,805
+Fireworks.
+
+1034
+00:59:16,848 --> 00:59:19,685
+<font color="#808080">HUGH:</font> "Up  up"
+
+1035
+00:59:21,144 --> 00:59:23,981
+"the long  delirious  burning blue"
+
+1036
+00:59:25,774 --> 00:59:29,611
+"I've topped the wind-swept heights
+with ease and grace"
+
+1037
+00:59:33,865 --> 00:59:35,576
+Best eulogy ever.
+
+1038
+00:59:35,659 --> 00:59:36,660
+<font color="#808080">DAVID:</font> Hmm.
+
+1039
+00:59:37,411 --> 00:59:38,912
+Rory says 
+
+1040
+00:59:39,955 --> 00:59:41,873
+"Don't give me a eulogy."
+
+1041
+00:59:43,667 --> 00:59:45,210
+"Give me a parachute."
+
+1042
+00:59:46,169 --> 00:59:47,754
+<font color="#E86CE4">(HUGH CHUCKLING)</font>
+
+1043
+00:59:52,676 --> 00:59:53,885
+<font color="#E86CE4">(SIGHS)</font>
+
+1044
+00:59:54,386 --> 00:59:55,929
+He was my buddy.
+
+1045
+01:00:00,726 --> 01:00:02,686
+<font color="#E86CE4">(WHISPERS)</font> It's my fault.
+
+1046
+01:00:03,729 --> 01:00:04,771
+It's all my fault.
+
+1047
+01:00:04,855 --> 01:00:08,317
+Maybe it was your fault 
+maybe it was my fault  maybe...
+
+1048
+01:00:08,400 --> 01:00:10,736
+I don't know  it doesn't matter  does it?
+
+1049
+01:00:12,321 --> 01:00:15,574
+Getting this thing on board was a risk 
+and we knew it from the beginning.
+
+1050
+01:00:17,784 --> 01:00:19,036
+I took it.
+
+1051
+01:00:19,870 --> 01:00:21,455
+<font color="#808080">HUGH:</font> It's just surviving.
+
+1052
+01:00:23,457 --> 01:00:27,127
+Life's very existence requires destruction.
+
+1053
+01:00:29,671 --> 01:00:31,381
+Calvin doesn't hate us.
+
+1054
+01:00:34,760 --> 01:00:36,553
+But he has to kill us
+
+1055
+01:00:38,221 --> 01:00:39,723
+in order to survive.
+
+1056
+01:00:47,773 --> 01:00:49,107
+<font color="#808080">DAVID:</font> Hugh.
+
+1057
+01:00:49,941 --> 01:00:51,818
+- Hugh. Hugh.
+- Hugh.
+
+1058
+01:00:51,943 --> 01:00:53,445
+<font color="#E86CE4">(HUGH GROANS)</font>
+
+1059
+01:00:54,112 --> 01:00:55,238
+<font color="#808080">DAVID:</font> All right  all right.
+
+1060
+01:00:56,823 --> 01:00:57,824
+- Hey.
+- Derry?
+
+1061
+01:00:57,908 --> 01:00:58,992
+Hugh?
+
+1062
+01:00:59,076 --> 01:01:00,452
+I'm sorry.
+
+1063
+01:01:02,788 --> 01:01:04,498
+I'm sorry  because of all the...
+
+1064
+01:01:06,958 --> 01:01:08,669
+- Hugh?
+- Hugh?
+
+1065
+01:01:08,752 --> 01:01:09,753
+<font color="#E86CE4">(RAPID BEEPING)</font>
+
+1066
+01:01:09,836 --> 01:01:11,046
+Hugh?
+
+1067
+01:01:11,880 --> 01:01:14,007
+<font color="#808080">DAVID:</font> Hugh? There's no output.
+
+1068
+01:01:15,092 --> 01:01:16,426
+God  get the defib.
+
+1069
+01:01:19,638 --> 01:01:20,806
+- Get him back.
+- Okay.
+
+1070
+01:01:22,599 --> 01:01:24,243
+- Get him down.
+- <font color="#808080">MIRANDA:</font> I'll strap him in.
+
+1071
+01:01:24,267 --> 01:01:26,395
+<font color="#808080">DAVID:</font> Take off the sling  okay?
+<font color="#808080">SHO:</font> Yeah.
+
+1072
+01:01:27,521 --> 01:01:29,415
+<font color="#808080">MIRANDA:</font> Sho  get the ACLS kit
+and the defibrillator.
+
+1073
+01:01:29,439 --> 01:01:31,149
+<font color="#E86CE4">(FLATLINING TONE)</font>
+<font color="#808080">DAVID:</font> Shit.
+
+1074
+01:01:34,194 --> 01:01:35,320
+<font color="#808080">SHO:</font> Here.
+
+1075
+01:01:35,404 --> 01:01:37,507
+<font color="#808080">MIRANDA:</font> Prep the defibrillator
+and get the shocks down.
+
+1076
+01:01:37,531 --> 01:01:38,591
+<font color="#808080">MIRANDA:</font> 360 joules.
+<font color="#808080">DAVID:</font> Yeah.
+
+1077
+01:01:38,615 --> 01:01:39,616
+<font color="#808080">DAVID:</font> Copy  360 joules.
+
+1078
+01:01:40,200 --> 01:01:41,785
+Charging. Clear.
+
+1079
+01:01:42,786 --> 01:01:44,037
+<font color="#E86CE4">(THUMP)</font>
+
+1080
+01:01:45,122 --> 01:01:46,683
+<font color="#808080">DAVID:</font> Charging. Shooting.
+<font color="#808080">MIRANDA:</font> Still fibrillating.
+
+1081
+01:01:46,707 --> 01:01:47,892
+Just stack the shocks if you have to.
+
+1082
+01:01:47,916 --> 01:01:49,418
+- Go  360.
+- All right. Clear.
+
+1083
+01:01:51,128 --> 01:01:52,671
+<font color="#808080">DAVID:</font> <font color="#E86CE4">(WHISPERS)</font> Shit.
+
+1084
+01:01:53,171 --> 01:01:54,381
+- Nothing.
+- Go again  360.
+
+1085
+01:01:54,464 --> 01:01:55,841
+- Go again. Hit him.
+- Clear.
+
+1086
+01:01:55,924 --> 01:01:57,134
+<font color="#808080">DAVID:</font> All right.
+<font color="#E86CE4">(THUMP)</font>
+
+1087
+01:01:58,927 --> 01:02:01,596
+All right  all right. I got output.
+
+1088
+01:02:01,680 --> 01:02:02,973
+- Yeah.
+- Okay.
+
+1089
+01:02:03,640 --> 01:02:06,059
+Okay  sinus rate 98 BPM.
+
+1090
+01:02:06,685 --> 01:02:08,287
+<font color="#808080">DAVID:</font> You really scared me there  buddy.
+
+1091
+01:02:08,311 --> 01:02:10,230
+<font color="#E86CE4">(BREATHING HEAVILY)</font>
+David?
+
+1092
+01:02:12,691 --> 01:02:14,317
+David?
+
+1093
+01:02:16,027 --> 01:02:17,320
+<font color="#E86CE4">(WHISPERS)</font> Fuck.
+
+1094
+01:02:17,404 --> 01:02:18,613
+What is this?
+
+1095
+01:02:19,448 --> 01:02:21,032
+<font color="#808080">DAVID:</font> Stabilizing.
+
+1096
+01:02:22,200 --> 01:02:23,994
+<font color="#E86CE4">(ALL GASPING)</font>
+
+1097
+01:02:25,579 --> 01:02:26,913
+Get the plasma cutter.
+
+1098
+01:02:26,997 --> 01:02:28,517
+<font color="#808080">MIRANDA:</font> Calvin's feeding off his leg.
+
+1099
+01:02:30,834 --> 01:02:32,043
+<font color="#808080">DAVID:</font> Shit!
+
+1100
+01:02:33,670 --> 01:02:35,630
+<font color="#E86CE4">(ELECTRONIC WHIR)</font>
+Miranda!
+
+1101
+01:02:36,506 --> 01:02:37,674
+<font color="#E86CE4">(MIRANDA GASPS)</font>
+
+1102
+01:02:40,844 --> 01:02:42,512
+<font color="#808080">DAVID:</font> Go. Get out of here.
+
+1103
+01:02:46,349 --> 01:02:47,601
+Let's go!
+
+1104
+01:02:49,227 --> 01:02:50,979
+Miranda  let's go! Pull it away from Hugh.
+
+1105
+01:02:51,062 --> 01:02:52,272
+Sho.
+
+1106
+01:02:52,355 --> 01:02:54,555
+- We'll come back for him!
+- Miranda! Come on! Let's go!
+
+1107
+01:02:54,816 --> 01:02:56,193
+<font color="#808080">DAVID:</font> Sho!
+
+1108
+01:03:01,198 --> 01:03:02,199
+No!
+
+1109
+01:03:06,578 --> 01:03:07,621
+Sho!
+
+1110
+01:03:07,704 --> 01:03:09,581
+No! Shit.
+
+1111
+01:03:23,386 --> 01:03:24,721
+Hey  guys?
+
+1112
+01:03:24,805 --> 01:03:26,056
+<font color="#E86CE4">(FEEDBACK SQUEALING)</font>
+
+1113
+01:03:26,723 --> 01:03:27,933
+Shit.
+
+1114
+01:03:33,230 --> 01:03:34,231
+<font color="#E86CE4">(♪♪♪)</font>
+
+1115
+01:04:08,807 --> 01:04:10,642
+<font color="#E86CE4">(CRACKLING  CREAKING)</font>
+
+1116
+01:04:32,455 --> 01:04:33,498
+<font color="#E86CE4">(♪♪♪)</font>
+
+1117
+01:04:52,183 --> 01:04:53,310
+<font color="#E86CE4">(HUGH EXHALES)</font>
+
+1118
+01:04:55,312 --> 01:04:56,563
+Calvin?
+
+1119
+01:04:56,646 --> 01:04:58,773
+<font color="#808080">MIRANDA:</font> We don't know where he is.
+<font color="#E86CE4">(HUGH SIGHS)</font>
+
+1120
+01:05:07,824 --> 01:05:10,118
+- Where's Sho?
+- <font color="#808080">MIRANDA:</font> He'll be fine.
+
+1121
+01:05:10,493 --> 01:05:13,496
+We stopped all oxygen
+venting in the station.
+
+1122
+01:05:19,836 --> 01:05:21,379
+<font color="#E86CE4">(HUGH GROANING)</font>
+
+1123
+01:05:24,424 --> 01:05:25,842
+Lift me up.
+
+1124
+01:05:30,680 --> 01:05:32,098
+<font color="#E86CE4">(HUGH EXHALES)</font>
+
+1125
+01:05:32,891 --> 01:05:34,184
+<font color="#808080">MIRANDA:</font> Okay.
+
+1126
+01:05:34,267 --> 01:05:35,352
+Okay.
+
+1127
+01:05:35,852 --> 01:05:37,520
+<font color="#808080">HUGH:</font> <font color="#E86CE4">(WHISPERS)</font> Oh  Miranda.
+
+1128
+01:05:37,604 --> 01:05:38,647
+<font color="#E86CE4">(♪♪♪)</font>
+
+1129
+01:05:43,401 --> 01:05:44,736
+<font color="#E86CE4">(BREATHING WEAKLY)</font>
+
+1130
+01:05:45,070 --> 01:05:46,279
+I'm up.
+
+1131
+01:05:48,740 --> 01:05:50,617
+<font color="#E86CE4">(SLOW  STEADY BEEPING)</font>
+
+1132
+01:05:55,497 --> 01:05:57,165
+<font color="#E86CE4">(FLATLINING TONE)</font>
+
+1133
+01:06:00,043 --> 01:06:01,044
+<font color="#E86CE4">(♪♪♪)</font>
+
+1134
+01:06:07,676 --> 01:06:09,052
+<font color="#E86CE4">(SOBBING QUIETLY)</font>
+
+1135
+01:06:13,306 --> 01:06:14,975
+<font color="#E86CE4">(PANTING)</font>
+<font color="#E86CE4">(SPEAKING JAPANESE)</font>
+
+1136
+01:06:15,058 --> 01:06:16,184
+I'm coming home  Mei.
+
+1137
+01:06:51,594 --> 01:06:53,638
+<font color="#808080">MIRANDA:</font> I know what
+I feel is not scientific.
+
+1138
+01:06:53,722 --> 01:06:55,140
+It's not rational.
+
+1139
+01:06:57,517 --> 01:06:58,893
+I feel hate.
+
+1140
+01:07:00,729 --> 01:07:02,063
+I feel pure...
+
+1141
+01:07:02,939 --> 01:07:04,149
+fucking...
+
+1142
+01:07:04,983 --> 01:07:06,735
+...hate for that thing.
+
+1143
+01:07:10,780 --> 01:07:11,948
+<font color="#E86CE4">(ELECTRONIC PINGING)</font>
+
+1144
+01:07:13,450 --> 01:07:14,617
+<font color="#E86CE4">(PINGING)</font>
+
+1145
+01:07:18,872 --> 01:07:20,498
+Calvin.
+
+1146
+01:07:20,623 --> 01:07:21,916
+<font color="#E86CE4">(PINGING)</font>
+
+1147
+01:07:25,503 --> 01:07:27,297
+How is that moving like that?
+
+1148
+01:07:27,714 --> 01:07:30,425
+He must have swallowed
+the marker on Derry's leg.
+
+1149
+01:07:30,508 --> 01:07:31,551
+Yeah.
+
+1150
+01:07:31,634 --> 01:07:33,136
+<font color="#E86CE4">(PINGING CONTINUES)</font>
+
+1151
+01:07:34,804 --> 01:07:36,181
+We can track him.
+
+1152
+01:07:38,725 --> 01:07:39,768
+<font color="#E86CE4">(♪♪♪)</font>
+
+1153
+01:07:39,851 --> 01:07:41,144
+<font color="#E86CE4">(PINGING)</font>
+
+1154
+01:08:21,935 --> 01:08:23,686
+<font color="#E86CE4">(PINGING CONTINUES)</font>
+
+1155
+01:08:26,564 --> 01:08:27,607
+<font color="#E86CE4">(♪♪♪)</font>
+
+1156
+01:09:13,987 --> 01:09:14,988
+<font color="#E86CE4">(MIRANDA GASPS)</font>
+
+1157
+01:09:16,906 --> 01:09:19,492
+<font color="#808080">DAVID:</font> <i>Let's kill this thing.
+Venting Zarya now.</i>
+
+1158
+01:09:21,452 --> 01:09:22,745
+<font color="#E86CE4">(BEEPING)</font>
+
+1159
+01:09:31,004 --> 01:09:32,213
+<font color="#E86CE4">(MIRANDA PANTING)</font>
+
+1160
+01:09:32,297 --> 01:09:33,548
+Okay  it's suffocating.
+
+1161
+01:09:33,631 --> 01:09:36,509
+- How long do you think that's gonna take?
+- I don't know.
+
+1162
+01:09:36,593 --> 01:09:37,677
+<font color="#E86CE4">(ALARM BEEPING)</font>
+Shit.
+
+1163
+01:09:37,760 --> 01:09:40,555
+<font color="#808080">AUTOMATED VOICE:</font>
+<i>Proximity alert. Proximity alert.</i>
+
+1164
+01:09:40,638 --> 01:09:43,474
+<i>Proximity alert. Proximity alert.</i>
+
+1165
+01:09:43,558 --> 01:09:44,767
+<i>Proximity...</i>
+
+1166
+01:09:45,310 --> 01:09:46,561
+They're coming.
+
+1167
+01:09:46,853 --> 01:09:48,688
+Kat's distress call must
+have reached Earth.
+
+1168
+01:09:48,771 --> 01:09:49,939
+Wait  where are they docking?
+
+1169
+01:09:51,566 --> 01:09:52,566
+Shit.
+
+1170
+01:09:52,609 --> 01:09:55,278
+- Looks like Zarya.
+- Jesus  that's where Calvin is.
+
+1171
+01:09:56,946 --> 01:09:59,157
+Station to <i>Soyuz.</i>
+
+1172
+01:09:59,657 --> 01:10:01,993
+Station to <i>Soyuz </i> do you copy?
+
+1173
+01:10:03,453 --> 01:10:05,163
+Station to <i>Soyuz </i> do you copy?
+
+1174
+01:10:05,622 --> 01:10:08,416
+- Station to <i>Soyuz </i> do you copy?
+- <font color="#808080">MIRANDA:</font> Try the flashlight.
+
+1175
+01:10:11,836 --> 01:10:13,236
+<font color="#808080">DAVID:</font> <font color="#E86CE4">(WHISPERS)</font> Come on  come on.
+
+1176
+01:10:15,256 --> 01:10:16,549
+They can't see this.
+
+1177
+01:10:18,343 --> 01:10:19,385
+Must be too reflective.
+
+1178
+01:10:21,221 --> 01:10:22,972
+<font color="#E86CE4">(GRUNTS)</font>
+<font color="#E86CE4">(RUMBLING)</font>
+
+1179
+01:10:26,142 --> 01:10:27,477
+<font color="#E86CE4">(GASPING BREATHS)</font>
+
+1180
+01:10:27,977 --> 01:10:29,520
+<font color="#E86CE4">(RUMBLING CONTINUES)</font>
+
+1181
+01:10:31,314 --> 01:10:32,357
+<font color="#808080">DAVID:</font> Shit.
+
+1182
+01:10:32,482 --> 01:10:34,150
+What the fuck are they doing?
+
+1183
+01:10:34,275 --> 01:10:35,443
+David.
+
+1184
+01:10:35,526 --> 01:10:36,736
+David!
+
+1185
+01:10:37,195 --> 01:10:39,155
+They're not coming to rescue us.
+
+1186
+01:10:40,615 --> 01:10:41,991
+It's Firewall Three.
+
+1187
+01:10:42,075 --> 01:10:43,368
+What?
+
+1188
+01:10:44,786 --> 01:10:47,121
+Firewall One was the box.
+
+1189
+01:10:47,205 --> 01:10:49,207
+And Firewall Two was the lab.
+
+1190
+01:10:51,751 --> 01:10:53,670
+And Firewall Three is the station.
+
+1191
+01:10:55,672 --> 01:10:57,006
+But we have a new firewall.
+
+1192
+01:10:57,090 --> 01:10:59,151
+- What are you saying?
+- <font color="#808080">MIRANDA:</font> They don't know that.
+
+1193
+01:10:59,175 --> 01:11:03,388
+And if Firewall One or Two fail 
+they have two choices.
+
+1194
+01:11:03,805 --> 01:11:06,724
+They can contain  or they expel.
+
+1195
+01:11:10,895 --> 01:11:13,898
+They're pushing us out to deep space.
+
+1196
+01:11:15,858 --> 01:11:18,403
+They cannot risk Calvin reaching Earth.
+
+1197
+01:11:19,112 --> 01:11:20,655
+That was my protocol.
+
+1198
+01:11:21,906 --> 01:11:25,034
+I insisted from the beginning 
+and the committee agreed.
+
+1199
+01:11:26,244 --> 01:11:28,454
+They all put their names to it.
+
+1200
+01:11:28,579 --> 01:11:30,915
+The list is as long as your arm.
+
+1201
+01:11:32,125 --> 01:11:34,085
+Now  protecting firewalls is my job 
+
+1202
+01:11:34,168 --> 01:11:37,714
+and if we would have succeeded 
+we could have gone home.
+
+1203
+01:11:39,048 --> 01:11:40,883
+And if we failed...
+
+1204
+01:11:48,391 --> 01:11:49,892
+Wait for me  Mei.
+
+1205
+01:11:49,976 --> 01:11:51,227
+<font color="#E86CE4">(BEEPING)</font>
+
+1206
+01:11:59,110 --> 01:12:00,403
+<font color="#E86CE4">(CLICKING  BEEPING)</font>
+
+1207
+01:12:00,862 --> 01:12:03,406
+<font color="#808080">DAVID:</font> Sho. Oh  he thinks it's a rescue.
+
+1208
+01:12:03,823 --> 01:12:06,075
+Oh  God. He's heading towards Calvin.
+
+1209
+01:12:07,076 --> 01:12:08,578
+We have to stop him.
+
+1210
+01:12:08,995 --> 01:12:10,288
+<font color="#E86CE4">(PANTING)</font>
+
+1211
+01:12:20,089 --> 01:12:21,215
+Sho!
+
+1212
+01:12:21,299 --> 01:12:22,342
+Sho  can you hear us?
+
+1213
+01:12:31,726 --> 01:12:32,977
+<font color="#E86CE4">(STRAINED GRUNT)</font>
+
+1214
+01:12:34,520 --> 01:12:35,563
+<font color="#E86CE4">(♪♪♪)</font>
+
+1215
+01:12:57,794 --> 01:12:58,795
+<font color="#E86CE4">(METALLIC THUD)</font>
+
+1216
+01:13:02,423 --> 01:13:03,716
+<font color="#808080">DAVID:</font> Sho!
+
+1217
+01:13:05,009 --> 01:13:06,344
+<font color="#E86CE4">(INDISTINCT SHOUTING)</font>
+
+1218
+01:13:08,513 --> 01:13:09,722
+<font color="#808080">MIRANDA:</font> Sho!
+
+1219
+01:13:10,139 --> 01:13:11,641
+<font color="#E86CE4">(SHOUTING CONTINUES)</font>
+
+1220
+01:13:11,974 --> 01:13:13,142
+<font color="#E86CE4">(MUFFLED BOOMING)</font>
+
+1221
+01:13:16,145 --> 01:13:17,480
+<font color="#E86CE4">(YELLING)</font>
+
+1222
+01:13:19,982 --> 01:13:21,859
+<font color="#E86CE4">(GRUNTING)</font>
+<font color="#E86CE4">(BEEPING)</font>
+
+1223
+01:13:24,070 --> 01:13:25,488
+<font color="#E86CE4">(YELLING)</font>
+
+1224
+01:13:29,283 --> 01:13:30,910
+<font color="#E86CE4">(BEEPING)</font>
+
+1225
+01:13:30,993 --> 01:13:32,745
+<font color="#E86CE4">(YELLING  GROANING)</font>
+
+1226
+01:13:36,499 --> 01:13:37,834
+<font color="#808080">DAVID:</font> Sho!
+
+1227
+01:13:38,709 --> 01:13:40,670
+- Miranda!
+- Sho!
+
+1228
+01:13:46,342 --> 01:13:47,593
+Sho?
+
+1229
+01:13:57,562 --> 01:13:59,397
+- <font color="#808080">DAVID:</font> Sho!
+- Take my hand  Sho!
+
+1230
+01:13:59,772 --> 01:14:01,524
+Don't let go  Sho!
+<font color="#E86CE4">(SHO GRUNTING)</font>
+
+1231
+01:14:01,899 --> 01:14:03,109
+<font color="#E86CE4">(GRUNTS)</font>
+
+1232
+01:14:17,957 --> 01:14:18,958
+<font color="#808080">MIRANDA:</font> No!
+
+1233
+01:14:22,712 --> 01:14:24,297
+No! No  don't let go!
+
+1234
+01:14:26,841 --> 01:14:29,969
+Sho! No  Sho! No!
+
+1235
+01:14:30,219 --> 01:14:31,220
+- No!
+- <font color="#808080">SHO:</font> Let go!
+
+1236
+01:14:32,221 --> 01:14:33,848
+- No!
+- No!
+
+1237
+01:14:34,265 --> 01:14:37,059
+No! Sho! Sho!
+
+1238
+01:14:50,198 --> 01:14:51,741
+<font color="#E86CE4">(BOTH GRUNTING)</font>
+
+1239
+01:14:57,038 --> 01:14:58,498
+Miranda!
+
+1240
+01:14:58,581 --> 01:14:59,790
+<font color="#E86CE4">(GRUNTING)</font>
+
+1241
+01:15:04,420 --> 01:15:05,421
+<font color="#808080">MIRANDA:</font> No!
+
+1242
+01:15:05,880 --> 01:15:07,340
+- Come on!
+- No!
+
+1243
+01:15:07,423 --> 01:15:08,424
+Miranda!
+
+1244
+01:15:13,137 --> 01:15:14,180
+<font color="#E86CE4">(GASPS)</font>
+
+1245
+01:15:15,473 --> 01:15:16,807
+Miranda! Let's go!
+
+1246
+01:15:41,457 --> 01:15:42,792
+<font color="#E86CE4">(RUMBLING)</font>
+
+1247
+01:15:52,176 --> 01:15:53,761
+<font color="#E86CE4">(DEEP CREAKING)</font>
+
+1248
+01:16:10,570 --> 01:16:12,780
+The CPU is still up. It's a miracle.
+
+1249
+01:16:13,864 --> 01:16:15,324
+We're  uh...
+
+1250
+01:16:15,533 --> 01:16:16,951
+We're losing life support.
+
+1251
+01:16:17,159 --> 01:16:19,036
+The temperature is dropping rapidly.
+
+1252
+01:16:19,120 --> 01:16:22,707
+Atmosphere is venting from everywhere 
+and I don't know how to stop it.
+
+1253
+01:16:22,790 --> 01:16:24,625
+Okay  how much time do we have?
+
+1254
+01:16:24,709 --> 01:16:29,463
+In here? Uh  two hours  maybe an hour 45...
+
+1255
+01:16:29,547 --> 01:16:31,382
+But it  uh...
+
+1256
+01:16:31,465 --> 01:16:32,842
+- What?
+- Fuck.
+
+1257
+01:16:32,925 --> 01:16:36,178
+- Fuck!
+- What? What is it? What?
+
+1258
+01:16:36,512 --> 01:16:37,805
+We're  uh...
+
+1259
+01:16:39,098 --> 01:16:41,267
+We're not moving into space. The opposite.
+
+1260
+01:16:41,350 --> 01:16:44,353
+All that fucked-up thrusting 
+we're decaying again.
+
+1261
+01:16:44,437 --> 01:16:45,771
+What?
+
+1262
+01:16:47,607 --> 01:16:49,650
+Sho has a subroutine here.
+
+1263
+01:16:51,777 --> 01:16:52,945
+Um...
+
+1264
+01:16:53,112 --> 01:16:57,867
+Without any correction in course  which
+we don't have any fuel for anyway  um...
+
+1265
+01:16:59,994 --> 01:17:02,079
+We'll hit the atmosphere in  uh...
+
+1266
+01:17:04,999 --> 01:17:06,375
+39 minutes.
+
+1267
+01:17:18,888 --> 01:17:20,848
+We're not gonna survive reentry.
+
+1268
+01:17:22,767 --> 01:17:24,060
+<font color="#E86CE4">(WRY CHUCKLE)</font>
+
+1269
+01:17:28,439 --> 01:17:30,066
+Calvin could.
+
+1270
+01:17:41,327 --> 01:17:43,079
+<font color="#E86CE4">(TREMBLING BREATHING)</font>
+
+1271
+01:17:45,706 --> 01:17:46,749
+<font color="#E86CE4">(♪♪♪)</font>
+
+1272
+01:18:14,235 --> 01:18:15,778
+<font color="#E86CE4">(MIRANDA SHIVERING)</font>
+
+1273
+01:18:16,195 --> 01:18:17,947
+It's so cold.
+
+1274
+01:18:22,201 --> 01:18:23,327
+<font color="#E86CE4">(SHIVERING STOPS)</font>
+
+1275
+01:18:32,586 --> 01:18:33,671
+<font color="#808080">DAVID:</font> Hmm.
+
+1276
+01:18:39,468 --> 01:18:41,011
+<font color="#E86CE4">(CHUCKLES SOFTLY)</font>
+Mmm.
+
+1277
+01:18:42,638 --> 01:18:45,683
+My father used to read this to me
+when I was a kid.
+
+1278
+01:18:45,766 --> 01:18:46,809
+<font color="#E86CE4">(♪♪♪)</font>
+
+1279
+01:18:48,352 --> 01:18:49,770
+<font color="#E86CE4">(SHIVERING SOFTLY)</font>
+
+1280
+01:18:51,480 --> 01:18:53,482
+"Good night  room."
+
+1281
+01:18:56,318 --> 01:18:58,320
+"Good night  moon."
+
+1282
+01:18:59,488 --> 01:19:02,241
+"Good night  cow jumping over the moon."
+
+1283
+01:19:02,324 --> 01:19:03,659
+<font color="#E86CE4">(SOFT  TREMBLING LAUGH)</font>
+
+1284
+01:19:06,579 --> 01:19:08,539
+<font color="#808080">DAVID:</font> "Good night  light."
+
+1285
+01:19:08,622 --> 01:19:10,416
+"And the red balloon."
+
+1286
+01:19:11,542 --> 01:19:12,752
+<font color="#E86CE4">(SNIFFLES)</font>
+
+1287
+01:19:13,544 --> 01:19:14,587
+<font color="#E86CE4">(♪♪♪)</font>
+
+1288
+01:19:17,923 --> 01:19:20,009
+"Good night  nobody."
+
+1289
+01:19:24,180 --> 01:19:25,598
+<font color="#E86CE4">(DAVID SNIFFLES)</font>
+
+1290
+01:19:39,278 --> 01:19:40,362
+<font color="#E86CE4">(CHUCKLES SOFTLY)</font>
+
+1291
+01:19:46,619 --> 01:19:49,872
+<font color="#808080">MIRANDA:</font> I remember when I saw
+my first picture of Earth.
+
+1292
+01:19:51,874 --> 01:19:54,960
+And I asked my father where all those...
+
+1293
+01:19:55,544 --> 01:19:57,213
+All those lines were.
+
+1294
+01:19:58,756 --> 01:20:00,174
+The borders.
+
+1295
+01:20:00,257 --> 01:20:01,342
+<font color="#E86CE4">(BOTH CHUCKLE SOFTLY)</font>
+
+1296
+01:20:05,179 --> 01:20:07,181
+<font color="#E86CE4">(WHISPERS)</font> I really miss him.
+
+1297
+01:20:11,227 --> 01:20:12,228
+<font color="#E86CE4">(♪♪♪)</font>
+
+1298
+01:20:27,827 --> 01:20:29,286
+Good night  moon.
+
+1299
+01:20:31,580 --> 01:20:33,457
+Good night  stars.
+
+1300
+01:20:35,084 --> 01:20:36,752
+Good night  air.
+
+1301
+01:20:38,462 --> 01:20:39,755
+<font color="#E86CE4">(MIRANDA SHIVERING)</font>
+
+1302
+01:20:42,132 --> 01:20:43,801
+Good night  air.
+
+1303
+01:20:47,388 --> 01:20:48,764
+Bait.
+
+1304
+01:20:49,890 --> 01:20:52,351
+<i>Calvin needs oxygen to survive.</i>
+
+1305
+01:20:52,434 --> 01:20:54,395
+<i>With the 02 levels so low
+in the rest of the ship </i>
+
+1306
+01:20:54,478 --> 01:20:56,105
+<i>it will be drawn to the oxygen candles.</i>
+
+1307
+01:20:56,188 --> 01:20:57,898
+- We can use them as bait.
+- Yeah.
+
+1308
+01:20:57,982 --> 01:21:01,026
+There are two lifeboats  A and B 
+
+1309
+01:21:01,819 --> 01:21:03,988
+both set to default entry trajectory.
+
+1310
+01:21:05,114 --> 01:21:08,784
+You press the button 
+they autopilot themselves to the surface 
+
+1311
+01:21:09,368 --> 01:21:11,537
+unless somebody...
+
+1312
+01:21:11,620 --> 01:21:13,747
+Somebody overrides them from the inside.
+
+1313
+01:21:13,998 --> 01:21:18,502
+I use the oxygen candles
+to lure Calvin into Boat A.
+
+1314
+01:21:18,586 --> 01:21:22,298
+I close the hatch. I press the button
+to give me full manual control.
+
+1315
+01:21:23,007 --> 01:21:25,801
+And if I can hold the stick 
+I can override the flight path.
+
+1316
+01:21:25,885 --> 01:21:27,553
+And if I hold it long enough 
+
+1317
+01:21:28,554 --> 01:21:30,222
+I can avoid reentry.
+
+1318
+01:21:31,223 --> 01:21:33,142
+<font color="#E86CE4">(STUTTERING)</font> You fly out into deep space.
+
+1319
+01:21:33,225 --> 01:21:35,519
+With Calvin. Yes.
+
+1320
+01:21:35,686 --> 01:21:38,856
+<font color="#E86CE4">(STAMMERING)</font> Meanwhile 
+you get into Boat B 
+
+1321
+01:21:38,939 --> 01:21:41,317
+you press the button 
+and if there are no complications 
+
+1322
+01:21:41,400 --> 01:21:43,027
+- then it'd take you back home.
+- No.
+
+1323
+01:21:43,110 --> 01:21:44,820
+No  we should lure Calvin together.
+
+1324
+01:21:44,904 --> 01:21:46,447
+- No  Miranda.
+- Yeah.
+
+1325
+01:21:47,072 --> 01:21:48,407
+That doesn't make any sense.
+
+1326
+01:21:48,616 --> 01:21:49,825
+Why?
+
+1327
+01:21:50,117 --> 01:21:52,536
+The lifeboats are meant for one person.
+
+1328
+01:21:53,495 --> 01:21:56,165
+And this has been your plan all along.
+
+1329
+01:21:56,707 --> 01:21:59,460
+To make sure that 
+that creature doesn't get to Earth.
+
+1330
+01:22:00,252 --> 01:22:01,921
+Then I should be Plan A.
+
+1331
+01:22:02,004 --> 01:22:03,505
+No  I'm a pilot.
+
+1332
+01:22:04,632 --> 01:22:06,091
+You're Plan B.
+
+1333
+01:22:07,384 --> 01:22:08,844
+Listen  listen.
+
+1334
+01:22:09,845 --> 01:22:11,472
+I belong up here.
+
+1335
+01:22:14,016 --> 01:22:15,184
+<font color="#808080">DAVID:</font> Hmm.
+
+1336
+01:22:16,560 --> 01:22:20,940
+I don't want to go back down
+to eight billion of those motherfuckers.
+
+1337
+01:22:21,023 --> 01:22:22,775
+<font color="#E86CE4">(CRYING LAUGH)</font>
+<font color="#E86CE4">(SNIFFLES)</font>
+
+1338
+01:22:25,110 --> 01:22:27,404
+I need you to say you trust me.
+
+1339
+01:22:29,323 --> 01:22:30,783
+Yeah?
+
+1340
+01:22:38,040 --> 01:22:39,416
+I do.
+
+1341
+01:22:41,418 --> 01:22:42,920
+I trust you.
+
+1342
+01:22:47,257 --> 01:22:49,551
+<font color="#808080">DAVID:</font> Wait here. I'll signal you.
+
+1343
+01:22:52,221 --> 01:22:53,681
+<font color="#E86CE4">(WHIRRING  CLACK)</font>
+
+1344
+01:23:09,613 --> 01:23:10,823
+<font color="#E86CE4">(SHIVERING)</font>
+
+1345
+01:23:21,875 --> 01:23:22,918
+<font color="#E86CE4">(♪♪♪)</font>
+
+1346
+01:23:37,516 --> 01:23:38,892
+<font color="#E86CE4">(EXHALES SHARPLY)</font>
+
+1347
+01:23:43,272 --> 01:23:44,565
+<font color="#E86CE4">(COUGHING)</font>
+
+1348
+01:23:48,402 --> 01:23:49,653
+<font color="#E86CE4">(RAPID BEEPING)</font>
+
+1349
+01:23:51,071 --> 01:23:52,781
+<font color="#E86CE4">(BEEPING CONTINUES)</font>
+
+1350
+01:24:34,156 --> 01:24:35,532
+<font color="#E86CE4">(CLATTERING NEARBY)</font>
+
+1351
+01:24:36,325 --> 01:24:37,910
+<font color="#E86CE4">(SHIVERING)</font>
+
+1352
+01:24:42,539 --> 01:24:44,249
+<font color="#E86CE4">(GASPS)</font> Hey! Shit!
+
+1353
+01:24:44,875 --> 01:24:45,876
+Whoa.
+
+1354
+01:24:47,961 --> 01:24:49,630
+<font color="#E86CE4">(GASPING BREATHS)</font>
+
+1355
+01:24:58,889 --> 01:25:00,182
+Shit!
+
+1356
+01:25:08,524 --> 01:25:09,900
+<font color="#E86CE4">(SHIVERING)</font>
+
+1357
+01:25:12,319 --> 01:25:13,612
+<font color="#E86CE4">(BEEPING)</font>
+
+1358
+01:25:42,141 --> 01:25:43,600
+<font color="#E86CE4">(PANTING)</font>
+
+1359
+01:25:46,895 --> 01:25:48,063
+Fuck.
+
+1360
+01:25:58,490 --> 01:25:59,825
+<font color="#E86CE4">(GRUNTING)</font>
+
+1361
+01:26:31,273 --> 01:26:32,941
+<font color="#E86CE4">(GASPING BREATHS)</font>
+
+1362
+01:26:50,500 --> 01:26:51,752
+<font color="#E86CE4">(GASPING)</font>
+
+1363
+01:26:57,466 --> 01:26:59,468
+<font color="#E86CE4">(GASPING BREATHS)</font>
+
+1364
+01:27:03,222 --> 01:27:04,223
+Okay.
+
+1365
+01:27:07,976 --> 01:27:09,937
+This is Mission Specialist
+Dr. David A. Jordan
+
+1366
+01:27:10,020 --> 01:27:14,191
+<i>commanding</i> Soyuz <i>Lifeboat A  2233 UTC.</i>
+
+1367
+01:27:14,274 --> 01:27:18,028
+<i>ISS has entered catastrophic orbital decay.</i>
+
+1368
+01:27:18,111 --> 01:27:21,573
+<i>Initiating emergency escape sequence
+in five </i>
+
+1369
+01:27:21,657 --> 01:27:23,700
+four  three 
+
+1370
+01:27:24,159 --> 01:27:26,161
+two  one.
+
+1371
+01:27:26,578 --> 01:27:28,163
+<font color="#E86CE4">(LOUD RUMBLING)</font>
+
+1372
+01:27:41,677 --> 01:27:42,970
+<font color="#E86CE4">(GASPING)</font>
+
+1373
+01:27:44,388 --> 01:27:45,847
+<font color="#E86CE4">(ELECTRONIC BEEPING)</font>
+
+1374
+01:27:48,058 --> 01:27:49,101
+<font color="#E86CE4">(♪♪♪)</font>
+
+1375
+01:27:54,731 --> 01:27:56,066
+<font color="#E86CE4">(BEEPING)</font>
+
+1376
+01:28:05,158 --> 01:28:07,286
+Come on  Miranda  get going.
+
+1377
+01:28:10,038 --> 01:28:11,123
+<font color="#E86CE4">(GRUNTS)</font>
+
+1378
+01:28:11,206 --> 01:28:12,416
+<font color="#E86CE4">(BEEPS)</font>
+
+1379
+01:28:23,593 --> 01:28:25,220
+<font color="#808080">DAVID:</font> Initiating manual override.
+
+1380
+01:28:39,234 --> 01:28:40,569
+<font color="#E86CE4">(PANTING)</font>
+
+1381
+01:28:51,330 --> 01:28:52,581
+<font color="#E86CE4">(BEEPING)</font>
+
+1382
+01:28:54,499 --> 01:28:55,667
+This is Dr. Miranda North 
+
+1383
+01:28:55,751 --> 01:28:58,962
+black box recording
+in case of death upon reentry.
+
+1384
+01:28:59,838 --> 01:29:02,716
+<i>The creature killed
+four of the six ISS astronauts </i>
+
+1385
+01:29:02,799 --> 01:29:05,010
+<i>with a fifth  Dr. David Jordan </i>
+
+1386
+01:29:05,093 --> 01:29:07,721
+<i>presumed dead 
+carrying it out into deep space.</i>
+
+1387
+01:29:09,806 --> 01:29:14,019
+<i>My five colleagues all sacrificed themselves
+to maintain the firewall  so  please </i>
+
+1388
+01:29:14,102 --> 01:29:17,397
+<i>honor them
+for giving everything to this cause.</i>
+
+1389
+01:29:18,440 --> 01:29:21,360
+<i>Mars life-forms should
+be considered hostile.</i>
+
+1390
+01:29:21,443 --> 01:29:25,030
+<i>Do not underestimate their intelligence
+and their adaptive capabilities.</i>
+
+1391
+01:29:26,490 --> 01:29:29,201
+<i>Now  we did not learn
+how to restrain or eliminate it </i>
+
+1392
+01:29:29,284 --> 01:29:31,703
+<i>but if this creature ever reaches Earth </i>
+
+1393
+01:29:31,787 --> 01:29:34,873
+<i>use every available resource to destroy it </i>
+
+1394
+01:29:34,956 --> 01:29:37,292
+or you will risk all human life.
+
+1395
+01:29:40,545 --> 01:29:42,130
+<font color="#E86CE4">(ALARM BLARING)</font>
+
+1396
+01:29:47,135 --> 01:29:48,303
+<font color="#E86CE4">(ALARM STOPS)</font>
+
+1397
+01:29:54,810 --> 01:29:56,103
+<font color="#E86CE4">(GRUNTS)</font>
+
+1398
+01:30:06,613 --> 01:30:07,989
+<font color="#E86CE4">(GRUNTING)</font>
+
+1399
+01:30:35,016 --> 01:30:36,518
+<font color="#E86CE4">(PAINED GROAN)</font>
+
+1400
+01:30:39,354 --> 01:30:40,564
+<font color="#E86CE4">(SCREAMS)</font>
+
+1401
+01:30:43,150 --> 01:30:44,526
+<font color="#E86CE4">(GRUNTING)</font>
+
+1402
+01:30:53,368 --> 01:30:55,162
+<font color="#E86CE4">(STRAINED GRUNTING)</font>
+
+1403
+01:30:57,581 --> 01:30:58,874
+<font color="#E86CE4">(YELLING)</font>
+
+1404
+01:31:08,884 --> 01:31:10,093
+<font color="#E86CE4">(GRUNTS)</font>
+
+1405
+01:31:15,724 --> 01:31:16,808
+<font color="#E86CE4">(♪♪♪)</font>
+
+1406
+01:31:47,797 --> 01:31:50,008
+<font color="#E86CE4">(SOFTLY)</font> You can do it. You can do it.
+
+1407
+01:31:50,091 --> 01:31:51,551
+You can do it.
+
+1408
+01:31:51,635 --> 01:31:52,636
+Come on!
+
+1409
+01:31:59,434 --> 01:32:00,810
+<font color="#E86CE4">(WHOOSHING)</font>
+
+1410
+01:32:32,008 --> 01:32:33,510
+<font color="#E86CE4">(BIRD SQUAWKING)</font>
+
+1411
+01:32:34,469 --> 01:32:35,971
+<font color="#E86CE4">(MAN SPEAKING VIETNAMESE)</font>
+
+1412
+01:33:02,330 --> 01:33:03,331
+<font color="#E86CE4">(SPEAKS VIETNAMESE)</font>
+
+1413
+01:33:09,671 --> 01:33:11,214
+<font color="#E86CE4">(SPEAKS VIETNAMESE)</font>
+
+1414
+01:33:38,533 --> 01:33:39,659
+<font color="#808080">DAVID:</font> No  no  no. No!
+
+1415
+01:33:40,410 --> 01:33:43,246
+<font color="#808080">MIRANDA:</font> <font color="#E86CE4">(SCREAMING)</font> <i>No! No!</i>
+
+1416
+01:33:43,622 --> 01:33:45,081
+No!
+
+1417
+01:33:45,373 --> 01:33:46,791
+No!
+
+1418
+01:33:46,875 --> 01:33:47,917
+No!
+
+1419
+01:33:48,001 --> 01:33:49,294
+<font color="#E86CE4">(BEEPING RAPIDLY)</font>
+
+1420
+01:33:49,377 --> 01:33:50,378
+No! No!
+
+1421
+01:33:51,463 --> 01:33:54,633
+<i>No! No!</i>
+
+1422
+01:33:56,968 --> 01:33:59,387
+<font color="#808080">DAVID:</font> No! No!
+<font color="#E86CE4">(MEN SPEAKING VIETNAMESE)</font>
+
+1423
+01:33:59,471 --> 01:34:00,722
+<font color="#E86CE4">(BOTH GRUNTING)</font>
+
+1424
+01:34:00,889 --> 01:34:01,890
+No!
+
+1425
+01:34:02,182 --> 01:34:03,683
+No  no  no!
+
+1426
+01:34:04,559 --> 01:34:05,602
+No  no  no  no!
+
+1427
+01:34:07,646 --> 01:34:08,688
+<font color="#E86CE4">(♪♪♪)</font>
+
+1428
+01:34:45,058 --> 01:34:46,601
+<font color="#E86CE4">(♪♪♪)</font>
+
+1429
+01:35:16,089 --> 01:35:19,467
+<i>When I die and they lay me to rest</i>
+
+1430
+01:35:19,759 --> 01:35:23,388
+<i>Gonna go to the place that's the best</i>
+
+1431
+01:35:23,638 --> 01:35:26,391
+<i>When I lay me down to die</i>
+
+1432
+01:35:26,474 --> 01:35:30,979
+<i>Goin' up to the spirit in the sky</i>
+
+1433
+01:35:31,229 --> 01:35:34,649
+<i>Goin' up to the spirit in the sky</i>
+
+1434
+01:35:34,899 --> 01:35:38,486
+<i>That's where I'm gonna go when I die</i>
+
+1435
+01:35:38,778 --> 01:35:41,406
+<i>When I die and they lay me to rest</i>
+
+1436
+01:35:41,489 --> 01:35:45,493
+<i>I'm gonna go to the place that's the best</i>
+
+1437
+01:35:45,827 --> 01:35:49,205
+<i>Go to the place that's the best</i>
+
+1438
+01:36:08,933 --> 01:36:10,977
+<font color="#E86CE4">(♪♪♪)</font>
+
+1439
+01:36:11,050 --> 01:36:35,050
+<font color="#80FF40"><b>Improved & Synced by BanglarBagh</b></font>

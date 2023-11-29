@@ -1,0 +1,42 @@
+$> gregor.redelonghi@cygwin-en [/home/gregor.redelonghi/_PYTHON_en_testing/LList_20180424]
+$> python3
+Python 3.6.4 (default, Jan  7 2018, 15:53:53)
+[GCC 6.4.0] on cygwin
+Type "help", "copyright", "credits" or "license" for more information.
+
+>>> with open('pdtk.csv', 'r') as F:
+...     L = []
+...     for item in F.readlines():
+...             L.append(item.strip())
+...
+
+>>> L
+['Ime;Priimek;Rojstvo;EMSO;DS;PL;PL-do;ZZZS;zadnja-spr', 'Spela;Redelonghi;2008-02-11;1102008505293;51275317;PB0491825;2016-04-07;048275498;2014-07-01', 'Mark;Redelonghi;1999-04-17;1704999500073;24626180;PB0898
+323;2019-04-08;044752609;2014-07-01', 'Zala;Redelonghi;1996-05-07;0705996505255;86319515;PB0572195;2017-03-22;043182009;2014-07-01', 'Tadeja;Mali Redelonghi;1970-01-19;1901970505327;43936954;PB0572172;2022-03-2
+2;035718997;2014-07-01', 'Gregor;Redelonghi;1968-02-22;2202968500812;78402069;PB0572199;2022-03-22;035178605;2014-07-01']
+
+>>> L[0]
+'Ime;Priimek;Rojstvo;EMSO;DS;PL;PL-do;ZZZS;zadnja-spr'
+
+>>> for i in range(len(L[0].split(";"))):
+...     print(i)
+...
+0
+1
+2
+3
+4
+5
+6
+7
+8
+
+>>> D = {}
+
+>>> for i in range(len(L[0].split(";"))):
+...     D[L[0].split(";")[i]] = L[1].split(";")[i]
+...
+
+>>> D
+{'Ime': 'Spela', 'Priimek': 'Redelonghi', 'Rojstvo': '2008-02-11', 'EMSO': '1102008505293', 'DS': '51275317', 'PL': 'PB0491825', 'PL-do': '2016-04-07', 'ZZZS': '048275498', 'zadnja-spr': '2014-07-01'}
+  

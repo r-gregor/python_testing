@@ -1,0 +1,1 @@
+This is source_directory_A/fajl_04.txt

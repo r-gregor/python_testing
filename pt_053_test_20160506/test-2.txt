@@ -1,0 +1,14 @@
+###
+prva vrstica: Kr neki na ful hitr'.
+The open() function returns a new file object. By invoking methods on this object,
+you can perform various file operations.The readline() method reads a single line of
+input, including the terminating newline.The empty string is returned at the end of the
+file.
+In the example, the program is simply looping over all the lines in the file foo.txt.
+Whenever a program loops over a collection of data like this (for instance input lines,
+numbers, strings, etc.), it is commonly known as iteration. Because iteration is such a common
+operation, Python provides a dedicated statement, for, that is used to iterate over
+items. For instance, the same program can be written much more succinctly as follows:
+
+... lepo
+###

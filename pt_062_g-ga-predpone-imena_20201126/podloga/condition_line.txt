@@ -1,0 +1,2 @@
+Naziv,Ime,Priimek,"'IF( OR( ISERROR( SEARCH("".*a""; B17)); B17=""Miha""; B17=""Jaka""; B17=""Matija""; B17=""Luka""; B17=""Mitja""; B17=""Žiga""; B17=""Grega"";B17=""Aljoša""); ""G.""; ""Ga."")’"
+

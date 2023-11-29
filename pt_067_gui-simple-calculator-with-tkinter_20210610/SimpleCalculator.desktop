@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=SimpleCalculator
+Comment=
+Exec=/home/rgregor/PYTHON_d_testing/pn074_gui-simple-calculator-with-tkinter_20210610/simple_calculator/dist/06_simpleCalculator_2
+Path=
+Icon=/home/rgregor/PYTHON_d_testing/pn074_gui-simple-calculator-with-tkinter_20210610/simple_calculator/icons/klipartz.com.png
+Terminal=false
+StartupNotify=true
+Name[en_US]=Simple Calculator

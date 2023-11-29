@@ -1,0 +1,3 @@
+﻿# Insert '# -*- coding: utf-8 -*-' after every first line (#! /usr/bin/env python) ...
+
+for FFF in $(find -iname "*\.py*"); do echo $FFF; sed -i '1 a # -*- coding: utf-8 -*-' $FFF; done

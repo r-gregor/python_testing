@@ -1,0 +1,17 @@
+'''find max lenght string in a list'''
+
+>>> L1 = ['srt 1', 'str 22', 'str 333']
+>>> for el in L1:
+...   print("Lenght of string '" + el + "' is: " + str(len(el)) )
+... 
+
+Lenght of string 'srt 1' is: 5
+Lenght of string 'str 22' is: 6
+Lenght of string 'str 333' is: 7
+
+>>> max(L1, key=len)
+'str 333'
+
+>>> len(max(L1, key=len))
+7
+

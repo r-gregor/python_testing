@@ -1,0 +1,42 @@
+gregor.redelonghi@cygwin-en ~/BRISI/pn1000_predpone_20211118
+$> for N in 1000 1000000 1000000000 1000000000000 10000000000000000 1000000000000000; do python3 predpone2.py $((123*${N})); done
+Number: 123000.0
+Result: 123.00K (Kilo)
+---
+Number: 123000000.0
+Result: 123.00M (Mega)
+---
+Number: 123000000000.0
+Result: 123.00G (Giga)
+---
+Number: 123000000000000.0
+Result: 123.00T (Tera)
+---
+Number: 1.23e+18
+Result: 1.23X (Exa)
+---
+Number: 1.23e+17
+Result: 123.00P (Peta)
+---
+
+gregor.redelonghi@cygwin-en ~/BRISI/pn1000_predpone_20211118
+$> p3 predpone3.py
+Usage: predpone3.py <number>
+gregor.redelonghi@cygwin-en ~/BRISI/pn1000_predpone_20211118
+$> p3 predpone3.py 1230000000000000000000000000
+Traceback (most recent call last):
+  File "predpone3.py", line 38, in <module>
+    run()
+  File "predpone3.py", line 35, in run
+    print(rearranged(num))
+  File "predpone3.py", line 24, in rearranged
+    predpona = predpone[predp]
+IndexError: list index out of range
+gregor.redelonghi@cygwin-en ~/BRISI/pn1000_predpone_20211118
+$> p3 predpone3.py 1230000000000000000000000
+Result: 1.23Y (Yotta)
+gregor.redelonghi@cygwin-en ~/BRISI/pn1000_predpone_20211118
+$> p3 predpone3.py 1230000000000000000000
+Result: 1.23Z (Zetta)
+
+ 

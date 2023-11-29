@@ -1,0 +1,12 @@
+$> python3 -m pip install --upgrade pip
+$> python3 -m venv venv
+$> source ./venv/bin/activate
+(venv) $> pip install pandas geojson
+(venv) $> pip install folium
+(venv) $> pip install jupyter
+(venv) $> ipython kernel install --user --name=venv
+ ...
+(venv) $> pip freeze > requirements_d.txt
+(venv) $> deactivate
+---
+

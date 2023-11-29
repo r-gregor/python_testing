@@ -1,0 +1,385 @@
+Name: appdirs
+Requires: 
+Required-by: virtualenv
+----------------------------------------
+Name: argon2-cffi
+Requires: cffi, six
+Required-by: notebook
+----------------------------------------
+Name: astroid
+Requires: lazy-object-proxy, wrapt, setuptools
+Required-by: pylint
+----------------------------------------
+Name: async-generator
+Requires: 
+Required-by: nbclient
+----------------------------------------
+Name: attrs
+Requires: 
+Required-by: jsonschema
+----------------------------------------
+Name: backcall
+Requires: 
+Required-by: ipython
+----------------------------------------
+Name: beautifulsoup4
+Requires: soupsieve
+Required-by: bs4
+----------------------------------------
+Name: bleach
+Requires: packaging, six, webencodings
+Required-by: nbconvert
+----------------------------------------
+Name: blessings
+Requires: six
+Required-by: curtsies
+----------------------------------------
+Name: bpython
+Requires: pyxdg, greenlet, cwcwidth, pygments, requests, curtsies
+Required-by: 
+----------------------------------------
+Name: bs4
+Requires: beautifulsoup4
+Required-by: 
+----------------------------------------
+Name: certifi
+Requires: 
+Required-by: requests
+----------------------------------------
+Name: cffi
+Requires: pycparser
+Required-by: argon2-cffi
+----------------------------------------
+Name: chardet
+Requires: 
+Required-by: requests
+----------------------------------------
+Name: curtsies
+Requires: blessings, cwcwidth
+Required-by: bpython
+----------------------------------------
+Name: cwcwidth
+Requires: 
+Required-by: curtsies, bpython
+----------------------------------------
+Name: decorator
+Requires: 
+Required-by: ipython
+----------------------------------------
+Name: defusedxml
+Requires: 
+Required-by: nbconvert
+----------------------------------------
+Name: distlib
+Requires: 
+Required-by: virtualenv
+----------------------------------------
+Name: distro
+Requires: 
+Required-by: 
+----------------------------------------
+Name: entrypoints
+Requires: 
+Required-by: nbconvert
+----------------------------------------
+Name: et-xmlfile
+Requires: 
+Required-by: openpyxl
+----------------------------------------
+Name: filelock
+Requires: 
+Required-by: virtualenv
+----------------------------------------
+Name: greenlet
+Requires: 
+Required-by: bpython
+----------------------------------------
+Name: idna
+Summary: Internationalized Domain Names in Applications (IDNA)
+Requires: 
+Required-by: requests
+----------------------------------------
+Name: ipykernel
+Requires: ipython, tornado, traitlets, jupyter-client
+Required-by: qtconsole, notebook, jupyter, jupyter-console, ipywidgets
+----------------------------------------
+Name: ipython
+Requires: backcall, prompt-toolkit, pygments, setuptools, jedi, traitlets, pexpect, decorator, pickleshare
+Required-by: jupyter-console, ipywidgets, ipykernel
+----------------------------------------
+Name: ipython-genutils
+Requires: 
+Required-by: traitlets, qtconsole, notebook, nbformat
+----------------------------------------
+Name: ipywidgets
+Requires: ipython, traitlets, nbformat, ipykernel, widgetsnbextension
+Required-by: jupyter
+----------------------------------------
+Name: isort
+Requires: 
+Required-by: pylint
+----------------------------------------
+Name: jdcal
+Requires: 
+Required-by: openpyxl
+----------------------------------------
+Name: jedi
+Requires: parso
+Required-by: ipython
+----------------------------------------
+Name: Jinja2
+Requires: MarkupSafe
+Required-by: notebook, nbconvert
+----------------------------------------
+Name: jsonschema
+Requires: pyrsistent, attrs, six, setuptools
+Required-by: nbformat
+----------------------------------------
+Name: jupyter
+Requires: ipykernel, ipywidgets, nbconvert, qtconsole, jupyter-console, notebook
+Required-by: 
+----------------------------------------
+Name: jupyter-client
+Requires: tornado, pyzmq, traitlets, python-dateutil, jupyter-core
+Required-by: qtconsole, notebook, nbclient, jupyter-console, ipykernel
+----------------------------------------
+Name: jupyter-console
+Requires: pygments, jupyter-client, ipython, ipykernel, prompt-toolkit
+Required-by: jupyter
+----------------------------------------
+Name: jupyter-core
+Requires: traitlets
+Required-by: qtconsole, notebook, nbformat, nbconvert, jupyter-client
+----------------------------------------
+Name: jupyterlab-pygments
+Requires: pygments
+Required-by: nbconvert
+----------------------------------------
+Name: lazy-object-proxy
+Requires: 
+Required-by: astroid
+----------------------------------------
+Name: lesscpy
+Requires: six, ply
+Required-by: 
+----------------------------------------
+Name: lfm
+Requires: 
+Required-by: 
+----------------------------------------
+Name: MarkupSafe
+Requires: 
+Required-by: Jinja2
+----------------------------------------
+Name: mccabe
+Requires: 
+Required-by: pylint
+----------------------------------------
+Name: mistune
+Requires: 
+Required-by: nbconvert
+----------------------------------------
+Name: nbclient
+Requires: nbformat, nest-asyncio, jupyter-client, traitlets, async-generator
+Required-by: nbconvert
+----------------------------------------
+Name: nbconvert
+Requires: bleach, nbformat, pandocfilters, jupyterlab-pygments, jinja2, defusedxml, traitlets, mistune, pygments, nbclient, entrypoints, testpath, jupyter-core
+Required-by: notebook, jupyter
+----------------------------------------
+Name: nbformat
+Requires: jupyter-core, jsonschema, ipython-genutils, traitlets
+Required-by: notebook, nbconvert, nbclient, ipywidgets
+----------------------------------------
+Name: nest-asyncio
+Requires: 
+Required-by: nbclient
+----------------------------------------
+Name: notebook
+Requires: terminado, jinja2, Send2Trash, prometheus-client, traitlets, ipython-genutils, pyzmq, ipykernel, argon2-cffi, jupyter-core, tornado, jupyter-client, nbformat, nbconvert
+Required-by: widgetsnbextension, jupyter
+----------------------------------------
+Name: numpy
+Requires: 
+Required-by: prime-sieve
+----------------------------------------
+Name: openpyxl
+Requires: et-xmlfile, jdcal
+Required-by: 
+----------------------------------------
+Name: packaging
+Requires: pyparsing, six
+Required-by: bleach
+----------------------------------------
+Name: pandocfilters
+Requires: 
+Required-by: nbconvert
+----------------------------------------
+Name: parso
+Requires: 
+Required-by: jedi
+----------------------------------------
+Name: pexpect
+Requires: ptyprocess
+Required-by: ipython
+----------------------------------------
+Name: pickleshare
+Requires: 
+Required-by: ipython
+----------------------------------------
+Name: Pillow
+Requires: 
+Required-by: 
+----------------------------------------
+Name: pip
+Requires: 
+Required-by: 
+----------------------------------------
+Name: ply
+Requires: 
+Required-by: lesscpy
+----------------------------------------
+Name: powerline-status
+Requires: 
+Required-by: 
+----------------------------------------
+Name: prime-sieve
+Requires: numpy
+Required-by: 
+----------------------------------------
+Name: prometheus-client
+Requires: 
+Required-by: notebook
+----------------------------------------
+Name: prompt-toolkit
+Requires: wcwidth
+Required-by: jupyter-console, ipython
+----------------------------------------
+Name: ptyprocess
+Requires: 
+Required-by: terminado, pexpect
+----------------------------------------
+Name: pycparser
+Requires: 
+Required-by: cffi
+----------------------------------------
+Name: Pygments
+Requires: 
+Required-by: qtconsole, nbconvert, jupyterlab-pygments, jupyter-console, ipython, bpython
+----------------------------------------
+Name: pylint
+Requires: astroid, toml, isort, mccabe
+Required-by: 
+----------------------------------------
+Name: pyparsing
+Requires: 
+Required-by: packaging
+----------------------------------------
+Name: pyrsistent
+Requires: 
+Required-by: jsonschema
+----------------------------------------
+Name: PySimpleGUI
+Requires: 
+Required-by: 
+----------------------------------------
+Name: python-dateutil
+Requires: six
+Required-by: jupyter-client
+----------------------------------------
+Name: pyxdg
+Requires: 
+Required-by: bpython
+----------------------------------------
+Name: pyzmq
+Requires: 
+Required-by: qtconsole, notebook, jupyter-client
+----------------------------------------
+Name: qtconsole
+Requires: traitlets, qtpy, jupyter-client, ipython-genutils, ipykernel, jupyter-core, pygments, pyzmq
+Required-by: jupyter
+----------------------------------------
+Name: QtPy
+Requires: 
+Required-by: qtconsole
+----------------------------------------
+Name: ranger-fm
+Requires: 
+Required-by: 
+----------------------------------------
+Name: requests
+Requires: chardet, urllib3, idna, certifi
+Required-by: bpython
+----------------------------------------
+Name: Send2Trash
+Requires: 
+Required-by: notebook
+----------------------------------------
+Name: setuptools
+Requires: 
+Required-by: astroid, jsonschema, ipython
+----------------------------------------
+Name: six
+Requires: 
+Required-by: virtualenv, python-dateutil, packaging, lesscpy, jsonschema, blessings, bleach, argon2-cffi
+----------------------------------------
+Name: soupsieve
+Requires: 
+Required-by: beautifulsoup4
+----------------------------------------
+Name: speedtest-cli
+Requires: 
+Required-by: 
+----------------------------------------
+Name: terminado
+Requires: tornado, ptyprocess
+Required-by: notebook
+----------------------------------------
+Name: testpath
+Requires: 
+Required-by: nbconvert
+----------------------------------------
+Name: toml
+Requires: 
+Required-by: pylint
+----------------------------------------
+Name: tornado
+Requires: 
+Required-by: terminado, notebook, jupyter-client, ipykernel
+----------------------------------------
+Name: traitlets
+Requires: ipython-genutils
+Required-by: qtconsole, notebook, nbformat, nbconvert, nbclient, jupyter-core, jupyter-client, ipywidgets, ipython, ipykernel
+----------------------------------------
+Name: urllib3
+Requires: 
+Required-by: requests
+----------------------------------------
+Name: virtualenv
+Requires: filelock, appdirs, distlib, six
+Required-by: 
+----------------------------------------
+Name: wcwidth
+Requires: 
+Required-by: prompt-toolkit
+----------------------------------------
+Name: webencodings
+Requires: 
+Required-by: bleach
+----------------------------------------
+Name: wheel
+Requires: 
+Required-by: 
+----------------------------------------
+Name: widgetsnbextension
+Requires: notebook
+Required-by: ipywidgets
+----------------------------------------
+Name: wrapt
+Requires: 
+Required-by: astroid
+----------------------------------------
+Name: xlrd
+Requires: 
+Required-by: 
+----------------------------------------

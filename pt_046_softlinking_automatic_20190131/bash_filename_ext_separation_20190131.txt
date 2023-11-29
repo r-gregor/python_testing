@@ -1,0 +1,6 @@
+$> gregor.redelonghi@cygwin-en [/home/gregor.redelonghi/majstaf/coding/PYTHON_en]
+$> V="renaming_and_cleaning.sh"
+
+$> gregor.redelonghi@cygwin-en [/home/gregor.redelonghi/majstaf/coding/PYTHON_en]
+$> echo "${V%%.*} + ${V##*.}"
+renaming_and_cleaning + sh

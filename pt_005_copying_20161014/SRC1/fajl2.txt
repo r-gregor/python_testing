@@ -1,0 +1,5 @@
+This is src fajl.
+  Copy or move ...
+Cool!
+
+done.

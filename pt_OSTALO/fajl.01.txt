@@ -1,0 +1,6 @@
+1. Prva vrstica
+2. Druga vrstica
+3. Tretja vrstica
+4. Cetrta vrstica
+5. Peta vrstica
+6. Sesta, zadnja vrstica

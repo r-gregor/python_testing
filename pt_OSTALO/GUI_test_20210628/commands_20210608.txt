@@ -1,0 +1,96 @@
+rgregor@jbez0rg ~
+$> cd PYTHON_d_testing/
+
+rgregor@jbez0rg ~/PYTHON_d_testing
+$> cd OSTALO_pd/
+
+rgregor@jbez0rg ~/PYTHON_d_testing/OSTALO_pd
+$> mkdir GUI_test_20210628
+
+rgregor@jbez0rg ~/PYTHON_d_testing/OSTALO_pd
+$> cd GUI_test_20210628/
+
+rgregor@jbez0rg ~/PYTHON_d_testing/OSTALO_pd/GUI_test_20210628
+$> git clone git@github.com:SouravJohar/getting-started-with-eel.git
+Cloning into 'getting-started-with-eel'...
+remote: Enumerating objects: 43, done.
+remote: Total 43 (delta 0), reused 0 (delta 0), pack-reused 43
+Receiving objects: 100% (43/43), 367.30 KiB | 262.00 KiB/s, done.
+Resolving deltas: 100% (17/17), done.
+
+rgregor@jbez0rg ~/PYTHON_d_testing/OSTALO_pd/GUI_test_20210628
+$> cd ./getting-started-with-eel/
+
+rgregor@jbez0rg ~/PYTHON_d_testing/OSTALO_pd/GUI_test_20210628/getting-started-with-eel
+$> python3 -m venv .
+
+rgregor@jbez0rg ~/PYTHON_d_testing/OSTALO_pd/GUI_test_20210628/getting-started-with-eel
+$> source bin/activate
+
+(getting-started-with-eel) rgregor@jbez0rg ~/PYTHON_d_testing/OSTALO_pd/GUI_test_20210628/getting-started-with-eel
+$> pip install eel pyqrcode pyinstaller pypng
+Collecting eel
+  Downloading Eel-0.14.0.tar.gz (17 kB)
+Collecting pyqrcode
+  Downloading PyQRCode-1.2.1.tar.gz (36 kB)
+Collecting pyinstaller
+  Downloading pyinstaller-4.3.tar.gz (3.7 MB)
+     |████████████████████████████████| 3.7 MB 2.6 MB/s
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+    Preparing wheel metadata ... done
+Collecting pypng
+  Downloading pypng-0.0.20.tar.gz (649 kB)
+     |████████████████████████████████| 649 kB 1.9 MB/s
+Collecting bottle
+  Downloading bottle-0.12.19-py3-none-any.whl (89 kB)
+     |████████████████████████████████| 89 kB 2.0 MB/s
+Collecting bottle-websocket
+  Downloading bottle-websocket-0.2.9.tar.gz (2.0 kB)
+Collecting future
+  Downloading future-0.18.2.tar.gz (829 kB)
+     |████████████████████████████████| 829 kB 2.0 MB/s
+Collecting pyparsing
+  Downloading pyparsing-2.4.7-py2.py3-none-any.whl (67 kB)
+     |████████████████████████████████| 67 kB 1.8 MB/s
+Collecting whichcraft
+  Downloading whichcraft-0.6.1-py2.py3-none-any.whl (5.2 kB)
+Collecting pyinstaller-hooks-contrib>=2020.6
+  Downloading pyinstaller_hooks_contrib-2021.1-py2.py3-none-any.whl (181 kB)
+     |████████████████████████████████| 181 kB 1.7 MB/s
+Requirement already satisfied: setuptools in ./lib/python3.8/site-packages (from pyinstaller) (44.0.0)
+Collecting gevent-websocket
+  Downloading gevent_websocket-0.10.1-py3-none-any.whl (22 kB)
+Collecting gevent
+  Downloading gevent-21.1.2-cp38-cp38-manylinux2010_x86_64.whl (6.3 MB)
+     |████████████████████████████████| 6.3 MB 1.8 MB/s
+Collecting zope.event
+  Downloading zope.event-4.5.0-py2.py3-none-any.whl (6.8 kB)
+Collecting greenlet<2.0,>=0.4.17; platform_python_implementation == "CPython"
+  Downloading greenlet-1.1.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (164 kB)
+     |████████████████████████████████| 164 kB 2.1 MB/s
+Collecting zope.interface
+  Downloading zope.interface-5.4.0-cp38-cp38-manylinux2010_x86_64.whl (259 kB)
+     |████████████████████████████████| 259 kB 2.5 MB/s
+Building wheels for collected packages: eel, pyqrcode, pyinstaller, pypng, bottle-websocket, future
+  Building wheel for eel (setup.py) ... error
+...
+
+  error: invalid command 'bdist_wheel'
+  ----------------------------------------
+
+...
+
+(getting-started-with-eel) rgregor@jbez0rg ~/PYTHON_d_testing/OSTALO_pd/GUI_test_20210628/getting-started-with-eel
+$> pip install wheel
+Collecting wheel
+  Using cached wheel-0.36.2-py2.py3-none-any.whl (35 kB)
+Installing collected packages: wheel
+
+(getting-started-with-eel) rgregor@jbez0rg ~/PYTHON_d_testing/OSTALO_pd/GUI_test_20210628/getting-started-with-eel
+$> pip install eel pyqrcode pyinstaller pypng
+
+(getting-started-with-eel) rgregor@jbez0rg ~/PYTHON_d_testing/OSTALO_pd/GUI_test_20210628/getting-started-with-eel
+$> python QRCode.py
+### SUCCESS !! ###
+

@@ -1,0 +1,19 @@
+{
+    "ime": "Gregor",
+    "priimek": "Redelonghi",
+    "naslov": [
+        "Valvasorjeva ulica",
+        5
+    ],
+    "kraj": [
+        "Ljubljana",
+        1000
+    ],
+    "e-posta": [
+        "gredelonghi@gmail.com",
+        "rgregor.rgr@gmail.com",
+        "gregorr@email.si",
+        "gredelonghi@yahoo.com"
+    ],
+    "leto-rojstva": 1968
+}

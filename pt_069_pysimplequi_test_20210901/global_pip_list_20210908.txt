@@ -1,0 +1,76 @@
+rgregor@jbez0rg ~/PYTHON_d_testing/pn076_pysimplequi_test_20210901
+$> for NM in $(pip list | cut -d" " -f1 | sed -n '3,$p'); do pip show $NM | grep -i "name\|require[ds]"; echo "--------------------------"; done >> global_pip_list_20210908.txt
+
+Name: altgraph
+Requires: 
+Required-by: pyinstaller
+--------------------------
+Name: appdirs
+Requires: 
+Required-by: virtualenv
+--------------------------
+Name: certifi
+Requires: 
+Required-by: requests
+--------------------------
+Name: chardet
+Requires: 
+Required-by: requests
+--------------------------
+Name: distlib
+Requires: 
+Required-by: virtualenv
+--------------------------
+Name: filelock
+Requires: 
+Required-by: virtualenv
+--------------------------
+Name: idna
+Summary: Internationalized Domain Names in Applications (IDNA)
+Requires: 
+Required-by: requests
+--------------------------
+Name: numpy
+Requires: 
+Required-by: 
+--------------------------
+Name: Pillow
+Requires: 
+Required-by: 
+--------------------------
+Name: pip
+Requires: 
+Required-by: 
+--------------------------
+Name: pyinstaller
+Requires: pyinstaller-hooks-contrib, setuptools, altgraph
+Required-by: 
+--------------------------
+Name: pyinstaller-hooks-contrib
+Requires: 
+Required-by: pyinstaller
+--------------------------
+Name: requests
+Requires: chardet, idna, certifi, urllib3
+Required-by: 
+--------------------------
+Name: setuptools
+Requires: 
+Required-by: pyinstaller
+--------------------------
+Name: six
+Requires: 
+Required-by: virtualenv
+--------------------------
+Name: urllib3
+Requires: 
+Required-by: requests
+--------------------------
+Name: virtualenv
+Requires: six, appdirs, filelock, distlib
+Required-by: 
+--------------------------
+Name: wheel
+Requires: 
+Required-by: 
+--------------------------

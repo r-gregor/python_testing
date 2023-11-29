@@ -1,0 +1,13 @@
+gregor.redelonghi@cygwin-en ~/BRISI/MVS
+$> for FFF in *; do echo -n $FFF; echo -n " "; echo -n $FFF | grep -E -o "[[:digit:]]*"; done | sort -nr -k4 | head
+Movie ncRIC (2022) 2022
+Movie JfzNcifČ (2022) 2022
+Movie hhdfRBZBčF (2022) 2022
+Movie HgkRpKuLsihmK (2022) 2022
+Movie tabzŠLgJEžM (2021) 2021
+Movie oHmvVbCD (2021) 2021
+Movie oChLDlBkUj (2021) 2021
+Movie JMgčŠLz (2021) 2021
+Movie ešNICn (2021) 2021
+Movie KpDvCfEDFtZpCŠd (2020) 2020
+

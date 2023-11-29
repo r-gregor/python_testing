@@ -1,0 +1,8 @@
+Gregor,Redelonghi,Valvasorjeva ulica 5,1000 Ljubljana,gredelonghi@gmail.com,gregor.redelonghi@energetika-lj.si,20171025,132500
+Tadeja, Mali Redelonghi, Valvasorjeva ulica 5, 1000 Ljubljana, tadeja.malir@gmail.com, tadeja.mali@hse.si, 20171025, 153757
+Mark,Redelonghi,Valvasorjeva ulica 5,1000 Ljubljana,mredelonghi@gmail.com,N/A,20171025,154127
+N/A,N/A,N/A,N/A,N/A,N/A,20171025,154236
+Špela,Redelonghi,Valvasorjeva ulica 5,1000 Ljubljana,spelare@gmail.com,N/A,20171025,154311
+N/A,N/A,N/A,N/A,N/A,N/A,20171025,154402
+N/A,N/A,N/A,N/A,N/A,N/A,20171025,154405
+Arnold,Schwartzennegger,ArbeitStrasse 87,5872 Wien,arnold.shwartzennegger@california.gov.us,hastalavistabyby@morons.us,20171025,180632

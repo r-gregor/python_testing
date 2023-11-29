@@ -1,0 +1,24 @@
+#! /usr/bin/env python3
+import os, sys
+os.system('clear')
+
+print("""
+Exercise 12
+Write a program that takes a list of numbers (for example, a = [5, 10, 15, 20, 25])
+and makes a new list of only the first and last elements of the given list.
+For practice, write this code inside a function.
+""")
+
+print()
+L1 = [x for x in range(1, 16)]
+print("Initial list L1 =", L1)
+
+def sub(LST):
+    return [LST[0], LST[-1]]
+
+L2 = sub(L1)
+
+print("Function sub(L1) creates a new list with first and last number from initial list")
+print("L2 =", L2)
+
+

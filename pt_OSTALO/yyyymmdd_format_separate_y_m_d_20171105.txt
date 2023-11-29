@@ -1,0 +1,17 @@
+L = [20170217, 20170101, 20160317, 19700119, 19680222, 19990417, 19960407, 20180211, 19480218]
+for D in L:
+	yr = str(D)[:4]
+	mn = str(D)[4:6]
+	dy = str(D)[6:]
+	print('{}: year = {}, month = {}, day = {}'.format(D, yr, mn, dy))
+
+Output:
+20170217: year = 2017, month = 02, day = 17
+20170101: year = 2017, month = 01, day = 01
+20160317: year = 2016, month = 03, day = 17
+19700119: year = 1970, month = 01, day = 19
+19680222: year = 1968, month = 02, day = 22
+19990417: year = 1999, month = 04, day = 17
+19960407: year = 1996, month = 04, day = 07
+20180211: year = 2018, month = 02, day = 11
+19480218: year = 1948, month = 02, day = 18

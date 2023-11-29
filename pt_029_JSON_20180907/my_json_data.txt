@@ -1,0 +1,1 @@
+{"nm": "Gregor", "lnm": "Redelonghi", "addr": "Valvasorjeva ulica 5", "twn": "1000 Ljubljana", "cntr": "Slovenia", "GSM": "040/88-55-60", "eml_1": "gredelonghi@gmail.com", "eml_2": "gregor.redelonghi@energetika.si", "insd": "20171026", "inst": "131000"}

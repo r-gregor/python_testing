@@ -1,0 +1,27 @@
+#! /usr/bin/env python3
+import os, sys
+import random
+os.system('clear')
+
+gr_NUM = random.randint(1, 15)
+
+gr_TRS = 0
+print("This is a guessing number game. Try to guess number in range from 1 to 15")
+gr_GUESS = int(input("Enter the number: __ "))
+
+gr_TRS +=1
+if gr_GUESS == gr_NUM:
+    print("Hooray! You guessed it in just 1 try!")
+    sys.exit()
+while not gr_GUESS == gr_NUM:
+    if gr_GUESS < gr_NUM:
+        gr_GUESS = int(input("Too low, try again: __ "))
+        gr_TRS += 1
+    elif gr_GUESS > gr_NUM:
+        gr_GUESS = int(input("Too high , try again: __ "))
+        gr_TRS += 1
+
+print()
+print("You finally guesed it!")
+print("The right number is " + str(gr_NUM) + ". You've managed it in", gr_TRS, "tryouts")
+

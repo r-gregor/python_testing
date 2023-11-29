@@ -1,0 +1,25 @@
+#! /usr/bin/env python3
+import os, sys
+os.system('clear')
+
+print("This is program that determines if the integer is prime or not")
+
+def gr_GET_N():
+    return int(input("Enter the positive integer number: __ "))
+
+gr_INT = gr_GET_N()
+
+print()
+for i in range(1, gr_INT):
+    if gr_INT == 1:
+        print(gr_INT, "IS A PRIME")
+        sys.exit()
+    
+    if i == 1: continue
+
+    if gr_INT % i == 0:
+        print(i, "Is divizor. So no prime number.")
+        sys.exit()
+
+print(gr_INT, "IS A PRIME!")
+

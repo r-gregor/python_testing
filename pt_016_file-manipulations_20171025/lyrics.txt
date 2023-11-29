@@ -1,0 +1,265 @@
+Analyzing Song Lyrics
+
+I was reading about the history of The Beatles a few days ago and bumped into an interesting fact. According to the author, The Beatles used the word "love" in their songs more than 160 times. At first I thought, "cool", but the more I thought about it, the more I became skeptical about the figure. In fact, I suspect that the word "love" shows up considerably more than 160 times.
+
+And, this leads to the question: how do you actually figure out something like that? The answer, of course, is with a shell script! So let's jump in, shall we?
+
+Download Lyrics by Artist
+
+The first challenge, and really most of the work, is figuring out where to download the lyrics for every song by an artist, performer or band. There are lots of online archives, but are they complete?
+
+One source is MLDb, the Music Lyrics Database (modeled after the Internet Movie Database, one presumes). An easy test is this: how many songs does the site list for The Beatles?
+
+Working backward from an interactive session in a web browser, an artist search for "the beatles" produces eight pages of matches, 30 matches per page. That's 240 songs. Wikipedia says that there are 237 original compositions for the band, and BeatlesBible.com shows 302 original songs. Confusing!
+
+Of course, some of the songs recorded by The Beatles didn't have lyrics. For example, on the Magical Mystery Tour album, there's a track called "Flying". Given that Paul McCartney and John Lennon were such brilliant lyricists, however, the vast, vast majority of songs recorded have at least some lyrics—even "The End".
+
+So let's go with MLDb and trust that its 240 songs are close enough for this task. Now the challenge is to get a list of all the songs, and then to download the lyrics for each and every song that matches.
+
+Fortunately, that can be done by reverse-engineering the search URLs. The second page of results for an exact-phrase artist search for "the beatles" sorted by rating produces this particular URL: http://www.mldb.org/search?mq=the+beatles&mm=2&si=1&ob=2&from=30.
+
+You can experimentally verify that this produces the second page of results, but hey, let's just run with it! Since the second page has a "from=30", you can conclude that there are 30 entries per page (as mentioned earlier) and that from=60 gets page three, from=90 page four, and so on.
+
+Each page can be downloaded in HTML form using GET or curl, with my preference being to use the latter—it's more sophisticated and has oodles of options. A quick glance shows that "Yellow Submarine" shows up on the first page, so here's a quick test, with url set to the value shown above:
+
+
+$ curl -s "$url" | grep "Yellow Submarine"
+<table id="thelist"
+cellspacing="0"><tr><th>Artist(s)</th><th>Song</th>
+<th width="20">Rating</th></tr><tr class="h"><td
+class="fa"><a
+href='artist-39-the-beatles.html'>The Beatles</a></td><td
+class="ft"><a
+href="song-32476-i-am-the-walrus.html">I Am The Walrus</a></td><td
+align="right">6</td></tr><tr class="n"><td class="fa"><a
+href='artist-39-the-beatles.html'>The Beatles</a></td><td
+class="ft"><a
+href="song-32461-yellow-submarine.html">Yellow Submarine</a></td><td
+align="right">6</td></tr><tr class="h"><td class="fa"><a
+href='artist-39-the-beatles.html'>The Beatles</a></td><td
+class="ft"><a
+href="song-32585-day-tripper.h...
+
+It turns out that the entire table of lyrics is a single line of HTML. That's a drag, but easily managed. Notice above that the href link to the individual song is of the form:
+
+
+<a href="song-32461-yellow-submarine.html">Yellow Submarine</a>
+
+That's the pattern I'm going to seek out in the raw HTML, noting that the links to the artist have a single quote, but the links to the lyrics are using double quotes:
+
+
+curl -s "$url" | grep "Yellow Submarine" | sed 's/</\
+</g' | grep 'href="song-'
+
+Notice the sed pattern above. I'm replacing every < with a carriage return followed by the < so that the net effect is that I unwrap the HTML source neatly and then can use grep to isolate the matching lines and exclude everything else.
+
+That line alone gets the following:
+
+
+<a href="song-32476-i-am-the-walrus.html">I Am The Walrus
+<a href="song-32461-yellow-submarine.html">Yellow Submarine
+<a href="song-32585-day-tripper.html">Day Tripper
+<a href="song-32520-come-together.html">Come Together
+. . . lots of lines removed for clarity . . .
+<a href="song-32395-a-hard-day-s-night.html">A Hard Day's Night
+<a href="song-32571-i-want-to-hold-your-hand.html">I Want To Hold
+ Your Hand
+<a href="song-32527-here-comes-the-sun.html">Here Comes The Sun
+<a href="song-32609-i-saw-her-standing-there.html">I Saw Her Standing
+ There
+
+Nice. Now how about turning each into a curl page query? Well, hold on! Let's first figure out how to get the full list of every song—that is, how to go from page to page. To do that, the URL already shown has the clue: from=XX for each subsequent page.
+
+Another quick test shows what happens if you specify a URL that is beyond the last song listed: no matches are returned. That's easy to deal with because wc -l will return a zero in that instance.
+
+Put the pieces together, and here's a loop that will get as many matches as possible until there's a zero result:
+
+
+url="http://www.mldb.org/search?mq=the+beatles&mm=2&si=1&ob=2"
+output="lyrics-page." # you can put these in /tmp
+start=0   # increment by 30, first page starts at zero
+  max=600 # more than 20 pages of matches = artificial stop
+
+while [ $start -lt $max ]
+do
+  curl -s "$url&from=$start" | sed 's/</\
+</g' | grep 'href="song-' > $output$start
+  if [ $(wc -l < $output$start) -eq 0 ] ; then
+    # zero results page. let's stop, but let's remove it first
+    echo "hit a zero results page with start = $start"
+    rm "$output$start"
+    break
+  fi
+  start=$(( $start + 30 ))      # increment by 30
+done
+
+I'll explain what's going on in the code momentarily, but let's just see what it does and then use an ls invocation to double-check it created non-zero output files:
+
+
+$ sh getsongs.sh
+hit a zero results page with start = 240
+$ ls -s lyrics-page*
+8 lyrics-page.0      8 lyrics-page.180    8 lyrics-page.60
+8 lyrics-page.120    8 lyrics-page.210    8 lyrics-page.90
+8 lyrics-page.150    8 lyrics-page.30
+
+Perfect. I expected eight pages of songs, and that's what the script produced. Each has the same format as the output listed earlier, so it's now a matter of converting the href= format into an invocation to curl to get that particular page of lyrics. Since I'm already running out of space, however, I'm going to defer that part of the script until my next article.
+
+Meanwhile, notice how start is incremented by 30 with the $(( )) notation for calculations (you could use expr, but it's faster to stay in the shell and not spawn a subshell for the math). Also, the test to identify an empty output file should be easy for you to understand:
+
+
+if [ $(wc -l < $output$start) -eq 0 ]
+
+There is a nuance to catch here, however: the $( ) notation gets you a sub-shell akin to using backticks, while the $(( )) notation allows you to do rudimentary calculations within the Bash shell itself.
+
+I'll expand on all of this in my next article. See ya then!
+
+Analyzing Song Lyrics
+
+I was reading about the history of The Beatles a few days ago and bumped into an interesting fact. According
+to the author, The Beatles used the word "love" in their songs more than 160 times. At first I thought,
+"cool", but the more I thought about it, the more I became skeptical about the figure. In fact, I suspect
+that the word "love" shows up considerably more than 160 times.
+
+And, this leads to the question: how do you actually figure out something like that? The answer, of
+course, is with a shell script! So let's jump in, shall we?
+
+Download Lyrics by Artist
+
+The first challenge, and really most of the work, is figuring out where to download the lyrics for every
+song by an artist, performer or band. There are lots of online archives, but are they complete?
+
+One source is MLDb, the Music Lyrics Database (modeled after the Internet Movie Database, one presumes). An
+easy test is this: how many songs does the site list for The Beatles?
+
+Working backward from an interactive session in a web browser, an artist search for "the beatles"
+produces eight pages of matches, 30 matches per page. That's 240 songs. Wikipedia says that there are
+237 original compositions for the band, and BeatlesBible.com shows 302 original songs. Confusing!
+
+Of course, some of the songs recorded by The Beatles didn't have lyrics. For example, on the Magical
+Mystery Tour album, there's a track called "Flying". Given that Paul McCartney and John Lennon were such
+brilliant lyricists, however, the vast, vast majority of songs recorded have at least some lyrics—even
+"The End".
+
+So let's go with MLDb and trust that its 240 songs are close enough for this task. Now the challenge is
+to get a list of all the songs, and then to download the lyrics for each and every song that matches.
+
+Fortunately, that can be done by reverse-engineering the search URLs. The second page of results
+for an exact-phrase artist search for "the beatles" sorted by rating produces this particular URL:
+http://www.mldb.org/search?mq=the+beatles&mm=2&si=1&ob=2&from=30.
+
+You can experimentally verify that this produces the second page of results, but hey, let's just run
+with it! Since the second page has a "from=30", you can conclude that there are 30 entries per page
+(as mentioned earlier) and that from=60 gets page three, from=90 page four, and so on.
+
+Each page can be downloaded in HTML form using GET or curl, with my preference being to use the latter—it's
+more sophisticated and has oodles of options. A quick glance shows that "Yellow Submarine" shows up on
+the first page, so here's a quick test, with url set to the value shown above:
+
+
+$ curl -s "$url" | grep "Yellow Submarine"
+<table id="thelist"
+cellspacing="0"><tr><th>Artist(s)</th><th>Song</th>
+<th width="20">Rating</th></tr><tr class="h"><td
+class="fa"><a
+href='artist-39-the-beatles.html'>The Beatles</a></td><td
+class="ft"><a
+href="song-32476-i-am-the-walrus.html">I Am The Walrus</a></td><td
+align="right">6</td></tr><tr class="n"><td class="fa"><a
+href='artist-39-the-beatles.html'>The Beatles</a></td><td
+class="ft"><a
+href="song-32461-yellow-submarine.html">Yellow Submarine</a></td><td
+align="right">6</td></tr><tr class="h"><td class="fa"><a
+href='artist-39-the-beatles.html'>The Beatles</a></td><td
+class="ft"><a
+href="song-32585-day-tripper.h...
+
+It turns out that the entire table of lyrics is a single line of HTML. That's a drag, but easily
+managed. Notice above that the href link to the individual song is of the form:
+
+
+<a href="song-32461-yellow-submarine.html">Yellow Submarine</a>
+
+That's the pattern I'm going to seek out in the raw HTML, noting that the links to the artist have a
+single quote, but the links to the lyrics are using double quotes:
+
+
+curl -s "$url" | grep "Yellow Submarine" | sed 's/</\
+</g' | grep 'href="song-'
+
+Notice the sed pattern above. I'm replacing every < with a carriage return followed by the < so that the
+net effect is that I unwrap the HTML source neatly and then can use grep to isolate the matching lines
+and exclude everything else.
+
+That line alone gets the following:
+
+
+<a href="song-32476-i-am-the-walrus.html">I Am The Walrus
+<a href="song-32461-yellow-submarine.html">Yellow Submarine
+<a href="song-32585-day-tripper.html">Day Tripper
+<a href="song-32520-come-together.html">Come Together
+. . . lots of lines removed for clarity . . .
+<a href="song-32395-a-hard-day-s-night.html">A Hard Day's Night
+<a href="song-32571-i-want-to-hold-your-hand.html">I Want To Hold
+ Your Hand
+<a href="song-32527-here-comes-the-sun.html">Here Comes The Sun
+<a href="song-32609-i-saw-her-standing-there.html">I Saw Her Standing
+ There
+
+Nice. Now how about turning each into a curl page query? Well, hold on! Let's first figure out how to
+get the full list of every song—that is, how to go from page to page. To do that, the URL already
+shown has the clue: from=XX for each subsequent page.
+
+Another quick test shows what happens if you specify a URL that is beyond the last song listed: no
+matches are returned. That's easy to deal with because wc -l will return a zero in that instance.
+
+Put the pieces together, and here's a loop that will get as many matches as possible until there's a
+zero result:
+
+
+url="http://www.mldb.org/search?mq=the+beatles&mm=2&si=1&ob=2"
+output="lyrics-page." # you can put these in /tmp
+start=0   # increment by 30, first page starts at zero
+  max=600 # more than 20 pages of matches = artificial stop
+
+while [ $start -lt $max ]
+do
+  curl -s "$url&from=$start" | sed 's/</\
+</g' | grep 'href="song-' > $output$start
+  if [ $(wc -l < $output$start) -eq 0 ] ; then
+    # zero results page. let's stop, but let's remove it first
+    echo "hit a zero results page with start = $start"
+    rm "$output$start"
+    break
+  fi
+  start=$(( $start + 30 ))      # increment by 30
+done
+
+I'll explain what's going on in the code momentarily, but let's just see what it does and then use an
+ls invocation to double-check it created non-zero output files:
+
+
+$ sh getsongs.sh
+hit a zero results page with start = 240
+$ ls -s lyrics-page*
+8 lyrics-page.0      8 lyrics-page.180    8 lyrics-page.60
+8 lyrics-page.120    8 lyrics-page.210    8 lyrics-page.90
+8 lyrics-page.150    8 lyrics-page.30
+
+Perfect. I expected eight pages of songs, and that's what the script produced. Each has the same format
+as the output listed earlier, so it's now a matter of converting the href= format into an invocation to
+curl to get that particular page of lyrics. Since I'm already running out of space, however, I'm going
+to defer that part of the script until my next article.
+
+Meanwhile, notice how start is incremented by 30 with the $(( )) notation for calculations (you could
+use expr, but it's faster to stay in the shell and not spawn a subshell for the math). Also, the test
+to identify an empty output file should be easy for you to understand:
+
+
+if [ $(wc -l < $output$start) -eq 0 ]
+
+There is a nuance to catch here, however: the $( ) notation gets you a sub-shell akin to using backticks,
+while the $(( )) notation allows you to do rudimentary calculations within the Bash shell itself.
+
+I'll expand on all of this in my next article. See ya then!
+

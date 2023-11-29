@@ -1,0 +1,32 @@
+C:\Users\gregor.redelonghi\BRISI\pn1000_predpone_20211118>FOR %N IN (1000,1000000,1000000000,1000000000000,1000000000000000) DO (py predpone2.py %N)
+
+C:\Users\gregor.redelonghi\BRISI\pn1000_predpone_20211118>(py predpone2.py 1000 )
+Number: 1000.0
+Result: 1.00K (Kilo)
+---
+
+C:\Users\gregor.redelonghi\BRISI\pn1000_predpone_20211118>(py predpone2.py 1000000 )
+Number: 1000000.0
+Result: 1.00M (Mega)
+---
+
+C:\Users\gregor.redelonghi\BRISI\pn1000_predpone_20211118>(py predpone2.py 1000000000 )
+Number: 1000000000.0
+Result: 1.00G (Giga)
+---
+
+C:\Users\gregor.redelonghi\BRISI\pn1000_predpone_20211118>(py predpone2.py 1000000000000 )
+Number: 1000000000000.0
+Result: 1.00T (Tera)
+---
+
+C:\Users\gregor.redelonghi\BRISI\pn1000_predpone_20211118>(py predpone2.py 1000000000000000 )
+Number: 1000000000000000.0
+Result: 1.00P (Peta)
+---
+
+C:\Users\gregor.redelonghi\BRISI\pn1000_predpone_20211118>
+
+
+C:\Users\gregor.redelonghi\BRISI\pn1000_predpone_20211118>C:/Users/gregor.redelonghi/AppData/Local/Programs/Python/Python39/python.exe c:/Users/gregor.redelonghi/majstaf/BRISI/pn1000_predpone_20211118/predpone3.py 12355500000000000000000000   
+Result: 12.36Y (Yotta)

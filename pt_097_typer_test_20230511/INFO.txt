@@ -1,0 +1,6 @@
+https://typer.tiangolo.com/
+
+Try Typer - A CLI framework by the creator of FastAPI
+https://www.youtube.com/watch?v=vnDNoBn1Jf4
+---
+

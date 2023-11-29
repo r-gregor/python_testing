@@ -1,0 +1,13 @@
+Judoka: Gregor Redelonghi
+Age : 49
+Rank: black
+Club: JK Šiška
+-----------------------------------------------------
+Judoka                   Age  Rank           Club
+-----------------------------------------------------
+Gregor Redelonghi        49   black          JK Šiška
+Gregor Rankel            28   black (DAN 3)  JK Šiška
+Anja Dobovšek            32   black (DAN 4)  JK Šiška
+-----------------------------------------------------
+
+--- 

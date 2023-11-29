@@ -1,0 +1,46 @@
+-----------------------------------------
+$> ls -1dF ../* | python test.py
+Line 1 is:  ../20160506_test/
+Line 2 is:  ../20160616_beri/
+Line 3 is:  ../20161013_mymath/
+Line 4 is:  ../20161013_path/
+Line 5 is:  ../20161014_copying/
+Line 6 is:  ../20161020_rsync-backup/
+Line 7 is:  ../20161025/
+Line 8 is:  ../LEARN-PYTHON-HARD-WAY/
+Line 9 is:  ../09052016_test.py*
+Line 10 is:  ../check.py*
+Line 11 is:  ../dat-1.txt
+Line 12 is:  ../datoteka.2.txt
+Line 13 is:  ../datoteka.3.txt
+Line 14 is:  ../datoteka.4.txt
+Line 15 is:  ../datoteka.txt
+Line 16 is:  ../dict-test.py*
+Line 17 is:  ../tabela.py*
+
+-----------------------------------------
+$> ls -1dF ./* | python test.py
+Line 1 is:  ./_command-s.txt
+Line 2 is:  ./prg.py
+Line 3 is:  ./test.py
+
+-----------------------------------------
+
+
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+
+-----------------------------------------
