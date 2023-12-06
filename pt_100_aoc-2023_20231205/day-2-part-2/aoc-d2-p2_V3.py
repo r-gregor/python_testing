@@ -4,8 +4,8 @@
 cbs_in_bag = {'red':12, 'green':13, 'blue':14}
 
 lines = ['']
-fname = 'games_test.txt'
-# fname = 'input'
+# fname = 'games_test.txt'
+fname = 'input'
 games = ['']
 reveals = []
 reveals2 = [[{'blank':0}]]
@@ -47,7 +47,6 @@ if __name__ == "__main__":
 
     gindex = 1
     for game in reveals2[1:]:
-        print(f"game-{gindex}  : {game}")
         greens = []
         reds = []
         blues = []
@@ -60,8 +59,7 @@ if __name__ == "__main__":
                 blues.append(el['blue'])
         elsum = max(greens) * max(reds) * max(blues)
         games_sum += elsum
-        print(f"game-{gindex}  : greens: {greens} | reds: {reds} | blues: {blues}")
-        print(f"maximums: greens: {max(greens)} | reds: {max(reds)} | blues: {max(blues)}")
+        print(f"game-{gindex} maximums: greens: {max(greens)} | reds: {max(reds)} | blues: {max(blues)}")
 
         print("---")
         gindex += 1
