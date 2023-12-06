@@ -1,7 +1,8 @@
 #! /usr/bin/env python3
 
 # string = "onetwo6sevenineight3four"
-string = "onetwo6drgttsevenineightiqhpfc3four"
+# string = "onetwo6drgttsevenineightiqhpfc3four"
+string = "2onethree6twodrgttsevenineightiqhpfc3four"
 word_nums = ['zero','one','two','three','four','five','six','seven','eight','nine']
 nums = []
 
