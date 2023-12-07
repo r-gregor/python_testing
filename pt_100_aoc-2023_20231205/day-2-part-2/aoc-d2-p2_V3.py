@@ -26,10 +26,12 @@ if __name__ == "__main__":
     for line in lines[1:]:
         line = line.replace(", ", "|").replace("; ", "|")
         games.append(line.split(": ")[1])
+    lines.clear()
 
     for game in games:
         reveals.append(game.split("|"))
     # print(reveals)
+    games.clear()
 
     rindex = 1
     for reveal in reveals[1:]:
@@ -42,8 +44,8 @@ if __name__ == "__main__":
             pick = {k:v}
             reveals2[rindex].append(pick)
         rindex += 1
-
     # print(reveals2)
+    reveals.clear()
 
     gindex = 1
     for game in reveals2[1:]:
