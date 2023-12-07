@@ -15,57 +15,57 @@ games_ok = []
 
 # MAIN ------------------------------------------------------------------
 if __name__ == "__main__":
-    with open(fname, 'r') as f:
-        for line in f.readlines():
-            lines.append(line.strip())
+	with open(fname, 'r') as f:
+		for line in f.readlines():
+			lines.append(line.strip())
 
-    # test
-    # print(lines)
-    # print("3-rd game:", lines[3])
+	# test
+	# print(lines)
+	# print("3-rd game:", lines[3])
 
-    for line in lines[1:]:
-        line = line.replace(", ", "|").replace("; ", "|")
-        games.append(line.split(": ")[1])
-    lines.clear()
+	for line in lines[1:]:
+		line = line.replace(", ", "|").replace("; ", "|")
+		games.append(line.split(": ")[1])
+	lines.clear()
 
-    for game in games:
-        reveals.append(game.split("|"))
-    # print(reveals)
-    games.clear()
+	for game in games:
+		reveals.append(game.split("|"))
+	# print(reveals)
+	games.clear()
 
-    rindex = 1
-    for reveal in reveals[1:]:
-        reveals2.append([])
-        for el in reveal:
-            el_dels = el.split(", ")[0]
-            kvs = el_dels.split(" ")
-            k = kvs[1]
-            v = int(kvs[0])
-            pick = {k:v}
-            reveals2[rindex].append(pick)
-        rindex += 1
-    # print(reveals2)
-    reveals.clear()
+	rindex = 1
+	for reveal in reveals[1:]:
+		reveals2.append([])
+		for el in reveal:
+			el_dels = el.split(", ")[0]
+			kvs = el_dels.split(" ")
+			k = kvs[1]
+			v = int(kvs[0])
+			pick = {k:v}
+			reveals2[rindex].append(pick)
+		rindex += 1
+	# print(reveals2)
+	reveals.clear()
 
-    gindex = 1
-    for game in reveals2[1:]:
-        greens = []
-        reds = []
-        blues = []
-        for el in game:
-            if list(el.keys())[0] == 'green':
-                greens.append(el['green'])
-            if list(el.keys())[0] == 'red':
-                reds.append(el['red'])
-            if list(el.keys())[0] == 'blue':
-                blues.append(el['blue'])
-        elsum = max(greens) * max(reds) * max(blues)
-        games_sum += elsum
-        print(f"game-{gindex} maximums: greens: {max(greens)} | reds: {max(reds)} | blues: {max(blues)}")
+	gindex = 1
+	for game in reveals2[1:]:
+		greens = []
+		reds = []
+		blues = []
+		for el in game:
+			if list(el.keys())[0] == 'green':
+				greens.append(el['green'])
+			if list(el.keys())[0] == 'red':
+				reds.append(el['red'])
+			if list(el.keys())[0] == 'blue':
+				blues.append(el['blue'])
+		elsum = max(greens) * max(reds) * max(blues)
+		games_sum += elsum
+		print(f"game-{gindex} maximums: greens: {max(greens)} | reds: {max(reds)} | blues: {max(blues)}")
 
-        print("---")
-        gindex += 1
+		print("---")
+		gindex += 1
 
 
-    print(games_sum)
+	print(games_sum)
 
