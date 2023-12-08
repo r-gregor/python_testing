@@ -20,7 +20,6 @@ def get_nums_from_string(string):
 			word += char
 			# print("string:", string)
 			# print("word:", word)
-			
 
 			if word.isdigit():
 				nums.append(int(word))
@@ -35,7 +34,6 @@ def get_nums_from_string(string):
 				continue # only executed if the inner loop did NOT break
 			break		 # only executed if the inner loop DID break
 
-
 		size -= 1
 		word = ""
 	return nums
@@ -45,7 +43,7 @@ def first_and_last_num(nums):
 	return num_digits
 
 
-
+# MAIN -------------------------------------------
 if __name__ == "__main__":
 	nums = get_nums_from_string(string)
 	print("string:", string)
