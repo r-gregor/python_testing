@@ -4,7 +4,7 @@
 # substring_recursive_test_v4.py
 # 20231208_04 (en)
 
-string = "onetllthreee  eee4sevenineig htcoolsix5four8 five"
+string = "onetllthreee  enulee4sevenineig htzerocoolsix5four8 five"
 word_nums = ["zero", "one", "two",  "three", "four", "five", "six", "seven", "eight", "nine"]
 nums = []
 
