@@ -9,7 +9,7 @@ def get_num_from_string_rec(string, nums):
 	result=""
 	for sub in string:
 		if sub == " ":
-			break
+			continue
 
 		result += sub
 		for wnum in word_nums:
