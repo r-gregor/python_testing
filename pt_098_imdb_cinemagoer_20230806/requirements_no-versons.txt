@@ -1,5 +1,0 @@
-cinemagoer
-greenlet
-lxml
-SQLAlchemy
-typing_extensions
