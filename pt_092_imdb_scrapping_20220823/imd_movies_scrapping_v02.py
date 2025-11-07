@@ -8,6 +8,8 @@ html = response.text
 soup = BeautifulSoup(html, 'html.parser')
 movietags = soup.select('td.titleColumn')
 
+print(f"linesnum: {len(movietags)}" )
+
 def main():
 	numOfTitles = int(input("Enter the number of titles to be displayed: "))
 	print_movie_info(numOfTitles)
